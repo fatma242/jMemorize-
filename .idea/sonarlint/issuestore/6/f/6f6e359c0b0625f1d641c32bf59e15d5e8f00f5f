@@ -1,0 +1,25 @@
+
+j
+java:S1604­"(Make this anonymous inner class a lambda(ñÏ‚úÿÿÿÿJ$0121de8d-2801-428b-97a6-8bca0bed79fd
+j
+java:S1604µ"(Make this anonymous inner class a lambda(†ÇğõûÿÿÿÿJ$1ea119d3-99b5-442d-8190-2ac671607a44
+j
+java:S1604½"(Make this anonymous inner class a lambda(ú‚ÍøùÿÿÿÿJ$41e09001-98be-47ba-afdf-361c50c50010
+e
+java:S1604ã"(Make this anonymous inner class a lambda(‹¦øJ$029e5ae6-c51f-489c-95c0-85b10d2a5bd3
+—	java:S116<"WRename this field "m_okayButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›‚ÛˆıÿÿÿÿJ$0e7fb007-eb9c-4c4e-88eb-b72914d6ab60
+—	java:S116="WRename this field "m_moreButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±•à³üÿÿÿÿJ$57b625ab-5e12-4006-b483-adc320dff563
+—	java:S116>"WRename this field "m_copyButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¯“úÿÿÿÿJ$7baed19e-350f-406e-8584-93c416bd268c
+‘	java:S116@"VRename this field "m_exception" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€õ–—J$1b269b99-70bc-47f4-a72c-57d180105981
+–	java:S116A"[Rename this field "m_stacktraceArea" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ ºèJ$406838c5-432a-4c1e-9f9e-bd91c2bec710
+’	java:S116B"WRename this field "m_scrollPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ã–ûJ$9a17477d-2a77-4a6a-9b1c-ac3028b4e2ee
+	java:S116C"URename this field "m_extended" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¥–¿J$40c68691-0535-4b59-9c39-0b0b34c9a3b9
+	java:S116E"TRename this field "m_message" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÆÀÉJ$ca7f2603-7446-4f0b-b752-6aacff84ec44
+–	java:S116F"VRename this field "m_debugText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º±ºùÿÿÿÿJ$c380e1ac-d58c-4821-842f-dcbd28d0110f
+˜	java:S116G"]Rename this field "m_placeholderPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìàë½J$dc469c30-6fe5-445e-a477-7a7450e5cc9d
+œ
+java:S1450>"[Remove the "m_copyButton" field and declare it as a local variable in the relevant methods.(û¯“úÿÿÿÿJ$cd8a5082-4216-477e-addc-ffd131f823c1
+œ
+java:S1450<"[Remove the "m_okayButton" field and declare it as a local variable in the relevant methods.(›‚ÛˆıÿÿÿÿJ$3e498b10-29fa-41d1-bcbe-881353d73e68
+›
+java:S1450A"_Remove the "m_stacktraceArea" field and declare it as a local variable in the relevant methods.(¬ ºèJ$f87025f4-470c-4044-a93e-a9701b72bc0d

@@ -1,0 +1,12 @@
+
+š
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(áƒéûÿÿÿÿJ$f54371b3-eb9c-4982-a750-e94d7278019e
+•	java:S135Ë"YReduce the total number of break and continue statements in this loop to use at most one.( ñ äJ$a9061945-d164-4c46-8939-fc4d2ce6daf0
+v
+java:S1118,":Add a private constructor to hide the implicit public one.(¿ìÅJ$d89bf0d8-b7af-4c84-b10a-84b9661128c7
+
+java:S3776p"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¾£ËJ$e2853805-d3a1-4d0c-94c7-a63760666de6
+‚
+java:S2147¶"ECombine this catch with the one at line 178, which has the same body.(şª¬¥J$f26c6d28-e6aa-4fde-b6ed-ded93121a932
+t
+java:S1905›"+Remove this unnecessary cast to "Category".(ä°Ü˜øÿÿÿÿ8é§Ûåğ1J$075b6cf1-ccd3-4757-8644-eddbcc5166db

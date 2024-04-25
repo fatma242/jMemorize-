@@ -1,0 +1,15 @@
+
+•
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì÷ñÉJ$0f5ae12a-e1fd-4479-8bd5-30a29713bdb6
+š
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(£–šüÿÿÿÿJ$579f814e-30df-4c3e-913b-db41036924d0
+•	java:S116("URename this field "m_maxItems" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£œ‡†ûÿÿÿÿJ$1c9eb777-6468-43cf-b8ff-f74f0479ef3f
+	java:S116)"URename this field "m_prefNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îã¤´J$a249eded-db5f-47e5-811b-6a54b1e30b48
+	java:S116+"RRename this field "m_items" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì÷ñÉJ$42733741-bf96-4327-afce-1265e457d31a
+–	java:S116,"VRename this field "m_observers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£–šüÿÿÿÿJ$60acc212-88ec-4758-a35d-343b50b9821c
+
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(Øÿ€ºJ$3749472b-11aa-4a8f-96f8-f96a7f13ed3d
+j
+java:S1905K")Remove this unnecessary cast to "String".(ãÁæıÿÿÿÿÿJ$7264a952-8ee0-4d16-bb4b-773c6b263d54
+k
+java:S1905„")Remove this unnecessary cast to "String".(Ûè€™øÿÿÿÿJ$d5683584-beef-4fd0-96bf-08c2d4e8c389

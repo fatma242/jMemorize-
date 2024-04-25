@@ -1,0 +1,9 @@
+
+™	java:S116+"^Rename this field "m_selectionProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ”›J$bb96fca9-6676-4dd3-9389-7db8152ffda1
+	java:S116,"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$2d20dff9-0bc7-4775-9dfa-8d15eeaaf652
+q
+java:S1948+"5Make "m_selectionProvider" transient or serializable.(ƒ”›J$b51c8f48-1d94-4ec7-9c90-0e73c1c32786
+h
+java:S1948,",Make "m_category" transient or serializable.(¯™øJ$5436ac4d-961d-4c4b-8b8a-7f14301e3b9f
+v
+java:S1161d":Add the "@Override" annotation above this method signature(ÿ†Û¤J$deaeccfa-5157-4dc7-bc73-36d69bf1b5d6

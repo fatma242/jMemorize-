@@ -1,0 +1,26 @@
+
+‡
+java:S2184""FCast one of the operands of this multiplication operation to a "long".(ºÅêøÿÿÿÿJ$27a1c609-16f6-427a-846c-9d161151ee05
+	java:S116%"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$7d51cb0c-aec9-4ed8-9841-c7c35a65b318
+’	java:S116&"RRename this field "m_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡ú®úÿÿÿÿJ$e327820f-1eab-4802-b3ac-e5d085f23ea9
+‘	java:S116)"VRename this field "m_frontSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ•ºóJ$f3bf75f3-3455-4501-a65c-c04307b02fba
+•	java:S116*"URename this field "m_backSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‹³—øÿÿÿÿJ$351f1466-c368-44ff-a63c-7d03002b69d0
+—	java:S116-"WRename this field "m_dateTested" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸæÇèøÿÿÿÿJ$3c3bf49d-dbf2-46d1-93af-7efe0a1433ec
+˜	java:S116."XRename this field "m_dateExpired" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡˜¤üÿÿÿÿJ$4f5f8b50-b6c7-442c-8bf7-75cdd7e93b7a
+’	java:S116/"XRename this field "m_dateCreated" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßô¬EJ$16abbc17-41bc-4ce7-8719-f56cd305630f
+™	java:S1160"YRename this field "m_dateModified" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úãĞØşÿÿÿÿJ$d81307ff-54f2-49b5-a08a-24399fc3c1d7
+“	java:S1161"XRename this field "m_dateTouched" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ê€ÕJ$84e9c17c-5f41-484c-b3b6-d81eefdda91f
+’	java:S1164"WRename this field "m_testsTotal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñĞûŠJ$5920c1f4-25f3-4d44-aec8-8967af3fe4b6
+	java:S1165"URename this field "m_testsHit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä„¨­J$faea3ab5-2de0-4e25-ad8f-41caf8ea8927
+˜	java:S1166"]Rename this field "m_frontHitsCorrect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©´ïîJ$d4744e86-8300-4d7d-bacd-2a6f5d7183ef
+œ	java:S1167"\Rename this field "m_backHitsCorrect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÎµ¿úÿÿÿÿJ$38cc4544-d6cf-4b39-8cb1-ce473d318984
+t
+java:S1135"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿJ$f9518f1b-a15b-4ed8-a885-60594cc1425f
+t
+java:S1135Ÿ"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿJ$8c244de0-8a7f-4649-84b1-9f1b5ff04e70
+{
+java:S1135¹"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿ8¢·øãğ1J$8a98bf10-7653-49c6-aa59-d5440716674b
+œ
+java:S2975Œ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ8Û·øãğ1J$9ee07c89-1ba7-452f-afc8-051ea0dcf424
+{
+java:S1135Ğ"2Complete the task associated to this TODO comment.(îÎÒ¶üÿÿÿÿ8í·øãğ1J$fc07cc10-7814-4b3f-8c22-e841679846b1

@@ -1,0 +1,102 @@
+
+–
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÍü•J$af1cc793-13b9-42de-9e23-960338c17da5
+–
+java:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÏ¡J$f9c6617a-fb8a-4dd5-ace4-e2815f214c9f
+–
+java:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(®âÏâJ$3919351a-73f0-4cbf-8c2b-f1b147e55317
+›
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨Œ¾äúÿÿÿÿJ$389a47a5-b0d2-44f2-ab7b-6e4027a7d345
+–
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ³ö›J$fe1354c1-97bf-47be-9660-c38dc8b0bf38
+–
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùó•¶J$4d6fa6c8-27f9-4658-88a1-c9c1fc2eb9a1
+•
+java:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(å³•J$2eece7ac-a66d-4115-81ab-d968056e4566
+–
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(«´ËàJ$924b634b-6cb6-4261-8b1a-6a22a06b2649
+–
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(şõ›êJ$23577aca-bad2-4f33-8456-7d5e62996840
+›
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¬©ÍıÿÿÿÿJ$e982476e-47b5-4fc6-840e-c3e24f779410
+›
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¬©ÍıÿÿÿÿJ$32858a02-b1d9-4f76-9e4c-5b8995f6f2c2
+›
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ä­èùÿÿÿÿJ$35eedfaf-3dad-4bb8-9b07-78f3ac1be28a
+›
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÕŸŒüÿÿÿÿJ$6b5df75a-4ebe-4803-8fdb-9a14e6a1e707
+–
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(£í‡”J$95d8eb16-f92c-4ea3-aa79-4ce7833dbc1c
+–
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(İúÚ¢J$b6d4203e-4279-4fbc-a93e-bd1f1f946d1e
+›
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(Šï¡üüÿÿÿÿJ$7ad702fc-11af-44b1-9043-3bf58a810d06
+›
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ¬æÓøÿÿÿÿJ$b01a1be0-d5c0-4093-9412-fa81466ad69c
+›
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾©“•ıÿÿÿÿJ$3373ece5-7fb7-4ac4-877d-a8ecbf69a3ab
+h
+java:S2629ú"$Invoke method(s) only conditionally.(àµÂÍ8·²¶åğ1J$d342e6e5-64b6-4c7d-8bf1-5dc4c6373236
+¥
+java:S2629Æ"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Æœ¢øÿÿÿÿÿ8¹²¶åğ1J$16e98758-571f-4916-9bda-fc75949ffb71
+¥
+java:S2629È"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(õ¿¥³şÿÿÿÿ8º²¶åğ1J$9417c700-5ee2-4bac-986c-a1bc86fcca1d
+ 
+java:S2629ô"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(÷¶©Ñ8º²¶åğ1J$1d90d0df-c4eb-49a9-9c3d-a7b4710ad325
+z
+java:S2589Ş"7Remove this expression which always evaluates to "true"(‹•“&8¬´¶åğ1J$e0c835e4-dabf-4920-b2d0-f9ffdb314160
+‘	java:S116Á"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$8a6460b9-fb69-4278-9c9e-fb2d5e61a79c
+š	java:S116Ä"YRename this field "m_rootCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÔ…µÿÿÿÿÿJ$0fe80d59-fe97-4f6f-8bb9-39d65603b220
+‘	java:S116Å"URename this field "m_settings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó»ãåJ$f658935d-bd2e-430b-b14f-1900d3c3757e
+‘	java:S116Æ"URename this field "m_provider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£àœ«J$6e4c1787-f1d0-4b05-83b3-ee4f0a8188d3
+	java:S116É"QRename this field "m_quit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÜ£€J$8de28056-4bea-4300-8d83-7a3e9ef51f1e
+˜	java:S116Ê"\Rename this field "m_learningStarted" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÄÔ¶J$50b90e52-bd0c-4089-82d6-89822f0abd67
+	java:S116Ë"\Rename this field "m_currentCardInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÛ¯öÿÿÿÿÿJ$7fae19d8-1335-4955-a8e1-9c814e469350
+™	java:S116Ğ"XRename this field "m_cardsActive" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´†¯îıÿÿÿÿJ$3bb737b5-9b67-4768-8f13-319cf472d2ed
+•	java:S116Ñ"YRename this field "m_cardsReserve" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ñ€üJ$6aa9dba9-1a28-41bb-9918-8df7c266d3ce
+•	java:S116Õ"YRename this field "m_cardsChecked" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÍü•J$4ca31426-c6d8-466e-9a66-4cde10bb91ac
+•	java:S116Ö"YRename this field "m_cardsLearned" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÏ¡J$13bf2f58-eaed-4f9e-91a3-22e2e8826fa1
+•	java:S116×"YRename this field "m_cardsInfoMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®âÏâJ$60a2db95-24e2-4525-a5f5-b9261af64871
+	java:S116æ"\Rename this field "m_cardsEverFailed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Œ¾äúÿÿÿÿJ$5756f56b-8a84-4a0f-a1d8-afc6f601b60c
+•	java:S116ç"YRename this field "m_cardsSkipped" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ³ö›J$6afa3090-eb48-46c5-9912-515f9bfed02d
+¤	java:S116ë"hRename this field "m_cardsActivePartiallyLearned" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùó•¶J$a4ebe9b4-7553-491f-ad48-f14e5da88344
+’	java:S116ò"QRename this field "m_rand" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ş¤ùùÿÿÿÿJ$4d0a0b4d-1429-4986-9ef6-0f8803eeb176
+•	java:S116ó"ZRename this field "m_cardObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å³•J$4c32fb59-b26b-48e0-b776-42163580e9ed
+“	java:S116õ"RRename this field "m_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ€¹ıÿÿÿÿJ$108f07bb-03cc-48d4-8ff3-123685d26f0f
+‘	java:S116ö"PRename this field "m_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä‡¤²ùÿÿÿÿJ$861fae13-4d84-4fdb-be40-55d9b1b725ab
+”	java:S116ø"SRename this field "m_logger" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Š’áıÿÿÿÿJ$eb2fba0d-3f6b-4de2-9c4e-cb38d67ce34a
+š	java:S116T"_Rename this field "m_categoryGroupOrder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÃ¹‘J$e6720779-dc81-4102-8078-b93e05b80f72
+|	java:S125"<This block of commented-out lines of code should be removed.(Š¯ÑâùÿÿÿÿJ$c08baa3c-219c-44f5-b6ab-247a03d0fcc9
+’	java:S116—"QRename this field "m_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘Ü‘şÿÿÿÿJ$78e6b03b-b8f0-42d0-b27a-a625b0fc9add
+“	java:S116"RRename this field "m_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡ú®úÿÿÿÿJ$fcd32250-1ddb-408b-9820-41404797f327
+
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(œÆÚ´J$81b753d9-c4a3-43ff-8597-1ba512e79ccf
+o
+java:S1135¬"2Complete the task associated to this TODO comment.(’¨ªëJ$fb98af16-3c35-4fd3-88d3-8f31cc740587
+
+java:S1155Ş">Use isEmpty() to check whether the collection is empty or not.(‹•“&8Ê´¶åğ1J$a4cae409-422b-40cc-b57a-0b78d360ef5f
+n
+java:S2175à"*A "Set<Card>" cannot contain a "CardInfo".(’²ÅÜ8Ì´¶åğ1J$02e3b861-e31b-4d7f-8b97-659037f0a9ee
+^	java:S131´""Add a default case to this switch.(Æø—ØJ$d06204ed-6f34-4bec-8b5b-58059d379c75
+t
+java:S1135Ú"2Complete the task associated to this TODO comment.(…Š·ÿÿÿÿÿJ$8c9eda04-d27f-4748-9e88-3dbf5754445d
+t
+java:S1135î"2Complete the task associated to this TODO comment.(‡ÍàúüÿÿÿÿJ$dab214e8-edd3-4efd-ab10-92a116b72d78
+‚
+java:S1155ø">Use isEmpty() to check whether the collection is empty or not.( Œ¨Ş8Ó´¶åğ1J$c0b77c19-2f4a-4b91-9fe1-df8d2e8e42de
+‚
+java:S1155ø">Use isEmpty() to check whether the collection is empty or not.( Œ¨Ş8Ó´¶åğ1J$544d3a55-3d43-4272-aaf5-79aea3fc4fa0
+‚
+java:S1155™">Use isEmpty() to check whether the collection is empty or not.(ÈÅï¬8Ô´¶åğ1J$38c69ded-165b-49ce-875f-23c3787d0bf2
+f
+java:S5413ª")Verify that "remove()" is used correctly.(—¹ôÛJ$2017e920-2387-45ce-af50-14845940f7bb
+^
+java:S2129ã"!Remove this "Integer" constructor(±ùŞJ$71873872-44a5-4d0e-a603-2f10195296de
+…
+java:S5738ã"HRemove this call to a deprecated method, it has been marked for removal.(±ùŞJ$8e40d735-e13e-4082-a285-bfe617fb6fd3
+^
+java:S2129æ"!Remove this "Integer" constructor(»üÈJ$39a6da9c-5b6f-4d5a-9da7-0fbaced0c7d5
+…
+java:S5738æ"HRemove this call to a deprecated method, it has been marked for removal.(»üÈJ$ed866f92-6b11-492c-b7cc-695827ba2207
+t
+java:S1135í"2Complete the task associated to this TODO comment.(™åá×ÿÿÿÿÿJ$c53b7eb5-9ae1-42f5-80ec-877a88f466ce

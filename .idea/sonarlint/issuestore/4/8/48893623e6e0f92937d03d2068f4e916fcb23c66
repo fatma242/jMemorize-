@@ -1,0 +1,23 @@
+
+’	java:S116."RRename this field "m_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¬þÿÿÿÿJ$fcc3b8ba-6743-4c2b-bae2-ecfe27c365f1
+‘	java:S116/"VRename this field "m_iconLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£í²×J$9cd4993d-45fd-40f0-ae7f-4cc7862af3e7
+•	java:S1161"URename this field "m_expanded" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÓ¤òþÿÿÿÿJ$78293d74-ee89-4ab9-a479-1bd2d5e267bb
+‘	java:S1162"QRename this field "m_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘Ü‘þÿÿÿÿJ$d15a16c8-e505-4e4d-ac49-0279a894c634
+™	java:S1164"YRename this field "m_expandedIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ó¢ðüÿÿÿÿJ$2164ab7d-f2db-424d-8da3-24d2bc58b92a
+•	java:S1165"ZRename this field "m_collapsedIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™‡ø‘J$3e461e90-0844-411c-9cac-07cf5d400d23
+i
+java:S19482"(Make "m_card" transient or serializable.(Ä‘Ü‘þÿÿÿÿJ$e6e33409-4ffa-4ae4-a667-8d276116b6f9
+q
+java:S19484"0Make "m_expandedIcon" transient or serializable.(€ó¢ðüÿÿÿÿJ$7cd8d360-10db-4b4a-8ba9-06b1600fa015
+m
+java:S19485"1Make "m_collapsedIcon" transient or serializable.(™‡ø‘J$bf3b7f7f-f72d-4d3b-8300-239980f16444
+›
+java:S1149g"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$2bcf81b5-9280-46c0-9d59-41dd29142631
+›
+java:S1149x"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ù¤šÕJ$de8ba0ec-d7dc-499a-85a2-54132a6dfff1
+œ
+java:S1149—"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$fdcea23b-aebb-4cf6-89ed-6c259100da39
+z
+java:S3252J">Use static access with "javax.swing.SwingConstants" for "TOP".(ÓÓÇ©J$7d03e4a4-289e-442a-8e74-e6406435b457
+v
+java:S1161U":Add the "@Override" annotation above this method signature(×ÅÎ¹J$e19d7760-84c7-4d3c-955c-1ba21cd9a437

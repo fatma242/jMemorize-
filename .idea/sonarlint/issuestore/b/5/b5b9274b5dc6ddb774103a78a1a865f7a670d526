@@ -1,0 +1,48 @@
+
+–
+java:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃæáJ$07c75b14-974c-489f-b21d-15c86ec3b926
+–
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ô£J$77f4357f-1e08-4e96-9e07-3ab59e6edd61
+–
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆğÜÒJ$595c4489-d3f4-4734-a469-efc84804001b
+–
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Àæ²›J$c51aa310-d9f8-4a67-9aa4-90fc6d2d72e4
+•	java:S135Ğ"YReduce the total number of break and continue statements in this loop to use at most one.(Ä©İ´J$c7df0229-209b-4d21-831d-829fa0868b2d
+•	java:S135Á"YReduce the total number of break and continue statements in this loop to use at most one.(¾ª†ÈJ$7f3ee371-8c70-4ba6-98b7-a2e797ea644d
+–
+java:S2095‡"MUse try-with-resources or close this "ZipOutputStream" in a "finally" clause.(‘ûçøÿÿÿÿ8Ö¿îåğ1J$39eee7b8-525a-4e93-aade-0fe95eb4b55c
+—
+java:S2095â"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(öşÄ¯úÿÿÿÿ8Ö¿îåğ1J$2eb601da-b2b4-4e16-99c4-feaca60de0fd
+
+java:S2095Ğ"LUse try-with-resources or close this "ZipInputStream" in a "finally" clause.(âå÷É8Ö¿îåğ1J$e986b932-27a9-4a64-845c-57e1116a8044
+w
+java:S2755"3Disable access to external entities in XML parsing.(Ò‹ñÙ8Û¿îåğ1J$cbe290eb-dc98-4a30-8d57-262c9533978a
+w
+java:S2755ã"3Disable access to external entities in XML parsing.(ğ¨ºî8Û¿îåğ1J$e2672931-48fc-4879-9f03-085f37b3a245
+{
+java:S2589¨"7Remove this expression which always evaluates to "true"(¡¿°Ô8Ü¿îåğ1J$f4a21cab-ab7e-40e5-a727-e0d714685a9e
+v
+java:S1118I":Add a private constructor to hide the implicit public one.(›‚üÔJ$84a1de8c-2331-4b27-b391-f4fd0fc379d4
+†
+java:S1124l"EReorder the modifiers to comply with the Java Language Specification.(ÅÚö÷ÿÿÿÿÿJ$a2c9eea2-6794-40b8-8395-83519b0a06a1
+}
+java:S1874š"9Remove this use of "writeLearnHistory"; it is deprecated.(ö¼˜È8îÀîåğ1J$f916e5b8-b8a4-4056-a5da-d196ef35e415
+
+java:S1874é"8Remove this use of "loadLearnHistory"; it is deprecated.(©÷¨¿ùÿÿÿÿ8÷Àîåğ1J$b29e8596-e7c2-42bb-a683-f710b88a5f62
+l
+java:S2093ñ"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿJ$edba8809-1479-45f2-84d4-95a9ab81bea0
+r
+java:S1133"5Do not forget to remove this deprecated code someday.(œûºÉJ$aaaeab26-d6e5-4713-a980-185302afabdd
+d
+java:S1123"'Add the missing @Deprecated annotation.(œûºÉJ$1bcbea88-ff28-4672-8c60-b45ee56e7d58
+w
+java:S1133²"5Do not forget to remove this deprecated code someday.(•ÓÀÿÿÿÿÿJ$3799ca0a-0f3f-4adb-bf46-14d3c04a7049
+i
+java:S1123²"'Add the missing @Deprecated annotation.(•ÓÀÿÿÿÿÿJ$43b38d9d-bc60-4d56-af3b-fd50347f68d3
+o
+java:S1135ß"2Complete the task associated to this TODO comment.(¿Ê½J$e2462868-c597-40cf-8566-af469ea22c16
+w	java:S899ö";Do something with the "boolean" value returned by "delete".(¿ ÛÜJ$ae995e54-2550-4b24-a959-bf7a2b2eabf8
+‹
+java:S4042ö"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¿ ÛÜJ$9e212056-1877-463d-ba49-3c490d2a2b4e
+j
+java:S1172Ù"-Remove this unused method parameter "father".(—ß¦ÄJ$1b791881-e8b2-4be1-8d60-3ce76f15941f

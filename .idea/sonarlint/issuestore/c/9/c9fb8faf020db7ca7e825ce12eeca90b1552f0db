@@ -1,0 +1,29 @@
+
+k
+java:S3740F"/Provide the parametrized type for this generic.(¨íûÁJ$83750907-af32-43a0-8065-c5ce129048d2
+k
+java:S3740F"/Provide the parametrized type for this generic.(¨íûÁJ$3dcaa3fb-fafc-4ff0-8c98-0edc0822c54d
+‰
+java:S1192¡"GDefine a constant instead of duplicating this literal "p:grow" 3 times.(è·××ûÿÿÿÿJ$f73168ae-be31-473d-9b1f-48ae48eea863
+j
+java:S1604…"(Make this anonymous inner class a lambda(ƒšš–ıÿÿÿÿJ$5f3bd1ad-35b9-400a-9a1a-2f7e5f969a5d
+j
+java:S1604Ô"(Make this anonymous inner class a lambda( ù‹±üÿÿÿÿJ$4512192f-2523-418f-8d0b-727ca3709606
+e
+java:S1604ã"(Make this anonymous inner class a lambda(™¬ŞÔJ$57d650ae-e588-45e9-b020-061b53ed099e
+e
+java:S1604ê"(Make this anonymous inner class a lambda(¹Ëš™J$d82023c9-c80b-4d00-9c76-04ead1619501
+	java:S116F"URename this field "m_sideList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨íûÁJ$c85023dd-7416-4ffd-8489-8f5238383967
+	java:S116H"URename this field "m_settings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó»ãåJ$a24a1875-d789-4c88-89d8-660f802e8352
+Œ	java:S116I"RRename this field "m_frame" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†è…
+J$783902b4-e83f-499f-b371-fde968482ab8
+ 	java:S116K"`Rename this field "m_learnSettingsPanels" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÙÃ§úÿÿÿÿJ$f7f35a63-6dda-49e2-a18a-2ac37d3755b5
+š	java:S116L"ZRename this field "m_settingsPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÜ½œøÿÿÿÿJ$fc35a27a-81e4-488f-8b1b-81743743c23a
+“	java:S116M"XRename this field "m_applyButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷–ºçJ$fe8f6b42-ff25-4e03-9362-d77b164d8c9c
+š	java:S116O"ZRename this field "m_selectedCards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²º¢…ÿÿÿÿÿJ$895b040f-59f4-441d-87f7-3d230dc84e62
+h
+java:S1948H",Make "m_settings" transient or serializable.(ó»ãåJ$57a7ccf7-d030-4122-8f0d-6defc4ca8539
+x
+java:S1948K"7Make "m_learnSettingsPanels" transient or serializable.(´ÙÃ§úÿÿÿÿJ$a30976dd-cae3-4876-8d1b-5ae14057c484
+r
+java:S1948O"1Make "m_selectedCards" transient or serializable.(²º¢…ÿÿÿÿÿJ$af1f908e-6b7a-4760-ba3a-2596cec7a498

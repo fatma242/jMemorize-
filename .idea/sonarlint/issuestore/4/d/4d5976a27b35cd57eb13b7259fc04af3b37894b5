@@ -1,0 +1,7 @@
+
+“	java:S116#"XRename this field "m_answerPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„λωΰJ$672624aa-2246-4286-984d-aec6cfc7f1b9
+–	java:S116%"[Rename this field "m_answerCardSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”©J$5750f323-1476-4216-b870-800d09a25202
+½
+java:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ΧΎα¥J$9cd48aed-e79d-48b9-8a13-6d5ceff4a00e
+›
+java:S1450%"_Remove the "m_answerCardSide" field and declare it as a local variable in the relevant methods.(”©J$62e53fd0-75a2-43e1-b809-54611716fca7

@@ -1,0 +1,39 @@
+
+–
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(å…¥ìJ$a2cc6488-523a-4fcf-9280-250ebeba6c86
+›
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÂ¹ùşÿÿÿÿJ$ee58e555-20d2-4e84-8f2a-a579894c75c3
+~
+java:S2184‹"ACast one of the operands of this addition operation to a "float".(Ù½“J$0f2ee4ce-f893-425d-983c-99426728d7ff
+o
+java:S1199ê"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿJ$61cddf40-0ad2-4431-a96b-a26e01755ec5
+“	java:S116D"XRename this field "m_cardsPassed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òşÙçJ$a610e557-99fa-417a-8b99-36d80f1ee7ea
+¡	java:S116E"aRename this field "m_cardsPartiallyPassed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÒÇøÿÿÿÿJ$b60e3657-49d4-49b4-bc94-5e21c716d9ac
+˜	java:S116F"XRename this field "m_cardsTarget" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¿ÑİúÿÿÿÿJ$f59db0fe-7381-45df-9fe9-905d0e574fec
+›	java:S116G"`Rename this field "m_showPartiallyPassed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Äà¬J$1275df29-2796-49ce-ae62-c3166ba4ae54
+	java:S116I"TRename this field "m_session" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÓº¯J$a472bde9-e811-43fe-94c5-6207f71a33c4
+	java:S116J"RRename this field "m_cards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•²ÀŞJ$1f399e52-afa8-4b21-8485-104e024a413c
+—	java:S116L"WRename this field "m_pieDataset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÃÀùÿÿÿÿJ$b5e4678a-def6-4655-98aa-62ef516d4b70
+	java:S116M"PRename this field "m_bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ş„şÿÿÿÿJ$7ca81f7f-a101-4391-bb7d-e8042a2bb55b
+–	java:S116N"VRename this field "m_textField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ§èÿÿÿÿÿJ$7086305b-2141-4bbd-97d2-6365a21da46b
+˜
+java:S3008@"WRename this field "USE_PIECHART" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ–‹ÔüÿÿÿÿJ$0cc24e91-b11f-480c-bdb3-347cba187f5e
+š
+java:S3008A"YRename this field "USE_EXTENT_BAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Î§–üÿÿÿÿJ$a4f06c97-e43a-43a3-b20b-619070e8de78
+–
+java:S3008B"ZRename this field "USE_PARTIAL_BAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š»˜ùJ$181bf9db-4512-4e66-b536-15f573b1d7e2
+g
+java:S1948I"+Make "m_session" transient or serializable.(ñÓº¯J$bc607ff9-2cc1-4f9d-ae18-53308147af8d
+e
+java:S1948J")Make "m_cards" transient or serializable.(•²ÀŞJ$a3aed4f8-d3ad-447f-a8ec-159e74bcebd4
+}
+java:S3252·"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Ä€„J$33c5592a-e1a7-4c96-aefb-b31abc85af8d
+x	java:S125ã"<This block of commented-out lines of code should be removed.(Ì›İ£J$a1adb986-1abe-4c8a-8518-00107fac7133
+}	java:S125ñ"<This block of commented-out lines of code should be removed.(ı’“ıÿÿÿÿJ$0068a94d-a19b-47f3-9751-16aaa673845c
+d
+java:S1905"'Remove this unnecessary cast to "Card".(Îó£J$dbac793d-9b40-4214-89f7-a00c58e8706c
+x	java:S125 "<This block of commented-out lines of code should be removed.(çÆ“¨J$5325c0af-c0c2-493f-a716-caf6cf200eaa
+Œ	java:S116Å"PRename this field "m_obs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ ÂÅJ$899ba2b3-a8e6-41d5-9628-0444d571532b
+}	java:S125ä"<This block of commented-out lines of code should be removed.(·ÅÈ°şÿÿÿÿJ$21daa23e-0801-485c-b132-b86c15d7ce50
+t
+java:S1135ñ"2Complete the task associated to this TODO comment.(¶ï²™üÿÿÿÿJ$b2c98b9b-7898-40bc-ba1b-47e3490174a7

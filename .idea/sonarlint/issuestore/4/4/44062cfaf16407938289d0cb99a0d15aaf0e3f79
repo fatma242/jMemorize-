@@ -1,0 +1,78 @@
+
+p
+java:S3740A"/Provide the parametrized type for this generic.(­úœæøÿÿÿÿJ$3adc90e0-798e-4b89-8db7-499ec108fd10
+p
+java:S3740C"/Provide the parametrized type for this generic.(Ğ°ÉøùÿÿÿÿJ$a079ff5f-5f8a-47a8-a509-26e93907e03f
+p
+java:S3740D"/Provide the parametrized type for this generic.(¬ğÏüÿÿÿÿJ$a697b17e-4388-4ea0-b278-cb886c4b72e6
+p
+java:S3740E"/Provide the parametrized type for this generic.(İ§üÿÿÿÿJ$b5be6935-ed07-47b5-a256-1c6d7374e42a
+p
+java:S3740G"/Provide the parametrized type for this generic.(ÔŠÈÒùÿÿÿÿJ$13a940f2-4aa9-4e78-b465-7c31cb89e94b
+p
+java:S3740G"/Provide the parametrized type for this generic.(ÔŠÈÒùÿÿÿÿJ$b170172b-e288-4654-95db-2684cd1e607c
+p
+java:S3740M"/Provide the parametrized type for this generic.( ‰’üÿÿÿÿJ$0fc7b404-88a9-4223-b5fd-cf37f9d0dfba
+p
+java:S3740a"/Provide the parametrized type for this generic.(îµ—øÿÿÿÿJ$209d49b7-7b3a-4ae9-912b-29be94eb665b
+p
+java:S3740c"/Provide the parametrized type for this generic.(Š°ûøÿÿÿÿJ$caf46bbe-b693-41c8-a934-f67496019578
+p
+java:S3740l"/Provide the parametrized type for this generic.(Ÿ­€ ûÿÿÿÿJ$53e65a2a-32d7-4a77-ba14-98b80fbbd69f
+l
+java:S3740È"/Provide the parametrized type for this generic.(›Üô J$6ee5cfaf-364e-4605-b674-00e5969b4f65
+l
+java:S3740È"/Provide the parametrized type for this generic.(›Üô J$127b3e62-b95b-40c2-93fb-33f1752eca45
+q
+java:S3740÷"/Provide the parametrized type for this generic.(ƒ»ÀÊùÿÿÿÿJ$70a870aa-41cd-4448-abd2-b8ea5cddb478
+l
+java:S3740ø"/Provide the parametrized type for this generic.(Ş’õJ$28413264-0b01-4644-82c1-73f4ca441579
+q
+java:S3740‰"/Provide the parametrized type for this generic.(—×ö˜ûÿÿÿÿJ$5f1ee448-437c-4a16-9cd3-2bad03532323
+l
+java:S3740­"/Provide the parametrized type for this generic.(çŠ÷ºJ$c845e585-fff4-47c8-9872-c119f5b7e747
+q
+java:S3740°"/Provide the parametrized type for this generic.(¢ÄŞªÿÿÿÿÿJ$d570bab7-dc1e-43df-bc2f-76caa585b28c
+q
+java:S3740À"/Provide the parametrized type for this generic.(¹şÙßşÿÿÿÿJ$d35b4f3e-432d-42c9-b445-bd9d5806db33
+l
+java:S3740Ë"/Provide the parametrized type for this generic.(¹Œ€ßJ$35ca4b4b-6bf1-4528-8c76-6dfc2ad00515
+–
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(›Ò•œJ$05930eee-69a0-4723-ac7c-ed4dad5a059b
+Ÿ	java:S116A"_Rename this field "m_equivalenceClasses" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­úœæøÿÿÿÿJ$bbcc3ec8-b31b-40d4-9b50-ad15caa685bf
+‘	java:S116B"QRename this field "m_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÂÍÈøÿÿÿÿJ$9c3a6beb-f858-4c5f-9849-49c7a37c11c9
+—	java:S116C"WRename this field "m_comparator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ°ÉøùÿÿÿÿJ$b121f12e-0b17-44ea-8084-a2b3a32dd7c1
+	java:S116D"]Rename this field "m_loopEqvClassIter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ğÏüÿÿÿÿJ$d771e1d4-01cf-4247-9bb8-c8189c195d0d
+ 	java:S116E"`Rename this field "m_loopCurrentEqvClass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ§üÿÿÿÿJ$4de50fe8-a4eb-4ac6-a582-7a844107ff24
+”	java:S116F"YRename this field "m_loopItemIter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úéª·J$f88fbb2c-f709-4676-8bb1-cda0e16a85cb
+›	java:S116M"[Rename this field "m_itemToClassMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ‰’üÿÿÿÿJ$4201fe24-3950-4bf8-ad5a-cdc12e052888
+•	java:S116Q"URename this field "m_changeID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù£òÒúÿÿÿÿJ$39dce002-dc06-4ea9-aad0-e0b99340533d
+¡	java:S116S"fRename this field "m_shuffleEquivalenceClasses" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¦ç J$c2579771-6122-45ec-9c2d-d454a0222d1f
+g
+java:S21609"+Override the "equals" method in this class.(ğ­ÿ¼J$7e569018-2436-45b8-a5f4-d1726fe39788
+†
+java:S1124G"EReorder the modifiers to comply with the Java Language Specification.(ÔŠÈÒùÿÿÿÿJ$cb0119f5-049f-4a5a-a1f1-9ad8e7c81f93
+n
+java:S1135O"2Complete the task associated to this TODO comment.(¼–ˆıJ$f59255a4-5259-4779-bb1f-4029ee852647
+}
+java:S1126}"AReplace this if-then-else statement by a single return statement.(Ù¤ÖJ$4623de3c-8049-41a0-a15f-8af8e7e14fa2
+v
+java:S1161•":Add the "@Override" annotation above this method signature(ğ¨“J$fd6ebd9b-664f-4d81-8fca-41caf15460e4
+v
+java:S1161Ï":Add the "@Override" annotation above this method signature(ğ¨“J$fe0c7b31-4a0e-44be-89e7-40288b5f0da1
+w
+java:S1161‘":Add the "@Override" annotation above this method signature(»—¢üJ$b53fe537-06dd-40c4-b50f-21fbfd060dd8
+”
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ó±ÈÆüÿÿÿÿJ$f9074272-b5a1-4f4b-9547-80afd738c61b
+`
+java:S1659Ë"$Declare "addIdx" on a separate line.(„³ñJ$64f6ba9b-1f6c-4626-9805-49cfef4329c8
+|
+java:S1161¢":Add the "@Override" annotation above this method signature(ü‚”²şÿÿÿÿJ$5992705b-9adf-4b7f-8c1b-d7d03f139e4a
+|
+java:S1161®":Add the "@Override" annotation above this method signature(–œ½üüÿÿÿÿJ$fbd38b46-93f0-420b-8aa7-6a751f3c8a38
+ƒ
+java:S1126±"AReplace this if-then-else statement by a single return statement.(ù­­ìøÿÿÿÿJ$3db1632c-cfcd-4e67-b89c-3e5d8f749fb5
+|
+java:S1161¼":Add the "@Override" annotation above this method signature(ÿüÉÌüÿÿÿÿJ$1d2ab4c4-8731-4283-b645-86f0afdeadaa
+”
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(«ğ–İıÿÿÿÿJ$51768f6d-80b2-49ab-9c7b-fbf0927bf8a7

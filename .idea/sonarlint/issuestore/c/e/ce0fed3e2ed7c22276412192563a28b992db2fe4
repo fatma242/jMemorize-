@@ -1,0 +1,31 @@
+
+j
+java:S1604á"(Make this anonymous inner class a lambda(ˆÎ°ÃıÿÿÿÿJ$3f31cff0-b6dd-47cb-90e9-81f88c8e9192
+˜	java:S116’"WRename this field "m_showButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÇ ‡ÿÿÿÿÿJ$c6d0e8bc-55cd-4470-bca2-c88f23a54c7f
+—	java:S116“"VRename this field "m_yesButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÿ½ÒüÿÿÿÿJ$3a5c1aaa-2990-423f-9ec5-1cebd52cae90
+Ÿ	java:S116•"^Rename this field "m_questionCardPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ÷±ºıÿÿÿÿJ$eb70a7ae-1752-44fc-bc3a-67ffe7a06172
+’	java:S116–"QRename this field "m_quiz" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡“ä×øÿÿÿÿJ$4339e468-b1cd-4e43-9fee-00483ab3aa20
+œ	java:S116—"[Rename this field "m_answerBarPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïâ€ÂúÿÿÿÿJ$f0d38aef-3f87-42c9-8d64-9db9bace28e3
+˜	java:S116˜"]Rename this field "m_questionBarPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­rJ$bc4c28b0-0636-45a7-95f6-f2107d670185
+–	java:S116™"URename this field "m_barPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë· àüÿÿÿÿJ$4fa33f6e-4c06-4fa2-b000-9b19140fd625
+	java:S116›"TRename this field "m_session" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÓº¯J$ac0765ac-0b80-4957-bf5e-07e8fe68e5fa
+”	java:S116œ"XRename this field "m_currentCard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²üçšJ$97090dd9-7cef-48a3-9ffc-f736dccd5850
+™	java:S116"XRename this field "m_showFlipped" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‹¦ØøÿÿÿÿJ$6d68d34d-5745-42f5-95a0-e1a79c4b47bc
+	java:S116"\Rename this field "m_frontWasVisible" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈşïáÿÿÿÿÿJ$bbe31cc2-ae23-455e-95bb-fa4da13109c9
+™	java:S116 "]Rename this field "m_categoryCheckBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ôñœJ$63daf421-ceea-46c7-b011-fbbda91b0633
+›	java:S116¢"ZRename this field "m_categoryField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öúî‰ùÿÿÿÿJ$c23b9089-0e71-40bd-b97b-d1abb9a32b63
+œ	java:S116¤"[Rename this field "m_isShowQuestion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×üº†ÿÿÿÿÿJ$58286f66-e417-49ba-bd16-a9b941c574c7
+•	java:S116¥"YRename this field "m_isShowAnswer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†î‚§J$3a637fcd-8fa4-47b8-9aad-67c869c1550e
+¥
+java:S3008§"cRename this field "PREFS_SHOW_CARD_CATEGORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‡ñãşÿÿÿÿJ$be141fd9-1c55-49ed-b4dc-2c0464b21bc0
+j
+java:S1948–"(Make "m_quiz" transient or serializable.(¡“ä×øÿÿÿÿJ$f3334dae-3337-4b3f-b1f4-428106e25a23
+h
+java:S1948›"+Make "m_session" transient or serializable.(ñÓº¯J$75bedf52-2d90-4902-b42e-257caa3eb5cd
+l
+java:S1948œ"/Make "m_currentCard" transient or serializable.(²üçšJ$22eb2aa7-5c2c-41b3-86dd-fe858e15bf98
+š	java:S116?"ZRename this field "m_shortCutAdded" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ·¼—ùÿÿÿÿJ$aac26b19-ee52-4ddb-94f7-f1ad7cddf4b5
+š
+java:S3252C"YUse static access with "javax.swing.JComponent" for "WHEN_ANCESTOR_OF_FOCUSED_COMPONENT".(Ó€„ûÿÿÿÿJ$77a0836d-f5da-4773-8365-68db88d8ba3d
+e
+java:S3398Ê"#Move this method into "ShowAction".(‰üµšúÿÿÿÿJ$7cbce4b0-d3ec-4279-9a1e-7826bbdd9a38

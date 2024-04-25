@@ -92,7 +92,6 @@ public class Category implements Events
     public void addCard(Card card, int level)
     {
         addCardInternal(card, level);
-        
         fireCardEvent(ADDED_EVENT, card, card.getCategory(), level);
     }
     

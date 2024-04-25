@@ -1,0 +1,73 @@
+
+k
+java:S3740P"/Provide the parametrized type for this generic.(Î«ùËJ$6953b414-12bf-4250-bda0-2ad2ec23749a
+p
+java:S3740U"/Provide the parametrized type for this generic.(ºÔášøÿÿÿÿJ$6f6c444b-5175-4457-8c6a-9400773aae80
+p
+java:S3740U"/Provide the parametrized type for this generic.(ºÔášøÿÿÿÿJ$9f55c3e3-3885-4d7a-b8fc-6d23842b91c9
+p
+java:S3740V"/Provide the parametrized type for this generic.(ä¥óÃüÿÿÿÿJ$ee5eef12-cdcf-4a48-9454-919aa535b907
+p
+java:S3740V"/Provide the parametrized type for this generic.(ä¥óÃüÿÿÿÿJ$a3bfa795-05e8-45f0-801b-0ac51c5cfa93
+k
+java:S3740W"/Provide the parametrized type for this generic.(œÛóØJ$bc96715b-0332-4eb7-9a98-1a88531c07fd
+k
+java:S3740W"/Provide the parametrized type for this generic.(œÛóØJ$e5725c6d-3758-450f-a88b-629072021f27
+p
+java:S3740_"/Provide the parametrized type for this generic.(¼•¨ŸúÿÿÿÿJ$853c34df-3a60-496a-a192-8cd8ab7f387d
+p
+java:S3740_"/Provide the parametrized type for this generic.(¼•¨ŸúÿÿÿÿJ$fad91d59-3b0b-44f7-bcf8-d3c74a95163b
+k
+java:S3740u"/Provide the parametrized type for this generic.(¥“ÌôJ$9b14b0e5-622c-4996-9d00-6f9e31e91a3d
+l
+java:S3740±"/Provide the parametrized type for this generic.(Îû¿œJ$b51940f6-5b47-43dc-a2cf-2c63a5948978
+š
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(Õƒ®éûÿÿÿÿJ$fa20bc77-336a-45cc-853c-0b5347b71f43
+›
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜ñÏÿüÿÿÿÿJ$03849d89-a458-4bf6-a760-79886c31536e
+Š
+java:S1192´"HDefine a constant instead of duplicating this literal "%s (%s)" 4 times.(‘ÊÒáÿÿÿÿÿJ$43a169b5-c5c6-4291-ae47-87d0d422acd5
+d
+java:S1604Á"(Make this anonymous inner class a lambda(Â´äJ$10b6ccaa-e96a-440b-a963-b6af422845ad
+j
+java:S1604Ì"(Make this anonymous inner class a lambda(‹·¤úÿÿÿÿJ$b631bff6-4e25-4508-9526-168ae005483b
+e
+java:S1604Ú"(Make this anonymous inner class a lambda(şĞ—êJ$139e354f-602a-4055-85c5-9d7f7f6f4055
+j
+java:S1604‰"(Make this anonymous inner class a lambda( ù‹±üÿÿÿÿJ$8cd310a9-24d1-42a3-9425-b7887288e11e
+e
+java:S1604’"(Make this anonymous inner class a lambda(™¬ŞÔJ$cc066bbd-6ac1-4e79-a5a7-f9840ad84619
+e
+java:S1604™"(Make this anonymous inner class a lambda(¹Ëš™J$d1dfad77-13cd-4dc9-be90-37f2d02c79cf
+
+java:S1301÷"KReplace this "switch" statement by "if" statements to increase readability.( ’Õ¤úÿÿÿÿJ$fa116553-0d63-49bb-83a6-b1ee6eb0f3e6
+“	java:S116P"XRename this field "m_fontSideBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î«ùËJ$86b3c492-e085-4e7e-9bc1-e5536ecfefd9
+˜	java:S116R"]Rename this field "m_verticalAlignBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ ¥J$cfc6ae73-b3ef-4f59-856a-dbca1b381515
+•	java:S116U"URename this field "m_sizeList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÔášøÿÿÿÿJ$37fbda89-f5fc-4d00-aaf6-f729f7af13e2
+•	java:S116V"URename this field "m_fontList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¥óÃüÿÿÿÿJ$95a3f243-ef32-4240-b511-57868a8d56e5
+‘	java:S116W"VRename this field "m_alignList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÛóØJ$f93ebaaa-1eb7-4d7c-97c3-e33d77255594
+™	java:S116Y"YRename this field "m_previewLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ÿç‘úÿÿÿÿJ$1ad8f592-3aaa-4611-91ae-c0bcbd53817d
+’	java:S116["RRename this field "m_fonts" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õƒ®éûÿÿÿÿJ$67a3dd83-c25a-4ba8-9c3e-c24e2878c3b1
+“	java:S116\"YRename this field "m_changingFont" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñâ QJ$efb49eb6-850e-40f2-8412-3e6a5f187fa3
+™	java:S116_"YRename this field "m_langComboBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼•¨ŸúÿÿÿÿJ$223787e0-1cb7-4eb4-8378-3b07c20ea6a4
+œ	java:S116`"\Rename this field "m_zippedLessonBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œë´ÈşÿÿÿÿJ$567bdc18-8b16-4304-abbf-a9e3399e87af
+“	java:S116c"XRename this field "m_applyButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷–ºçJ$8fa67c09-5efb-4b87-bb82-a10bced94901
+š	java:S116f"ZRename this field "m_settingsPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£“ÎÁùÿÿÿÿJ$713d964d-c6f0-4654-ba44-ec019b78226c
+j
+java:S1948[")Make "m_fonts" transient or serializable.(Õƒ®éûÿÿÿÿJ$8003a715-212c-4949-9ab1-83cd36bcbaa3
+¢
+java:S1149Ã"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ä²îJ$58daddd8-0e05-4ca2-8944-e392c1f583f7
+§
+java:S1149Å"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(˜ñÏÿüÿÿÿÿJ$4e6293c1-6da2-4152-9296-2d306d4db812
+¡
+java:S1149È"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ÿã“¤úÿÿÿÿJ$ca379fe8-7fa5-493e-8a6d-b9e96b82d47a
+n
+java:S1135W"2Complete the task associated to this TODO comment.(œÛóØJ$723b784e-4c4d-4dd8-8efe-667afd4c03c5
+‚
+java:S3252Y"AUse static access with "javax.swing.SwingConstants" for "CENTER".(•Ÿç‘úÿÿÿÿJ$75233702-df93-4e26-9ed7-8925fc0334a4
+}	java:S125œ"<This block of commented-out lines of code should be removed.(ÚÛô¥øÿÿÿÿJ$e5e83d65-ab43-4928-abe7-18b80bfaa046
+k
+java:S1905Ï")Remove this unnecessary cast to "Locale".(œ€ªşÿÿÿÿJ$90476c44-ca9d-4598-b67b-a2f6336f5946
+š	java:S131÷"YComplete cases by adding the missing enum constants or add a default case to this switch.( ’Õ¤úÿÿÿÿJ$096acd45-16ca-4503-b930-bc3eca2e040c
+n
+java:S1135µ"2Complete the task associated to this TODO comment.(—ğÑJ$6900c030-16e2-4306-8e08-961c56217652

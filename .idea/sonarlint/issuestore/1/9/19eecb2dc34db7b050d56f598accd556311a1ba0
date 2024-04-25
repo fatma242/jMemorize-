@@ -1,0 +1,17 @@
+
+€	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.(ÎâÊZJ$e6bba220-199b-4091-98c0-eee727a8e2fb
+†	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(‡¤ÿúÿÿÿÿJ$851a4198-a465-4e22-841c-fe3c79d6f697
+˜
+java:S11925"\Define a constant instead of duplicating this literal "test/fixtures/simple_de.jml" 5 times.(¯€É›J$d9520a66-4f42-409c-81e5-c28209bbe7eb
+„
+java:S11920"HDefine a constant instead of duplicating this literal "loaded " 3 times.(øóÔ¨J$eca347ce-919b-4929-9a1e-e2e597bc9663
+›	java:S116""[Rename this field "m_lessonProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æĞ“ÑıÿÿÿÿJ$8925e172-2c71-47c3-9a39-7a8741fd873b
+	java:S116#"PRename this field "m_log" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êî­¦ûÿÿÿÿJ$7d1ca713-6380-4a6c-b16f-ae119783eebd
+ 
+java:S1149#"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(êî­¦ûÿÿÿÿJ$f5b2ee5d-5230-4196-99fd-6526f21e450c
+{
+java:S1161%":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿJ$9f3f0c8f-cf57-4c34-974e-c5aafade3335
+s
+java:S1135N"2Complete the task associated to this TODO comment.(Â’Ç”üÿÿÿÿJ$29f5141d-cbed-488c-8747-1e1cc342eb97
+s
+java:S1135W"2Complete the task associated to this TODO comment.(Â’Ç”üÿÿÿÿJ$2c80473c-96bc-4094-89e1-a33753eddac6

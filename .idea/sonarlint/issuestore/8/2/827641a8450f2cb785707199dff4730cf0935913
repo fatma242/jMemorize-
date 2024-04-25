@@ -1,0 +1,62 @@
+
+–
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(½–’›J$ef455760-455f-4693-99ca-fc979a2c0322
+›
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(’ŞïüÿÿÿÿJ$b823abe4-672e-4108-b1a2-4edd173d3d0c
+•
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(áš‹J$dbdf5817-0a90-4823-b544-9db45111a3f9
+–
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(òíŸ©J$aee7450f-a3ba-4a2a-88aa-8b573b8900b3
+e
+java:S1604İ"(Make this anonymous inner class a lambda(ºª•µJ$ff39f07b-9eb3-4b96-b053-007e27a112c8
+j
+java:S1604ì"(Make this anonymous inner class a lambda(ì¨ºøÿÿÿÿJ$86ce8435-4b76-4c53-93a9-f1066cdae7cb
+•	java:S116û"YRename this field "m_contentPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ‡‚µJ$4304d9dc-8a97-4ae2-a156-4b10a0020392
+‘	java:S116ü"URename this field "m_imageBar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¡Â J$15164a9d-9d06-46f2-a17f-2053913e3b1d
+“	java:S116ı"WRename this field "m_imageLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶šà°J$72c64c42-d358-4dc1-8b98-8303cbffbc39
+‘	java:S116ÿ"URename this field "m_textPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹åÏÕJ$612fff8b-2122-43a4-a4ba-c0e6b3f3ab08
+œ	java:S116€"[Rename this field "m_textScrollPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃËËÿÿÿÿÿJ$0550af73-cca6-4f76-befe-f9eb0d67a9db
+“	java:S116"WRename this field "m_imagePanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘©ºJ$a6754fe1-dba8-488a-96bb-9b20459a3b92
+	java:S116ƒ"SRename this field "m_images" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½–’›J$b60c8d2b-3a4e-4149-9fc8-8deb13db39a6
+•	java:S116„"YRename this field "m_currentImage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÿçJ$d210ef94-d707-4415-94ca-681400a78d6b
+’	java:S116…"QRename this field "m_mode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘“Ü¹üÿÿÿÿJ$98ab5a91-40f8-4ae6-9d8e-6c8876d3c22c
+œ	java:S116†"[Rename this field "m_imageObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ŞïüÿÿÿÿJ$3c3ecd02-ee48-4ea0-b163-bfb325ade4d5
+	java:S116‡"URename this field "m_cardFont" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¢OJ$2574f4d6-29a5-4a1a-98fe-571cc2e7894f
+˜	java:S116‰"\Rename this field "m_prevImageButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ìÚÌJ$8d6f5874-3870-454a-86df-c1dd8ca1f89c
+	java:S116Š"\Rename this field "m_nextImageButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÄ¼ïùÿÿÿÿJ$9976adbe-6380-4b67-a8f2-aebb27126837
+—	java:S116Œ"[Rename this field "m_textModeButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÿøJ$9ad839ae-e53f-477f-b6ed-816efc63e30c
+˜	java:S116"\Rename this field "m_imageModeButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıò²J$9dd34070-4c1d-499c-be2a-cea4df79a6c8
+ 	java:S116"_Rename this field "m_imageTexModeButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÿËêÿÿÿÿÿJ$cbea9473-f5fd-422c-a4ff-5bad976c1f98
+
+java:S1450‰"`Remove the "m_prevImageButton" field and declare it as a local variable in the relevant methods.(€ìÚÌJ$361da9bc-5a15-4c3d-ac0c-1d7b7129a20a
+t
+java:S1948†"2Make "m_imageObservers" transient or serializable.(’ŞïüÿÿÿÿJ$7c60e470-1ca6-4c08-9192-0d460c95e043
+h
+java:S1948‡",Make "m_cardFont" transient or serializable.(¶¢OJ$42fc1185-171e-4131-97dd-bfcabc1721ec
+	java:S116`"RRename this field "m_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ö£‡J$d06e3849-9c2d-4e58-ab7d-fe949862d11d
+”	java:S116a"TRename this field "m_padding" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èƒ¦ùÿÿÿÿJ$9afd3e01-546e-4f41-a070-05278e500f68
+e
+java:S1948`")Make "m_image" transient or serializable.(×Ö£‡J$3b8236c6-f3e0-4fd7-9eea-826f0b6fbad7
+‰
+java:S6201"GReplace this instanceof check and cast with 'instanceof Graphics2D g2d'(Ó‚ÍÏıÿÿÿÿJ$fa51edf7-1645-40a0-b614-54020ce2c94c
+w
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(ôîÅìJ$689bbcfa-a372-456b-81ff-f938a28ef7ca
+t
+java:S1135¤"2Complete the task associated to this TODO comment.(øÌÜåşÿÿÿÿJ$7db2ba76-7729-43f2-83b6-18ecbb07c56d
+|
+java:S1161Õ":Add the "@Override" annotation above this method signature(ˆ¹œÛıÿÿÿÿJ$3d4d364d-f7d7-45bd-88ab-83c3d2bef7dd
+’	java:S116ì"QRename this field "m_mode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘“Ü¹üÿÿÿÿJ$881a9a5f-c861-413a-a4ed-1e739a6d79e6
+Y
+java:S1116ù"Remove this empty statement.(²š™ J$4cb5a077-a699-4b7d-a6b7-e52b491dcf4f
+v
+java:S1161¨":Add the "@Override" annotation above this method signature(ñÙú J$972df8f6-47ae-4588-9728-ae83382408d9
+€
+java:S1155Û">Use isEmpty() to check whether the collection is empty or not.(áõôïúÿÿÿÿJ$d28f042a-f21c-49bb-8a37-ed25b8bd759c
+€
+java:S1155ø">Use isEmpty() to check whether the collection is empty or not.(Ê€ŸñùÿÿÿÿJ$876f38b4-4681-4160-905e-bcbfe07c9da0
+}	java:S125¹"<This block of commented-out lines of code should be removed.(¾µ³óøÿÿÿÿJ$7634f410-1c4d-46cc-90a7-83dc10950c5c
+x	java:S125Ñ"<This block of commented-out lines of code should be removed.(¨ø¢ÀJ$f759c4bb-8281-4c89-98a2-3a955ba250a8
+{
+java:S1874ş">Remove this use of "getMenuShortcutKeyMask"; it is deprecated.(«í”ùJ$b01d3998-2679-4766-8951-7d7e94b7123e
+œ
+java:S3252­"ZUse static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_NEVER".(õ½©ÚÿÿÿÿÿJ$7b40e935-7e66-47be-b769-749716e247f9

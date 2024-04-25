@@ -1,0 +1,55 @@
+
+k
+java:S3740§"/Provide the parametrized type for this generic.(é™‘mJ$d96cb45e-1e89-4650-9962-56c87f3b1b25
+•
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç³¡çJ$4e9eaeb1-49ec-4f60-9212-4e882133505e
+•
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(œãººJ$c0565e1d-ec38-4881-aea2-1ba187e0b291
+š
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(µı·ÓıÿÿÿÿJ$8e0efbe7-eecd-49f3-bdf2-894fc28a67a7
+›
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÃÜøÿÿÿÿJ$0e2331a2-89a3-4d9e-83bb-67451d5d8836
+–
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ–½æJ$73d6b7df-944b-47d3-80d7-62086cb015f9
+–
+java:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı¤Ò©J$0b251532-8390-469f-9cd3-10b6cfdd1cfb
+›
+java:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÄ‚µúÿÿÿÿJ$99f8628b-5bb0-4b83-bb89-2b8951985775
+›
+java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜”¡¾üÿÿÿÿJ$f6394eae-4868-4ce4-b0f0-f69cd0cdffa1
+–
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç³ıJ$b1304796-ceef-48d5-888e-e3ce3721ce2f
+–
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ•ŠúJ$8da225b4-95a8-4455-bbde-d6f99373f759
+–
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ÀÓ¹J$9d582768-7a16-4dc8-a564-f5f6a05e0f9e
+–
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(š½Â J$8c5e3b2f-2b45-4d54-bd13-461a4c994281
+–
+java:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(š½Â J$20fd23ab-59cd-4041-942c-dac8cf5499d3
+
+java:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(É²¤8ñı“æğ1J$d126dc7f-e0a8-4d58-91fd-a7f9f4e0f70e
+
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(É²¤8ñı“æğ1J$d98d79fe-c7fa-416c-9e5b-bd9b6426ce2b
+‘	java:S1164"VRename this field "m_observers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç³¡çJ$1e13d17c-3c15-4378-8476-e331bb77535c
+‘	java:S1166"QRename this field "m_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëœ¢ÁşÿÿÿÿJ$479381f1-5054-458d-adac-9dd576d01fca
+	java:S1167"RRename this field "m_depth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ó²ñJ$20ce4f4f-7f53-4992-b383-e8762c35dd8b
+	java:S1169"RRename this field "m_decks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œãººJ$21286890-c3f8-40c5-a1b4-b6470e6d9bda
+	java:S116;"SRename this field "m_parent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î£êJ$03f3300e-05f5-41a2-b2fe-1b96c3a36f1b
+œ	java:S116<"\Rename this field "m_childCategories" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µı·ÓıÿÿÿÿJ$bf1a8805-9cdb-46ee-bcb4-5c37f7919032
+s
+java:S11353"2Complete the task associated to this TODO comment.(ÎòÓ¨ûÿÿÿÿJ$1e9ed47f-240d-478b-af18-78c1b19c45f9
+k
+java:S1905‚"'Remove this unnecessary cast to "Card".(ƒæ©à8×ş“æğ1J$f639dfa9-4ac9-4b50-9ca1-00b6865ab2d1
+k
+java:S1905–"'Remove this unnecessary cast to "Card".(ƒæ©à8Ùş“æğ1J$b1b3a670-5225-4927-a26f-24d11593f90e
+k
+java:S1905±"'Remove this unnecessary cast to "Card".(ƒæ©à8Úş“æğ1J$076022b3-c47a-40ae-a392-3f46b0a2aff8
+‚
+java:S1155Ü">Use isEmpty() to check whether the collection is empty or not.(ç³ı8İş“æğ1J$19c0c26b-f691-418e-a9cd-8cb38b473296
+j
+java:S4274í"(Replace this assert with a proper check.(š“´·üÿÿÿÿJ$f3f03fc4-e43b-4e86-b110-f4261b4062cf
+n
+java:S1135”"2Complete the task associated to this TODO comment.(çÇÍ;J$cd340e58-38bc-4f39-b9e2-ca8d56dd0e93
+m
+java:S1905Ê"+Remove this unnecessary cast to "Category".(¼Æ’ÉùÿÿÿÿJ$d2bb40ed-7d73-4a11-9ffe-768d76b8fa2d

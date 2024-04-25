@@ -1,0 +1,22 @@
+
+p
+java:S3740"/Provide the parametrized type for this generic.(ãÎÕ üÿÿÿÿJ$03642db5-84ac-4d42-991f-c8aa98360b2c
+l
+java:S3740¯"/Provide the parametrized type for this generic.(Ñâ˜™J$4455d095-e027-4cc1-a1f4-d0bb5b4105d0
+q
+java:S3740³"/Provide the parametrized type for this generic.(ññÃºıÿÿÿÿJ$9674f577-cc1d-4299-9711-200e96941c1b
+q
+java:S1066"/Merge this if statement with the enclosing one.(¯Î®ÑúÿÿÿÿJ$cdb8e8dd-e230-4a6d-acb5-7e5c93a39c59
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ì†ºáJ$0f0865f9-dcf1-40ae-8817-49921256ccab
+
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÒíÆJ$bea42b7f-f2a1-49bb-bc38-cf26a5f8b155
+a
+java:S1659R" Declare "ib" on a separate line.(ƒ’×ÉşÿÿÿÿJ$8af23eba-a0e3-4a87-a1f0-7198a7ba765a
+]
+java:S1659S"!Declare "nzb" on a separate line.(é¿àıJ$851fe172-11ae-48ae-947d-4f756da1dae5
+a
+java:S1659T" Declare "cb" on a separate line.(Ô©Â´ÿÿÿÿÿJ$c87d17da-ff92-4e65-90e7-7e9929f265a6
+g	java:S106±"+Replace this use of System.out by a logger.(Ü¡´éJ$3f21e62b-5ef6-4785-9375-223ab380da23
+g	java:S106¶"+Replace this use of System.out by a logger.(ßÕ¢¤J$dae18bb9-85df-4008-b817-40f169b8b0b2
+l	java:S106º"+Replace this use of System.out by a logger.(ñêü¾şÿÿÿÿJ$1fd5a00b-c4f8-4027-b6f8-cc816ff17df9

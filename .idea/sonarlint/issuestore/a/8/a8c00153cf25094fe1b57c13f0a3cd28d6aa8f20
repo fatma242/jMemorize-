@@ -1,0 +1,22 @@
+
+‡
+java:S1301k"KReplace this "switch" statement by "if" statements to increase readability.(Æ“§èJ$d5ffc052-fd4a-4725-8cd7-57aaa5d987a9
+s
+java:S2629["7Use the built-in formatting to construct this argument.(çø“°J$80ab8173-7563-4a45-8961-00d5a6ee47bf
+s
+java:S2629c"7Use the built-in formatting to construct this argument.(˜î¦¿J$f3391f29-c5ab-4500-976e-4c0b686916cc
+‘
+java:S2095i"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(‰âîÃ8ÓÒ¤³ñ1J$673aab4b-6496-4fd9-a648-351d0b4e6339
+–
+java:S1450:"URemove the "logger" field and declare it as a local variable in the relevant methods.(–óüÿþÿÿÿÿJ$38c49a64-79a3-473d-8dff-20955740dcb6
+{
+java:S11184":Add a private constructor to hide the implicit public one.(²²§éûÿÿÿÿJ$e72c0534-f985-48fc-8112-92ff4ffca58c
+†
+java:S11246"EReorder the modifiers to comply with the Java Language Specification.(üà×ÑúÿÿÿÿJ$1cc7a9c2-885c-48d8-a237-ba2de722688c
+
+java:S11247"EReorder the modifiers to comply with the Java Language Specification.(»ðöØJ$d78d41ff-498f-42ff-b927-735898aa569b
+i
+java:S1181ƒ"%Catch Exception instead of Throwable.(Ñž´¯8äÒ¤³ñ1J$5dc33421-4aa5-4067-afb8-9f4e938753c7
+]	java:S131k""Add a default case to this switch.(Æ“§èJ$fa5bc3b0-b934-4122-836c-4ea5d4032c46
+‚
+java:S1155“">Use isEmpty() to check whether the collection is empty or not.(À†åœ8ëÒ¤³ñ1J$b75ad343-2686-4882-80ed-d697b312d497

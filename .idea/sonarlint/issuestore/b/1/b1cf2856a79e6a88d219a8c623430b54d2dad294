@@ -1,0 +1,16 @@
+
+[
+java:S2259V"FA "NullPointerException" could be thrown; "childAst" is nullable here.(—’Ã:
+U
+java:S11617":Add the "@Override" annotation above this method signature(‘Ó›Ëùÿÿÿÿ
+U
+java:S1161=":Add the "@Override" annotation above this method signature(‰ÌÆúÿÿÿÿ
+m
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(©Ë¿ùÿÿÿÿ
+U
+java:S1161B":Add the "@Override" annotation above this method signature(©Ë¿ùÿÿÿÿ
+Q	java:S125`"<This block of commented-out lines of code should be removed.(¾¨­Ø
+P
+java:S1161":Add the "@Override" annotation above this method signature(äˆĞ‡
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(öÒ¦éüÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(©§¦ÿÿÿÿÿ

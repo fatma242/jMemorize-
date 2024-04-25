@@ -1,0 +1,60 @@
+
+q
+java:S3740«"/Provide the parametrized type for this generic.(¿ƒÈÊøÿÿÿÿJ$b0717c26-441f-40bf-b3f8-3aff24be9c20
+l
+java:S3740¥"/Provide the parametrized type for this generic.(³„õ¢J$9ad94395-7f34-468d-b5e9-cba3c9fcb86e
+–
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¤ÔçJ$dcb4ec47-e07f-45d8-83e0-4866245bb438
+–
+java:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉŒ—éJ$b66d032c-323d-40a1-9c12-9dc5469b322d
+e
+java:S1604Æ"(Make this anonymous inner class a lambda(íˆüşJ$cf54986e-6c3f-4d2a-9af6-082fd6223439
+o
+java:S1199‹"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿJ$6b39cb86-6624-4a7c-aac2-9b437558f576
+†
+java:S2259Ş"DA "NullPointerException" could be thrown; "parent" is nullable here.(ÍÃõˆúÿÿÿÿJ$2297ad61-0c5e-4ee9-816b-c921a5ac5ed2
+
+java:S2259Ø"DA "NullPointerException" could be thrown; "parent" is nullable here.(í”È¡J$94189c18-ad2d-4dae-afb9-4c4fa948485c
+’	java:S116î"VRename this field "FOLDER_ICON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÇÜïJ$7d46b8d9-a200-4a0a-b9a1-4a295b8b553c
+š	java:S116ò"YRename this field "m_rootCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÔ…µÿÿÿÿÿJ$c73a4d9b-9d47-4400-9f00-65577259cf59
+›	java:S116õ"_Rename this field "m_beforeMenuCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¹éêJ$b2b3656b-f6aa-44f5-b50b-f91973e348cc
+›	java:S116÷"_Rename this field "m_selectionObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¤ÔçJ$be1f254d-95e0-4359-8370-e4e82a896565
+•	java:S116ø"YRename this field "m_categoryMenu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¡ÂJ$73e78a63-68e4-4225-9827-3728be85b346
+	java:S116ù"bRename this field "m_reopeningCategoryMenu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú½‡J$b2f58286-dec8-4a6c-8b08-0f0066beb90c
+r
+java:S1948ò"0Make "m_rootCategory" transient or serializable.(ğÔ…µÿÿÿÿÿJ$d03aaf45-0676-4045-abbe-1b8f2a5fd021
+s
+java:S1948õ"6Make "m_beforeMenuCategory" transient or serializable.(‘¹éêJ$dec20107-bede-47bb-9e15-ba7c7aef5560
+s
+java:S1948÷"6Make "m_selectionObservers" transient or serializable.(ş¤ÔçJ$facd64ee-0370-461f-8884-5215c63d573d
+u
+java:S1161V":Add the "@Override" annotation above this method signature(¿ÛÍ
+J$8e2e8e46-df15-40ea-8b02-ab31aa86a42d
+†
+java:S6201]"JReplace this instanceof check and cast with 'instanceof Category category'(ùİâËJ$b62cefbc-17b7-4d08-b48a-eee0a6ddd882
+{
+java:S1161w":Add the "@Override" annotation above this method signature(—”ãàøÿÿÿÿJ$e969e971-ed31-481f-9d7a-13d40505a744
+–	java:S116…"[Rename this field "m_editedCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‹¶;J$5b59fd3d-11ac-4ce8-b629-471c8d92552f
+˜	java:S116†"WRename this field "m_editedNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øØõÏùÿÿÿÿJ$07450ae0-94e3-43ef-ac8b-8780b0e75335
+|
+java:S1161":Add the "@Override" annotation above this method signature(å‡å¸ùÿÿÿÿJ$17346560-0b07-4bba-9d52-7a75f98c85c8
+w
+java:S1161³":Add the "@Override" annotation above this method signature(ê¾—ÉJ$9544bc40-033d-4038-a57b-f280f563dd35
+	java:S116Â"TRename this field "m_wrapped" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ëè¶J$2bbee56a-0e83-4623-96d2-eb2e81426cd6
+x	java:S125‡"<This block of commented-out lines of code should be removed.(Ú°à¬J$19f6850c-9d73-4b6c-9d20-9b30e8627939
+o
+java:S1135»"2Complete the task associated to this TODO comment.(¢Ä†¹J$7ad0dc98-d3d6-44e7-8c78-43f20f7dd641
+^	java:S131Ñ""Add a default case to this switch.(Æø—ØJ$29b8e25b-197e-4bb0-82af-6b703b2f63b7
+h
+java:S1168§"+Return an empty collection instead of null.(¥¹ïJ$fc83835e-da5a-4f06-9512-ac562a7ea5a5
+h
+java:S1168¯"+Return an empty collection instead of null.(¥¹ïJ$bd5f2f94-8998-4291-8464-d76653f7eaa4
+”
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Œ÷ë„ÿÿÿÿÿJ$cabbc97b-3a16-4674-845d-651bce0481f2
+v
+java:S1161Î":Add the "@Override" annotation above this method signature(Ä·J$c04882a5-cce4-4121-b29b-620bfed32a36
+w
+java:S1161å":Add the "@Override" annotation above this method signature(×ÅÎ¹J$61a9346e-bcbc-448f-85d4-29cf328a4f44
+x	java:S125Š"<This block of commented-out lines of code should be removed.(Á¿èÜJ$18ba643a-8e09-4b49-a461-467111ee52cf
+x
+java:S1068ù";Remove this unused "m_reopeningCategoryMenu" private field.(Ú½‡J$82160997-0bf1-408c-923e-1c0b72499179

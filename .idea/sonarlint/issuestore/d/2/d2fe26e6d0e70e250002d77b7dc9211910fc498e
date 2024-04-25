@@ -1,0 +1,57 @@
+
+œ
+java:S2293k"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¤Ôç8‹Ô¼çğ1J$e9cd8135-3ca3-4fd7-a4c3-aa36b847516a
+¢
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÈÂ€úÿÿÿÿ8ŒÔ¼çğ1J$aac9f048-e416-47fd-ab88-624b3adc7ae0
+
+java:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅÃÜÉ8ŒÔ¼çğ1J$78a347be-c1c3-4326-af93-a270916f6762
+¢
+java:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ÿÀúÿÿÿÿ8ŒÔ¼çğ1J$e0dfda47-fb69-4317-9671-e5777e92dd34
+q
+java:S1604—"(Make this anonymous inner class a lambda(àìı½üÿÿÿÿ8Ô¼çğ1J$7056472c-2857-44e4-bb2d-f7e11289fe15
+q
+java:S1604ò"(Make this anonymous inner class a lambda( ù‹±üÿÿÿÿ8Ô¼çğ1J$ade68110-4148-408d-bc9e-3c7d34be3b75
+l
+java:S1604û"(Make this anonymous inner class a lambda(™¬ŞÔ8Ô¼çğ1J$a006e67e-edae-458c-92ca-04d40d522a67
+l
+java:S1604‚"(Make this anonymous inner class a lambda(¹Ëš™8Ô¼çğ1J$c08bf15a-25b3-4299-8c80-420630719d40
+¡	java:S116k"_Rename this field "m_selectionObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¤Ôç8¶Ô¼çğ1J$420c50aa-0524-4f3b-b67d-a2cd56fd5d59
+¢	java:S116m"[Rename this field "m_nextCardAction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂåäÍøÿÿÿÿ8¶Ô¼çğ1J$c7970c84-daf6-4129-bf92-c865ccc92ac9
+¡	java:S116n"_Rename this field "m_previousCardAction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô’¬Å8¶Ô¼çğ1J$dab3fcea-dfca-4ed1-986b-4d6276108f68
+š	java:S116p"XRename this field "m_currentCard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²üçš8¶Ô¼çğ1J$00364683-0576-4e13-b206-fe5c058af112
+Ÿ	java:S116q"]Rename this field "m_currentCardIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‡÷ñ8¶Ô¼çğ1J$7f60ffb2-8259-477c-9342-fbbd0b89024e
+™	java:S116r"RRename this field "m_cards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½€§Æıÿÿÿÿ8·Ô¼çğ1J$fd4f200e-6ac6-4c99-ad28-4498398e3045
+—	java:S116s"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™ø8·Ô¼çğ1J$6f642e91-314e-42f7-a9d7-64eacf18e911
+š	java:S116v"XRename this field "m_applyButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷–ºç8·Ô¼çğ1J$64c54733-71a7-4760-9f91-6299941a9ebe
+Ÿ	java:S116x"XRename this field "m_headerPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¨éÛúÿÿÿÿ8·Ô¼çğ1J$ceb10f3e-23f9-4319-8191-24ba70d38a44
+˜	java:S116y"VRename this field "m_cardPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºüŸ›8·Ô¼çğ1J$889372e3-647a-41b6-b82f-2f7f77f5ab07
+˜
+java:S3008{"URename this field "m_instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•í‡8¸Ô¼çğ1J$b7b14df3-1518-4871-a9d5-488b255b7078
+y
+java:S1948k"6Make "m_selectionObservers" transient or serializable.(ş¤Ôç8¼Ô¼çğ1J$dbf33596-7357-4450-a6fb-565b8fe32662
+z
+java:S1948m"2Make "m_nextCardAction" transient or serializable.(ÂåäÍøÿÿÿÿ8½Ô¼çğ1J$79be6b34-0a87-4e56-a8eb-7a1a453b7a1d
+y
+java:S1948n"6Make "m_previousCardAction" transient or serializable.(Ô’¬Å8½Ô¼çğ1J$fa80e73f-423f-4679-ae03-f0686cbc0ef5
+r
+java:S1948p"/Make "m_currentCard" transient or serializable.(²üçš8½Ô¼çğ1J$2fa2d46d-3406-495e-b7fa-0e5ee032918c
+q
+java:S1948r")Make "m_cards" transient or serializable.(½€§Æıÿÿÿÿ8½Ô¼çğ1J$21b10c46-2be4-430f-bd8b-847e15be09da
+o
+java:S1948s",Make "m_category" transient or serializable.(¯™ø8½Ô¼çğ1J$2ed48a37-ff53-4b8b-844b-36eea53f1254
+á
+java:S6548D"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(™ã¦ÿÿÿÿÿ8½Ô¼çğ1J$74b00469-c1ce-4510-9dd0-ddbb060c3c2f
+
+java:S1172«"IRemove these unused method parameters "searchText", "side", "ignoreCase".(ÁÂë8ÆÔ¼çğ1J$e13088b0-053a-42df-b05d-8192faf0337b
+o
+java:S1168Ô"+Return an empty collection instead of null.(¥¹ï8ÍÔ¼çğ1J$fb259745-69c1-4568-b4a2-36985eb1ba5d
+Š
+java:S1126¹"AReplace this if-then-else statement by a single return statement.(©ƒ¶³üÿÿÿÿ8ÓÔ¼çğ1J$e901352d-620b-49f0-be61-6dde1b06b917
+„	java:S125ä"<This block of commented-out lines of code should be removed.(ÂØúÿÿÿÿ8ÖÔ¼çğ1J$dc42f8c3-c314-4ea1-9dc9-b7968f9653cc
+p
+java:S1905"'Remove this unnecessary cast to "Card".(ö¢ëÆùÿÿÿÿ8ÙÔ¼çğ1J$f9ff2938-f351-40fe-8209-e38ec8f981a3
+p
+java:S1905™"'Remove this unnecessary cast to "Card".(û¢ÚÅıÿÿÿÿ8ÙÔ¼çğ1J$173aed43-3ff3-4ca9-a98e-b66c01fb5d8d
+y
+java:S2209±"5Change this instance-reference to a static reference.(·îöû8ÿÏ½çğ1J$169ebf50-92b4-4b92-ac0d-408f9b6e11f2
+	java:S125”"<This block of commented-out lines of code should be removed.(±ÕÔÖ8áÔ¼çğ1J$ee788d7f-8e76-48db-8fab-255a672a1ac9

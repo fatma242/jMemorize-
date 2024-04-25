@@ -1,0 +1,88 @@
+
+p
+java:S3740|"/Provide the parametrized type for this generic.(İüü†ùÿÿÿÿJ$4b57ced0-c2cc-4ad6-9eb2-df76dc8c0132
+p
+java:S3740|"/Provide the parametrized type for this generic.(İüü†ùÿÿÿÿJ$e015ec00-8f80-4754-a66e-02d749c5e997
+›
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(á¬ı¥üÿÿÿÿJ$9bdda2eb-7e3a-45df-a755-07b30f4ff660
+e
+java:S1604"(Make this anonymous inner class a lambda(ì³ã²J$5268eded-1291-453c-851b-ed9d9e5db851
+j
+java:S1604ó"(Make this anonymous inner class a lambda(ÅŸÎúÿÿÿÿJ$a314f277-a659-48f7-a28d-15d3b48e30a4
+e
+java:S1604 "(Make this anonymous inner class a lambda(ÎÿêÍJ$d28e8993-616a-4793-aa99-cf58e8500e8d
+e
+java:S1604Ä"(Make this anonymous inner class a lambda(ÿ©äÒJ$75c63e4b-0ae5-497d-84b5-17507378c9c1
+e
+java:S1604é"(Make this anonymous inner class a lambda(¢¹¨ûJ$b9cd34d1-687f-4ef7-866a-331624f3f0dd
+e
+java:S1604—"(Make this anonymous inner class a lambda(‹€­èJ$e06fe85f-40ba-4f1c-b772-c4a071fe5269
+e
+java:S1604º"(Make this anonymous inner class a lambda(ø®‡J$cfd4c828-fce0-4f82-83de-c7c62af7f469
+	java:S116A"]Rename this field "m_cardLimitSpinner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìõ¤úÿÿÿÿJ$97975a8b-9942-4d85-be6c-203f9656989b
+	java:S116C"]Rename this field "m_timeLimitSpinner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÿâ¹üÿÿÿÿJ$5fc47c78-f853-4ba6-86e2-25859fcdd801
+	java:S116E"]Rename this field "m_updatingSpinners" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•·È—şÿÿÿÿJ$a345e252-7130-423b-b6f6-9e361ea08e8f
+	java:S116H"]Rename this field "m_categoryComboBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒìûÿÿÿÿJ$f02a59d7-e803-4036-8771-07ab12f1a681
+–	java:S116I"[Rename this field "m_allCardsButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´’¿¿J$e04faa3f-ee52-4615-8142-30b62542da48
+¡	java:S116K"aRename this field "m_unlearnedCardsButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş£ôíúÿÿÿÿJ$823d755b-c0ff-4638-9163-c43f2498b034
+Ÿ	java:S116M"_Rename this field "m_expiredCardsButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß›€øÿÿÿÿJ$d9db24b8-75a5-4766-839b-3b1dc47d2c51
+ 	java:S116O"`Rename this field "m_selectedCardsButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÇÅÅÿÿÿÿÿJ$6c0a2103-251a-48dc-98d5-f2bb8eae9c46
+	java:S116S"^Rename this field "m_timeLimitCheckBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‘œ»şÿÿÿÿJ$cfe4a86f-7074-4c8e-b145-f8567b5dfc08
+™	java:S116U"^Rename this field "m_cardLimitCheckBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÆJ$f572c14e-98af-4c96-935e-5a5e74c702de
+Ÿ	java:S116W"_Rename this field "m_dontRetestCheckBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØüÓ®úÿÿÿÿJ$5208f6c8-77c7-4b20-bb63-cf0d5bcdba3d
+	java:S116["^Rename this field "m_sidesNormalButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ğ©³ùÿÿÿÿJ$54f139ff-52ad-4d38-bffc-ffd63c113812
+Ÿ	java:S116]"_Rename this field "m_sidesFlippedButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(› ½áÿÿÿÿÿJ$c89f3c38-cc42-48e4-a563-9958b6f30f89
+˜	java:S116_"^Rename this field "m_sidesRandomButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éîõ7J$1200011f-983c-4883-9b1a-39ffc92352a3
+œ	java:S116a"\Rename this field "m_sidesBothButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎËŠ®üÿÿÿÿJ$2b33d1e1-804f-4377-aee9-cc455cd452d6
+Ÿ	java:S116j"eRename this field "m_frontChecksAmountSpinner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Œè"J$8fefac1e-1acd-4a2b-bba8-a6ecc74c7c00
+Ÿ	java:S116l"dRename this field "m_backChecksAmountSpinner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚½¼J$599efdde-9240-4a81-a646-a0c69fc04fbe
+	java:S116p"cRename this field "m_categoryGroupsCheckBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( îÌóJ$b4c33edc-10d6-41af-ae93-f3775ebf2a7b
+ 	java:S116r"eRename this field "m_categoryOrderFixedButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú³ÙJ$826f87ef-64c5-4b8c-b186-53417c552e6d
+¡	java:S116t"fRename this field "m_categoryOrderRandomButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‰¶J$b29d0331-0f88-40cd-a971-28ab6bb78f85
+š	java:S116v"_Rename this field "m_shuffleRatioSlider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆƒ¼¿J$46bedd80-b105-4f59-a443-9a86e7b01926
+”	java:S116y"YRename this field "m_scheduleDays" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬àûèJ$a9d4b528-ac35-4980-a2ad-7aafa58893ce
+•	java:S116z"ZRename this field "m_scheduleHours" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºúÛ…J$40a70d29-d348-497a-9037-ca43edd6e7cc
+—	java:S116{"\Rename this field "m_scheduleMinutes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÂÎäJ$401a30d2-f240-42cf-a0c2-0e20bee65920
+¤	java:S116|"dRename this field "m_schedulePresetsComboBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İüü†ùÿÿÿÿJ$6d289ffb-99ff-4003-8793-1a12534cd218
+£	java:S116~"hRename this field "m_fixedExpirationTimeCheckBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü®Ó¤J$74227772-0d56-4209-bcb7-c32bddc00c29
+£	java:S116"gRename this field "m_fixedExpirationTimeSpinner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äß‡‹J$982b62b9-72b6-4aeb-add0-4f6c8fa53591
+‘	java:S116„"URename this field "m_settings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó»ãåJ$7578e211-4fa0-4bc3-b70a-1ad8c4bd9370
+	java:S116…"]Rename this field "m_hasSelectedCards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ©–»ıÿÿÿÿJ$d5a5a8b2-c554-4969-9e56-b7adb6f48453
+˜
+java:S1149è"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(á¬ı¥üÿÿÿÿJ$93ec2739-ac4e-475a-861b-781d078f28d8
+^
+java:S2129Ì"!Remove this "Integer" constructor(¥œ€®J$605474cd-6bc9-4a6f-8e36-a66f59930795
+…
+java:S5738Ì"HRemove this call to a deprecated method, it has been marked for removal.(¥œ€®J$3db015f5-5433-478a-bfd8-c10fa9a31a9a
+^
+java:S2129Í"!Remove this "Integer" constructor(ÿóJ$1d57d587-4e5f-4734-9e56-5dfc12df2427
+…
+java:S5738Í"HRemove this call to a deprecated method, it has been marked for removal.(ÿóJ$f653e546-df4b-40b8-b935-b4d26655001e
+c
+java:S2129ä"!Remove this "Integer" constructor(Õ”¨ÕûÿÿÿÿJ$2a3da309-bdcf-45d7-a178-9314b076117a
+Š
+java:S5738ä"HRemove this call to a deprecated method, it has been marked for removal.(Õ”¨ÕûÿÿÿÿJ$fe9dd518-1d46-41fe-b582-6b177a9c81c6
+c
+java:S2129å"!Remove this "Integer" constructor(ûØ©ùÿÿÿÿJ$da0f86e2-0f9d-4a0b-a3b3-02856c2e5a85
+Š
+java:S5738å"HRemove this call to a deprecated method, it has been marked for removal.(ûØ©ùÿÿÿÿJ$e71bcd54-f75c-48e3-8a89-a1926e93d6c1
+
+java:S3358—"DExtract this nested ternary operation into an independent statement.(å¤î¶J$fbf2403c-c67e-4708-9c07-ac37cf7d1a79
+†
+java:S3358˜"DExtract this nested ternary operation into an independent statement.(Í·Ç«şÿÿÿÿJ$8bc99c32-3750-4b4b-84c7-ab9157bd27ce
+•
+java:S6201"SReplace this instanceof check and cast with 'instanceof SimpleDateFormat formatter'(Ò‚•¸üÿÿÿÿJ$74a5d44f-c64c-4956-b2cb-2237fb6c583c
+t
+java:S1135ü"2Complete the task associated to this TODO comment.(³°¼›úÿÿÿÿJ$86336a94-5f45-4462-9da5-8c900e374294
+^
+java:S2129˜"!Remove this "Integer" constructor(¡ÖÁáJ$fd15f4ba-290d-4317-8757-1d1f1712c761
+…
+java:S5738˜"HRemove this call to a deprecated method, it has been marked for removal.(¡ÖÁáJ$ee898692-d870-473e-a5fb-ced72b59e1a7
+^
+java:S2129™"!Remove this "Integer" constructor(üÂî¤J$95078353-87e8-40c3-a61d-db736cf92921
+…
+java:S5738™"HRemove this call to a deprecated method, it has been marked for removal.(üÂî¤J$d284afb5-6872-4167-8cd8-02bf6edc92b3
+^
+java:S2129š"!Remove this "Integer" constructor(ï¯óÏJ$8b9d8ffb-6149-49f7-bbd6-78b920d02fc9
+…
+java:S5738š"HRemove this call to a deprecated method, it has been marked for removal.(ï¯óÏJ$b4dcc476-ed8b-4899-aa18-b438361edf97
