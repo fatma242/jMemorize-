@@ -18,14 +18,15 @@
  */
 package jmemorize.core.test;
 
-import java.util.Date;
-import java.util.LinkedList;
-import java.util.List;
-
 import jmemorize.core.Card;
 import jmemorize.core.CardSide;
 import jmemorize.core.Category;
 import junit.framework.TestCase;
+import org.junit.Test;
+
+import java.util.Date;
+import java.util.LinkedList;
+import java.util.List;
 
 public class CardTest extends TestCase
 {
@@ -140,5 +141,47 @@ public class CardTest extends TestCase
         assertEquals(m_card.getTestsTotal(), clonedCard.getTestsTotal());
         assertEquals(m_card.getLearnedAmount(true), clonedCard.getLearnedAmount(true));
         assertEquals(m_card.getLearnedAmount(false), clonedCard.getLearnedAmount(false));
+    }
+    @Test
+    public void testRemoveCardFromFavorites() {
+
+
+        m_card.markAsFavorite();
+
+
+        m_card.removeFromFavorites();
+
+
+        assertFalse(m_card.isFavorite());
+    }
+    @Test
+    public void testMarkCardAsFavorite() {
+
+
+
+
+        m_card.markAsFavorite();
+
+
+
+        assertTrue(m_card.isFavorite());
+    }
+    @Test
+    public void testGetAllFavoriteCards() {
+
+        // Create some cards and mark them as favorite
+        Card favoriteCard1 = new Card();
+        favoriteCard1.markAsFavorite();
+
+        Card favoriteCard2 = new Card();
+        favoriteCard2.markAsFavorite();
+
+        
+        List<Card> favoriteCards = Card.getAllFavoriteCards();
+
+        // Check if all favorite cards are retrieved
+        assertEquals(2, favoriteCards.size());
+        assertTrue(favoriteCards.contains(favoriteCard1));
+        assertTrue(favoriteCards.contains(favoriteCard2));
     }
 }

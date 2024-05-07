@@ -18,15 +18,16 @@
  */
 package jmemorize.core.test;
 
+import jmemorize.core.Card;
+import jmemorize.core.Category;
+import jmemorize.core.CategoryObserver;
+import junit.framework.TestCase;
+
 import java.util.Calendar;
 import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
 
-import jmemorize.core.Card;
-import jmemorize.core.Category;
-import jmemorize.core.CategoryObserver;
-import junit.framework.TestCase;
 
 
 /**
@@ -487,4 +488,7 @@ public class CategoryTest extends TestCase implements CategoryObserver
     {
         m_events.add(new CardEvent(type, card, deck));
     }
+
+
+
 }

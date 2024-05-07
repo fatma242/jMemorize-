@@ -1,0 +1,63 @@
+
+r
+java:S3740¯"/Provide the parametrized type for this generic.(é™‘m8š™îšõ1J$189001d8-9c58-4b08-9a94-e6529c71d176
+œ
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç³¡ç8™îšõ1J$ae986315-8e41-490f-a030-c92222cd5b84
+œ
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(œãºº8™îšõ1J$3ae047e7-89e5-4886-a55b-89b4a246d609
+¡
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(µı·Óıÿÿÿÿ8™îšõ1J$620232d2-94ab-4dc0-a6a2-953abb04d57c
+¢
+java:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÃÜøÿÿÿÿ8ª™îšõ1J$fdc5c42a-cb73-461c-bb45-94595c6dc077
+
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ–½æ8º™îšõ1J$b3de4d75-fd58-4526-be14-ac3e2fd4129a
+
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı¤Ò©8»™îšõ1J$40819ae4-e24d-4191-b50b-6b0feea1b1f7
+¢
+java:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÄ‚µúÿÿÿÿ8»™îšõ1J$c7a6ffbe-26ae-4504-9e48-2652ff6e767a
+¢
+java:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜”¡¾üÿÿÿÿ8¼™îšõ1J$4b8a6be9-675c-4145-a747-096ef5b975b3
+
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç³ı8¼™îšõ1J$0659da09-e410-402b-95a6-ba4b4e4478e3
+
+java:S2293î"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ•Šú8½™îšõ1J$a6a5125c-25f9-43e0-8cae-9adc11669564
+
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ÀÓ¹8½™îšõ1J$936d7b89-95a2-44e5-9a6a-e68955d8e87b
+
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(š½Â 8¾™îšõ1J$b96af741-0402-4915-af87-e65b18177802
+
+java:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(š½Â 8¾™îšõ1J$ac7e9866-3e89-40c4-9f14-74527659bf6a
+
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(É²¤8¿™îšõ1J$2be860f5-60e9-40db-98da-2e74715d6028
+
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(É²¤8À™îšõ1J$ba42bca9-7d1a-4d83-8b02-34c6878aff29
+˜	java:S116."VRename this field "m_observers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç³¡ç8éœîšõ1J$7660ea4b-4c92-4ee4-998e-cd4ed51faeec
+˜	java:S1160"QRename this field "m_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëœ¢Áşÿÿÿÿ8éœîšõ1J$e7a9aafc-c93e-4353-b3cf-8d57f7b35054
+”	java:S1161"RRename this field "m_depth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ó²ñ8êœîšõ1J$32c0c9d4-7c50-4fe0-a8e2-682ff51c47a6
+”	java:S1163"RRename this field "m_decks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œãºº8êœîšõ1J$c11b63ab-e115-4145-abed-7cc260ab2227
+•	java:S1165"SRename this field "m_parent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î£ê8êœîšõ1J$b9bac155-8ac0-4b9e-978f-1c2cb7a95e66
+£	java:S1166"\Rename this field "m_childCategories" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µı·Óıÿÿÿÿ8êœîšõ1J$72a0edad-7089-47cb-b5c1-98707b59208b
+z
+java:S1135-"2Complete the task associated to this TODO comment.(ÎòÓ¨ûÿÿÿÿ8ôœîšõ1J$b9f84148-a32d-4282-a4a2-18c652e88720
+k
+java:S1905Š"'Remove this unnecessary cast to "Card".(ƒæ©à8¥îšõ1J$bb9e6ff5-0074-49c0-abe2-5acdaf3c826e
+k
+java:S1905"'Remove this unnecessary cast to "Card".(ƒæ©à8¨îšõ1J$5a5e91cf-0caa-415f-85ba-0350e19cf7ec
+k
+java:S1905¹"'Remove this unnecessary cast to "Card".(ƒæ©à8­îšõ1J$0e764f25-fcf1-4a0a-9e1a-54cb5b3e48af
+‚
+java:S1155ä">Use isEmpty() to check whether the collection is empty or not.(ç³ı8¹îšõ1J$75626530-0174-4e04-b54a-33b57f9174c9
+q
+java:S4274õ"(Replace this assert with a proper check.(š“´·üÿÿÿÿ8Ëîšõ1J$de28bb5c-00ef-489b-9ec6-f6a0ed89d0e6
+u
+java:S1135œ"2Complete the task associated to this TODO comment.(çÇÍ;8Òîšõ1J$5477ea4c-8a06-47d1-a98e-7b644bd44837
+‚
+java:S1117È"9Rename "cards" which hides the field declared at line 56.(Óéô”øÿÿÿÿ8Úîšõ1J$dc240a66-1206-42e3-9dca-5d48a9030bc3
+t
+java:S1905Ò"+Remove this unnecessary cast to "Category".(¼Æ’Éùÿÿÿÿ8Üîšõ1J$b8d76cf9-adc8-4287-b970-4d28eacb831e
+‚
+java:S1117†"9Rename "cards" which hides the field declared at line 56.(íÀõ«ûÿÿÿÿ8äîšõ1J$1b1c26c1-737f-4753-91f3-bd07b4d21280
+‚
+java:S1117"9Rename "cards" which hides the field declared at line 56.(íÀõ«ûÿÿÿÿ8êîšõ1J$42d2b09f-fe3a-41cb-8cc8-f56059ffdd08
+l
+java:S10688")Remove this unused "cards" private field.(òéÿ„8‰½õ1J$7dc0a811-bb1e-4aee-9d71-38ee3ed5d18f

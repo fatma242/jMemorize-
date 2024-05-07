@@ -1,0 +1,19 @@
+
+›
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(àÂÑÄşÿÿÿÿJ$96c16368-58e5-45af-bfe4-a441bf68b2b3
+
+java:S1192G"NDefine a constant instead of duplicating this literal "more/test.gif" 8 times.(ÂşèèÿÿÿÿÿJ$fe7445d1-7c73-480f-93c4-1d57d0fa24c0
+…
+java:S1192Y"IDefine a constant instead of duplicating this literal "test.png" 3 times.(İˆ©¸J$f3413ea1-0c1e-4ad9-a5d9-6d6f5247605d
+‹
+java:S11925"JDefine a constant instead of duplicating this literal "test.gif" 14 times.(í¬˜•øÿÿÿÿJ$dfa81180-70ff-4142-954e-a9c1b0896fa6
+	java:S116$"ORename this field "m_ir" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôŸ«ûÿÿÿÿJ$513c8d0c-6361-45f3-aac8-5daf8d3f53d0
+†
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(£½îæûÿÿÿÿJ$da599dc4-b26a-4f7f-b3be-032a8a082de9
+s
+java:S1135;"2Complete the task associated to this TODO comment.(Ç¥¼ŸıÿÿÿÿJ$847410e6-cb51-48ea-8f7a-f59096da8d1b
+w
+java:S1854":Remove this useless assignment to local variable "imgDir".(¯É‚úJ$a2d40e8b-4bd2-4abc-aa1b-218141c66d92
+w	java:S899´";Do something with the "boolean" value returned by "delete".(íÔˆ¢J$2411435f-69a8-4874-9f3f-6dfaf3bae464
+‹
+java:S4042´"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(íÔˆ¢J$299bca90-303b-4c02-958d-3ef4b7be546d

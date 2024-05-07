@@ -18,10 +18,11 @@
  */
 package jmemorize.core;
 
+import jmemorize.core.CardSide.CardSideObserver;
+
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-
-import jmemorize.core.CardSide.CardSideObserver;
 
 /**
  * A flash card that has a front/flip side and can be learned.
@@ -36,7 +37,7 @@ public class Card implements Events, Cloneable
     private boolean isFavorite;
     private Category m_category;
     private int      m_level;
-
+    private static List<Card> favoriteCards = new ArrayList<>();
     // content
     private CardSide m_frontSide = new CardSide();
     private CardSide m_backSide  = new CardSide();
@@ -90,6 +91,10 @@ public class Card implements Events, Cloneable
         m_backSide = backSide;
         
         attachCardSideObservers();
+    }
+
+    public Card() {
+
     }
 
     /**
@@ -482,12 +487,22 @@ public class Card implements Events, Cloneable
         
         return date;
     }
+
+
+
+
+    public static List<Card> getAllFavoriteCards() {
+        return favoriteCards;
+    }
+
     public void markAsFavorite() {
         isFavorite = true;
+        favoriteCards.add(this);
     }
 
     public void removeFromFavorites() {
         isFavorite = false;
+        favoriteCards.remove(this);
     }
 
     public boolean isFavorite() {

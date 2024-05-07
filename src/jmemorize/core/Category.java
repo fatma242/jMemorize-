@@ -18,15 +18,9 @@
  */
 package jmemorize.core;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.Date;
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.List;
-
 import jmemorize.util.NaturalOrderComparator;
+
+import java.util.*;
 
 /**
  * A card category can hold a number of 0 to n decks. The cards in deck 0 are
@@ -59,7 +53,7 @@ public class Category implements Events
     private Category               m_parent;
     private List<Category>         m_childCategories = new LinkedList<Category>();
 
-    private List<Card> cards;
+    private static List<Card> cards;
     /**
      * Creates a new Category.
      * 
@@ -718,14 +712,6 @@ public class Category implements Events
             m_decks.remove(getNumberOfDecks()-1);
         }
     }
-    public List<Card> getAllFavoriteCards() {
-        List<Card> favoriteCards = new ArrayList<>();
-        for (Card card : cards) {
-            if (card.isFavorite()) {
-                favoriteCards.add(card);
-            }
-        }
 
-        return favoriteCards;
-    }
+
 }
