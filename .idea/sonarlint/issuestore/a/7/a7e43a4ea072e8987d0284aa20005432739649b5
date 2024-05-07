@@ -1,0 +1,10 @@
+
+™	java:S116("^Rename this field "m_selectionProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ”›J$01ebacf6-a914-4a8c-a4e1-6d2ab2107d9c
+q
+java:S1948("5Make "m_selectionProvider" transient or serializable.(ƒ”›J$a2b5375a-8628-41f7-8719-b1a4466f62a7
+\
+java:S21298"!Remove this "Integer" constructor(“ÆÉJ$f13cbd23-d238-4c3e-b74b-9483c5da082d
+ƒ
+java:S57388"HRemove this call to a deprecated method, it has been marked for removal.(“ÆÉJ$3882125a-2d12-4c14-a48d-c0ee6994c867
+
+java:S1155V">Use isEmpty() to check whether the collection is empty or not.(ù¯¹ÎüÿÿÿÿJ$da4d101a-76ce-4585-86fe-d2280a4a3fe4

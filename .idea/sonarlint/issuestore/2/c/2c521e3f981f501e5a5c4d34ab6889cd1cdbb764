@@ -1,0 +1,12 @@
+
+‚
+java:S2184 "FCast one of the operands of this multiplication operation to a "long".(±Ğ‡ÌJ$9a588b62-1b66-46f0-886b-42db8bf42a42
+	java:S116""TRename this field "m_history" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë˜–J$95813d24-d6bd-4fa7-9018-6f60c6a4e4a4
+’	java:S116$"RRename this field "m_date0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¤®ÁúÿÿÿÿJ$8bfc37e8-0d8e-466b-8efd-7e08b0cb5945
+’	java:S116%"RRename this field "m_date1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛûĞÊşÿÿÿÿJ$8ced153a-4d7d-43b4-b635-5191fdb3139b
+	java:S116&"RRename this field "m_date2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¶ƒ“J$3a1d7645-690c-4ec9-b474-2143e6106185
+’	java:S116'"RRename this field "m_date3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éî­¦úÿÿÿÿJ$777c9c4b-64ac-43b9-b01a-ee0dce11792c
+
+java:S3008 "QRename this field "MINUTE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ğ‡ÌJ$62879e4b-b4f5-4bc7-a5ec-8bc0205485b3
+{
+java:S1161,":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿJ$8b835a4d-320b-49a4-b9a8-fce4a4b3415d

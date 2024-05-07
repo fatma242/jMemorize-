@@ -1,0 +1,16 @@
+
+–	java:S116i"[Rename this field "m_nextDeckAction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(– œ±J$3bcdda0b-bb06-436c-a826-bc0b96932f69
+š	java:S116j"_Rename this field "m_previousDeckAction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âª‹İJ$320563f5-b5de-4717-b869-8fe2f5d052f1
+	java:S116l"]Rename this field "m_currentDeckLevel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿü¯ûÿÿÿÿJ$0fdbb79f-3c26-4f8e-9516-a412d3ebb0eb
+	java:S116m"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$dede548b-c8c2-4321-85b2-9c04867809cf
+Œ	java:S116o"RRename this field "m_frame" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†è…
+J$9d8ee6a2-568e-404e-9a17-cc1550a57699
+–	java:S116r"VRename this field "m_cardTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¼Í¿øÿÿÿÿJ$baa9dfad-2782-4ea5-818a-395bb57b939f
+o
+java:S1948m",Make "m_category" transient or serializable.(¯™ø8Ö¤¤³ñ1J$8f4209b7-8d8e-43dd-be7e-4694eb372515
+k
+java:S1905”"'Remove this unnecessary cast to "Card".(îŒ©ª8û¤¤³ñ1J$a8244759-ce6b-44d6-bdae-308dc6a10421
+t
+java:S1135º"2Complete the task associated to this TODO comment.(õœû´ÿÿÿÿÿJ$3814a899-daca-44d2-8a1f-71d9071ca50f
+w
+java:S1161Ø":Add the "@Override" annotation above this method signature(·øÏƒJ$a5e78404-f6df-46d4-a130-da311b5222d1

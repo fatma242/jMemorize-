@@ -1,0 +1,13 @@
+
+›
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¡ÜëøÿÿÿÿJ$3921b3ea-0b1d-44a3-b089-3e12c972f15c
+	java:S116 "URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$0d7eb9f2-0e85-41ad-910d-b021067d193e
+”	java:S116!"TRename this field "m_session" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ê¿şÿÿÿÿJ$ba89dc73-bb0b-4c6c-b307-7adb5420b3ae
+	java:S116""URename this field "m_settings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó»ãåJ$be38c88c-a9ae-4947-9946-58a2a2e72296
+	java:S116#"URename this field "m_provider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ØÛÔJ$2e696e9b-1e7c-40c2-b1ca-d99d6e9c3828
+Â
+java:S1186,"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾‘’üüÿÿÿÿJ$6b9dffe5-734e-4e0d-9754-9ec46b4106a6
+{
+java:S1161%":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿJ$4949d69e-593c-4d65-9396-9ef22eb599d5
+{
+java:S1161,":Add the "@Override" annotation above this method signature(¾‘’üüÿÿÿÿJ$b0fce9b3-b6a1-48d6-b011-4f230d046253

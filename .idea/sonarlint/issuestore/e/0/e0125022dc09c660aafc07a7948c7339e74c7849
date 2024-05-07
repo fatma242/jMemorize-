@@ -1,0 +1,56 @@
+
+š
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(–©×ÑùÿÿÿÿJ$3fa6aae8-3fe2-4d3b-acb8-4b970dab890a
+š	java:S116Q"ZRename this field "m_formattedText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÃ¦ÂüÿÿÿÿJ$f5f0241a-9394-4d07-903c-4e3cce30b34b
+œ	java:S116R"\Rename this field "m_unformattedText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÅ¯üÿÿÿÿJ$56216be5-3ceb-4dc5-a99e-f00102d95138
+Õ
+java:S65484"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ìÊ‡µJ$63c71d76-038c-4652-b3ae-184d62ce0a5b
+œ
+java:S1149õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$1adc19b7-5788-4c80-87b3-15243c615fe7
+œ
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$9b50851b-b5ec-4cc5-8532-f4e5b245f4d8
+œ
+java:S1149æ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ŒÏüµJ$c944ba32-59d1-4424-9c59-d9d41dfbbe0e
+s
+java:S1135>"2Complete the task associated to this TODO comment.(ÂÑà“ýÿÿÿÿJ$7c828793-bd6a-4c0f-a37a-2e495cf2f600
+s
+java:S1135?"2Complete the task associated to this TODO comment.(·å«òûÿÿÿÿJ$2e2e2961-0082-415b-9726-9a6d41cf5e5c
+n
+java:S1135@"2Complete the task associated to this TODO comment.(ºŽÓéJ$10f699fa-d110-4d65-b8a5-f79a68045f15
+n
+java:S1135A"2Complete the task associated to this TODO comment.(æþš¾J$489c4b72-c3a8-4adf-b9b6-2924bb02f0fb
+|	java:S125M"<This block of commented-out lines of code should be removed.(ØÙ®÷øÿÿÿÿJ$0025d39c-3701-46e5-bf39-672b05a50eb2
+o
+java:S1135"2Complete the task associated to this TODO comment.(ýõ–ñJ$7568b7c2-2297-46f2-b19a-523272e73521
+•
+java:S2975Ç"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿJ$42baf69c-7d09-4221-9a13-f6dc9ee0cb57
+V
+java:S2225Ò"Return a non null object.(¥¹ïJ$89b7c668-f9ab-430b-855a-caf779fabbfd
+‰
+java:S6201Ú"LReplace this instanceof check and cast with 'instanceof FormattedText other'(›óÐòJ$91b862e8-a2e8-4aed-9264-99ba2a093e51
+x	java:S125š"<This block of commented-out lines of code should be removed.(¼µ­²J$59fcf46e-a529-4bb6-8908-e01bef5dcb21
+q
+java:S2864Â"4Iterate over the "entrySet" instead of the "keySet".(ü—º¥J$17808ca7-7004-474a-8bc1-6f0aea521219
+…
+java:S5361Ò"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¨¤‰§J$013c4684-d3af-4bd2-9d12-099854c1cf35
+…
+java:S5361Ò"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¨¤‰§J$0108265c-04bd-4557-ae9b-b679e1fb2e32
+Š
+java:S5361×"HReplace this call to "replaceAll()" by a call to the "replace()" method.(œÂ†•ùÿÿÿÿJ$6fbc5b37-10e1-4fe4-a809-7f801e4a6fd1
+Š
+java:S5361×"HReplace this call to "replaceAll()" by a call to the "replace()" method.(œÂ†•ùÿÿÿÿJ$cfde20f8-3101-4d08-a489-f9e03b458ae7
+Ç
+java:S1130ä"„Remove the declaration of thrown exception 'jmemorize.core.FormattedText$ParseException', as it cannot be thrown from method's body.(Œå¨²ùÿÿÿÿJ$166ea95b-f176-450b-be24-39f8f128e253
+x	java:S125è"<This block of commented-out lines of code should be removed.(ñÞõôJ$7ba10e73-f1c2-4a48-8532-0ed41677b6d3
+x	java:S125Ž"<This block of commented-out lines of code should be removed.(£Ã‡ÇJ$01eb456f-40c0-4748-9dc9-cd068e258b98
+x	java:S125™"<This block of commented-out lines of code should be removed.(Ú°à¬J$7fa2fa62-49db-4cdc-bd97-90eafb8fb67d
+t
+java:S1135–"2Complete the task associated to this TODO comment.(¨ƒîéþÿÿÿÿJ$2155ef62-b7bb-4ee4-94a6-d424fba6b931
+l
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å8Ï§çåð1J$9c421b4d-3e63-48fb-aaea-446480530509
+w
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8Ï§çåð1J$1e457408-4583-410f-afb5-070daa302109
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8Ï§çåð1J$6d141e99-d9bc-422a-b730-ddf38cc1c6da
+x
+java:S1128"0Remove this unused import 'java.util.Map.Entry'.(±þê¾úÿÿÿÿ8Ï§çåð1J$096d6d86-c9d0-466a-9329-4d662c6cd260

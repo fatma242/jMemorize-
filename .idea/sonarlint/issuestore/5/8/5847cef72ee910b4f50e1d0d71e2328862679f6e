@@ -1,0 +1,30 @@
+
+¡
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ûƒµàûÿÿÿÿ8ó©‘õ1J$bd54106e-4ead-43ee-b006-334ed463607b
+¡
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ú³¹øÿÿÿÿ8ó©‘õ1J$6a466c32-d03f-488c-92a9-2a17b49bd641
+¢
+java:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄãÀœùÿÿÿÿ8ó©‘õ1J$ee9877db-a085-435e-b5e7-5c721b471767
+
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥÷äÅ8ô©‘õ1J$81cc5356-9478-43a2-92b2-d61fba0d17bf
+¢
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ô“Åûÿÿÿÿ8ô©‘õ1J$f4a080b0-2942-48ef-977a-ede96e2adb09
+_
+java:S1643s"Use a StringBuilder instead.(âÍúØ8ö©‘õ1J$342bd28d-d42c-4926-8a84-66b64c3a89df
+œ	java:S1160"URename this field "m_imageMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûƒµàûÿÿÿÿ8—ª‘õ1J$191824ac-4e57-4529-a3b6-e70d8d204f87
+	java:S1161"WRename this field "m_imageCache" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ú³¹øÿÿÿÿ8—ª‘õ1J$64b32672-e40a-4aee-9bbd-51f34b8ccc8d
+˜
+java:S3008."URename this field "m_instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¤Ø8—ª‘õ1J$3cb42024-a887-4f04-a708-1fcc7e8a852b
+á
+java:S6548("˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(şï»¥øÿÿÿÿ8™ª‘õ1J$cddbf7d5-a745-4e3d-bd19-26f93e9475b6
+™	java:S1167"WRename this field "m_sourceFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø´º÷8Ÿª‘õ1J$7db4685f-7e54-425b-908b-73ce7f62030b
+”	java:S1168"RRename this field "m_bytes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÇÜŠ8Ÿª‘õ1J$d4471401-1b32-49b5-8458-931b37bdca71
+–	java:S1169"ORename this field "m_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“œ­ªùÿÿÿÿ8Ÿª‘õ1J$bb619adf-4e3c-472b-b2e4-e020a7e2b333
+v
+java:S1135‰"2Complete the task associated to this TODO comment.(€éîÈ8¥ª‘õ1J$f011124e-3e46-4d5a-af88-d8ea8f432f87
+{
+java:S1135˜"2Complete the task associated to this TODO comment.(Ë­€­ÿÿÿÿÿ8§ª‘õ1J$bd9d7749-e4b5-43d1-b2bf-0741cb719889
+	java:S125»"<This block of commented-out lines of code should be removed.(ÆÈ„8«ª‘õ1J$9196c2c3-6b06-411a-88a8-8bf7c0b0a060
+t
+java:S1874Ø"+Remove this use of "URL"; it is deprecated.(ƒìŒ½ıÿÿÿÿ8®ª‘õ1J$9bd500bf-12a8-4a68-b72a-990e23353751
+	java:S125Í"<This block of commented-out lines of code should be removed.(¥•ÖÏ8¸ª‘õ1J$7beb3f12-deaa-4df6-8cd9-e6d29a600531

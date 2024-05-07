@@ -137,17 +137,17 @@ public class Main extends Observable implements LearnSessionProvider,
     {
         Lesson oldLesson = m_lesson;
         m_lesson = lesson;
-        
+
         if (oldLesson != null)
         {
             fireLessonClosed(oldLesson);
         }
-        
+
         if (m_frame != null) // TODO remove call
         {
             m_frame.setLesson(m_lesson);
         }
-        
+
         fireLessonLoaded(m_lesson);
     }
 

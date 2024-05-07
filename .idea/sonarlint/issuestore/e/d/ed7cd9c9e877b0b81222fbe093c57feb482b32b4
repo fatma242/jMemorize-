@@ -1,0 +1,65 @@
+
+ˆ
+java:S1192h"GDefine a constant instead of duplicating this literal "german" 3 times.(¶³¢¼øÿÿÿÿJ$5c81c256-541f-440b-8a2a-5ed884374351
+‰
+java:S1192f"HDefine a constant instead of duplicating this literal "capital" 6 times.(£Ÿ°êÿÿÿÿÿJ$307cf205-ad6d-4738-aac4-652d06d26231
+„
+java:S1192T"HDefine a constant instead of duplicating this literal "germany" 8 times.(±ğÒ©J$97005c08-4efc-48f2-9bfd-80b3e6042f51
+
+java:S1192`"SDefine a constant instead of duplicating this literal "withCategories.csv" 3 times.(À°’J$412d10d0-2125-4175-9eac-c895873fb515
+Š
+java:S1192h"IDefine a constant instead of duplicating this literal "language" 3 times.(¶³¢¼øÿÿÿÿJ$de2c96e3-61bd-4dd1-9253-475c4fc2bf9b
+‚
+java:S1192Z"FDefine a constant instead of duplicating this literal "paris" 5 times.(Ë™Ë”J$83aded85-24e8-4b39-9da1-9c0e8e0e03dc
+ 
+java:S11923"_Define a constant instead of duplicating this literal "Expected exception not thrown." 3 times.(¨ÙºùÿÿÿÿJ$fcbd8667-683d-4132-9209-4b841626dddd
+ƒ
+java:S1192Y"GDefine a constant instead of duplicating this literal "france" 5 times.(øîå‡J$4e2aade7-faba-4dab-857f-a5b9b579aac1
+ƒ
+java:S1192U"GDefine a constant instead of duplicating this literal "berlin" 5 times.(…ÿ‰”J$4e016053-4a60-412c-a168-d3e3ade2cb5b
+j
+java:S1604Á"(Make this anonymous inner class a lambda(Ç¢ÔüÿÿÿÿJ$06ae2712-7256-4ca4-9666-57fb7754dee1
+{
+java:S4719*":Replace Charset.forName() call with StandardCharsets.UTF_8(ì”Ä‹üÿÿÿÿJ$fbc1d774-2bd6-4813-b07c-3414a992e176
+h
+java:S1905S"'Remove this unnecessary cast to "Card".(¯Ñ“»úÿÿÿÿJ$3bb1afc2-d761-4253-9994-8a6e26c21e89
+h
+java:S1905X"'Remove this unnecessary cast to "Card".(­æÜ†ùÿÿÿÿJ$1c65f513-5a14-4879-a939-85ba6fd06d3a
+h
+java:S1905f"'Remove this unnecessary cast to "Card".(£Ÿ°êÿÿÿÿÿJ$d2440513-cb66-4536-888f-d95f75861a0a
+c
+java:S1905g"'Remove this unnecessary cast to "Card".(Ù¦Ñ«J$bf90c02e-b307-4916-a6ad-7c20acf4995f
+h
+java:S1905h"'Remove this unnecessary cast to "Card".(¶³¢¼øÿÿÿÿJ$1f44f8cc-687d-41c1-b483-f8abf3c9f06a
+c
+java:S1905x"'Remove this unnecessary cast to "Card".(µ¿­J$b51110cc-11b3-4c4a-b55a-adc9dc5e5730
+c
+java:S1905y"'Remove this unnecessary cast to "Card".(Ù¦Ñ«J$3f63fbdd-cf20-424d-a040-8300ba5cbb98
+c
+java:S1905{"'Remove this unnecessary cast to "Card".(³±‚ J$996a79f7-c9d4-4775-a5ca-08cbaac0f8d7
+h
+java:S1905|"'Remove this unnecessary cast to "Card".(ˆËÒşÿÿÿÿJ$3857b110-3df4-47c4-8a74-2a8cc7c7f301
+h
+java:S1905~"'Remove this unnecessary cast to "Card".(ñÄ™™ıÿÿÿÿJ$d1562550-7006-4c1c-a05a-ee69ae9d6ca8
+h
+java:S1905"'Remove this unnecessary cast to "Card".(ß‚ÿºùÿÿÿÿJ$4c014a3e-e288-4793-af32-fe5542fb8f9e
+i
+java:S1905Œ"'Remove this unnecessary cast to "Card".(¶•”´üÿÿÿÿJ$69a9351a-d684-4779-a07e-dbae0b0a3564
+i
+java:S1905"'Remove this unnecessary cast to "Card".(­Ù÷şÿÿÿÿJ$57ae6225-ab01-4803-966e-8bf9c6273320
+i
+java:S1905"'Remove this unnecessary cast to "Card".(šˆ¿ùøÿÿÿÿJ$5424c79f-ad3c-4e07-831c-6af44c46cd04
+i
+java:S1905"'Remove this unnecessary cast to "Card".(ÌÍö‰ûÿÿÿÿJ$0ec36b85-3ab5-44e7-868b-27dd9a544081
+d
+java:S1905‘"'Remove this unnecessary cast to "Card".(ˆø‚ÀJ$a6f8a81b-7e56-4038-854c-d96ecf93b2bb
+i
+java:S1905’"'Remove this unnecessary cast to "Card".(³Êæ¹şÿÿÿÿJ$69db3a45-7386-43a9-ae2a-cb3384016d7c
+d
+java:S1905“"'Remove this unnecessary cast to "Card".(ØÇ„J$33ceb6ff-2e0f-4178-a501-1311c627493d
+i
+java:S1905”"'Remove this unnecessary cast to "Card".(™ÙÒÍüÿÿÿÿJ$a98d459e-d417-4379-868c-91496efae1cf
+d
+java:S1905¶"'Remove this unnecessary cast to "Card".(¾¦œJ$b9ac75d4-eb9b-4c73-8a1c-6710d18b763e
+i
+java:S1905·"'Remove this unnecessary cast to "Card".(š¶ş»üÿÿÿÿJ$a93a78c1-3df9-4bd0-9d1c-97ef26aec8fb

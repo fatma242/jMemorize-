@@ -1,0 +1,21 @@
+
+š
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(ó¼š¡üÿÿÿÿJ$3bdf125b-3128-449f-9582-61791b85742a
+™	java:S116U"YRename this field "m_rootCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÔ…µÿÿÿÿÿJ$9864ff5c-294f-4738-9e72-b2f79bbba659
+š	java:S116V"ZRename this field "m_childCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›“şëøÿÿÿÿJ$42c73215-b507-4160-9369-29c4d1f1719b
+	java:S116X"URename this field "m_rootCard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¾Á¹J$30546147-eae1-4557-a171-3a580c165164
+‘	java:S116Y"VRename this field "m_childCard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙåİïJ$c7d2a98f-0806-4212-bf4a-663bbb53a030
+“	java:S116["SRename this field "m_events" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¼š¡üÿÿÿÿJ$3b2d1d43-0706-4ba8-ba9b-87f6dce47c7e
+Œ	java:S116."QRename this field "m_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôæğ€J$390221a5-00a0-442c-8905-3034160f2ac4
+‘	java:S116/"QRename this field "m_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘Ü‘şÿÿÿÿJ$50c94f04-2c2a-40fc-8fca-ef4565b827e9
+’	java:S1160"RRename this field "m_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡ú®úÿÿÿÿJ$2c6ba8a9-1acc-4b82-9cd5-3b9894b536eb
+Œ	java:S116D"QRename this field "m_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôæğ€J$472b36cb-1a45-4757-bc30-7275734631ea
+	java:S116E"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$7a69df4c-5392-4c7e-b713-2e9ba8e6cc17
+{
+java:S1161`":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿJ$020ccf9c-c987-4577-9f99-6b4ce59c8816
+~
+java:S2209ª"5Change this instance-reference to a static reference.(å¹ÿĞùÿÿÿÿ8ÆÚ¤³ñ1J$e037c3c2-4859-4798-b0e3-3d9fe3004446
+y
+java:S2209¶"5Change this instance-reference to a static reference.(œñÃá8ÇÚ¤³ñ1J$d9c6af0e-b941-46d3-b319-b76432b34470
+o
+java:S1135º"2Complete the task associated to this TODO comment.(°Î½ŒJ$8de4353d-4f98-4dc0-83b0-162a8f9bf415

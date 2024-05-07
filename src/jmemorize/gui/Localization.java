@@ -132,8 +132,8 @@ public class Localization
         
         return '#' + key + '#';
     }
-    
-    public static void setBundles(Map defaultBundle, Map fallbackBundle)
+
+    public static void setBundles(Map<String, String> defaultBundle, Map<String, String> fallbackBundle)
     {
         m_fallbackBundle = fallbackBundle;
         m_defaultBundle = defaultBundle;
@@ -233,11 +233,10 @@ public class Localization
         {
             Map<?, ?> bundle = getBundleOrNull(locale);
             Set<?> bundleKeys = bundle.keySet();
-            
-            List defaultKeys = new ArrayList(defaultBundle.keySet());
+
+            List<String> defaultKeys = new ArrayList(defaultBundle.keySet());
             defaultKeys.removeAll(bundleKeys);
-            Collections.sort(defaultKeys);            
-            
+            Collections.sort(defaultKeys);
             System.out.print("Locale: "+locale.getLanguage()+ " --> ");
             if (defaultKeys.isEmpty())
             {
@@ -246,9 +245,9 @@ public class Localization
             else
             {
                 System.out.println(defaultKeys.size() + " missing Keys");
-                for (Iterator it2 = defaultKeys.iterator(); it2.hasNext();)
+                for (Iterator<String> it2 = defaultKeys.iterator(); it2.hasNext();)
                 {
-                    String key = (String)it2.next();
+                    String key = it2.next();
                     System.out.println(key + " = " + defaultBundle.get(key));
                 }
                 System.out.println();

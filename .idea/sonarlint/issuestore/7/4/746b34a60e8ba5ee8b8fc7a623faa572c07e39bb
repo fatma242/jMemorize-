@@ -1,0 +1,29 @@
+
+x
+java:S3740í"/Provide the parametrized type for this generic.(ş¡ˆøÿÿÿÿ8º€ã’õ1J$62950bd9-6cd8-4b33-9e12-bb8e078fd2b2
+¢
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(éİ”Õÿÿÿÿÿ8«›Ñ’õ1J$7980f848-68e1-4dc8-82c4-9f739e06dc86
+q
+java:S1604±"(Make this anonymous inner class a lambda(±Ãšıÿÿÿÿ8­›Ñ’õ1J$8567b02b-b688-483c-9da1-3f84e42ee192
+ˆ
+java:S2259ë"DA "NullPointerException" could be thrown; "bundle" is nullable here.(å½ñø8Šã’õ1J$9b116978-a9fc-41d0-89bd-2c6855c78035
+”
+java:S2259í"KA "NullPointerException" could be thrown; "defaultBundle" is nullable here.(ş¡ˆøÿÿÿÿ8Šã’õ1J$6f807324-e233-4793-82ea-4fac9f0b854e
+¢
+java:S3008D"ZRename this field "m_defaultBundle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓöŸûÿÿÿÿ8ğ›Ñ’õ1J$da78584f-370b-456f-bae4-872b222f96a6
+
+java:S3008E"[Rename this field "m_fallbackBundle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯…äß8ğ›Ñ’õ1J$9f963d88-4507-4166-9773-baddaffc0cdb
+r
+java:S1874¬".Remove this use of "Locale"; it is deprecated.(Êı§‚8ş›Ñ’õ1J$9b10301a-9f4b-4a4f-ad87-aad20735bbe4
+r
+java:S1874¬".Remove this use of "Locale"; it is deprecated.(Êı§‚8ş›Ñ’õ1J$5d42efac-54f5-4bb5-b872-4aa7c73dcec8
+s
+java:S2093š"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ8œÑ’õ1J$14ac6803-d54e-4168-84c3-e0dbd8d314f4
+n	java:S106ğ"+Replace this use of System.out by a logger.(™†«ñ8„œÑ’õ1J$fea02a46-f8b0-442d-b54f-8ccbaec0ca6c
+n	java:S106ó"+Replace this use of System.out by a logger.(ùàèü8„œÑ’õ1J$d6405033-b2c7-4acc-bbae-5cd6c68a3936
+s	java:S106÷"+Replace this use of System.out by a logger.(ÎŠ˜ıÿÿÿÿ8„œÑ’õ1J$cbf38f05-c08a-44c0-896e-03fbdaf3ffe8
+s	java:S106û"+Replace this use of System.out by a logger.(Ã×Ñ¬úÿÿÿÿ8…œÑ’õ1J$c7ebbe73-2d4f-431e-a7fc-ee78bd1cbb97
+s	java:S106ı"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8…œÑ’õ1J$9088ab49-bea1-4df4-88fc-826fe505f8e0
+s	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8…œÑ’õ1J$b530692b-db60-42dc-acc1-0d60f29a60f4
+h
+java:S1168™"$Return an empty map instead of null.(¥¹ï8ŒœÑ’õ1J$c8387df0-ecb7-4fcd-a629-825ab227d2a3

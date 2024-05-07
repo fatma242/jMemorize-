@@ -1,0 +1,12 @@
+
+	java:S116("URename this field "m_formater" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê£Ù	J$3227ce52-9499-4402-9ad4-ad963f886f75
+š	java:S116*"ZRename this field "m_secondsPassed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß°¡ïüÿÿÿÿJ$39d6d5f1-0eb5-4e92-958e-cdaec01d860f
+š	java:S116+"ZRename this field "m_secondsTarget" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õàÚ«øÿÿÿÿJ$445e5722-c79a-4f6d-93d0-47b7c66e4c65
+’	java:S116-"RRename this field "m_timer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÃ›ÄùÿÿÿÿJ$c3b9a06b-18ec-4257-9f0c-6dfe9a72a825
+‹	java:S116/"PRename this field "m_bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä´˜J$77c1b392-019f-407b-b874-30fea0dcb0a3
+–	java:S1160"VRename this field "m_textField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ§èÿÿÿÿÿJ$537d511d-6a6b-471d-a046-90cc79f4783e
+”	java:S1162"YRename this field "m_learnSession" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ñ€êJ$22d1b0c5-7e38-40c9-830a-fe7b864660f4
+l
+java:S19482"0Make "m_learnSession" transient or serializable.(×Ñ€êJ$5e9be291-9aa3-4905-b1ed-dd121969ef26
+|
+java:S3252I"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Ä€„J$9fe8e997-4147-4286-9c97-e0c1a7c59acc
