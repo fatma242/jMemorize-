@@ -54,6 +54,8 @@ public class Card implements Events, Cloneable
     private int      m_frontHitsCorrect;
     private int      m_backHitsCorrect;
 
+    private List<String> tags = new ArrayList<>();
+
     /**
      * Assumes formatted front- and backsides
      */
@@ -493,4 +495,41 @@ public class Card implements Events, Cloneable
     public boolean isFavorite() {
         return isFavorite;
     }
+
+    public void addTag(String tag) {
+        if (!tags.contains(tag)) {
+            tags.add(tag);
+            updateModified();
+        }
+    }
+    public void removeTag(String tag) {
+        if (tags.contains(tag)) {
+            tags.remove(tag);
+            updateModified();
+        }
+    }
+
+    public List<String> getTags() {
+        return new ArrayList<>(tags); // Return a copy to prevent external modifications
+    }
+
+    public boolean hasTag(String tag) {
+        return tags.contains(tag);
+    }
+    private void updateModified() {
+        m_dateModified = new Date();
+        if (m_category != null) {
+            m_category.fireCardEvent(EDITED_EVENT, this, m_category, m_level);
+        }
+    }
+    public static List<Card> filterByTag(List<Card> cards, String tag) {
+        List<Card> filteredCards = new ArrayList<>();
+        for (Card card : cards) {
+            if (card.hasTag(tag)) {
+                filteredCards.add(card);
+            }
+        }
+        return filteredCards;
+    }
+
 }
