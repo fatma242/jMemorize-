@@ -69,6 +69,8 @@ import com.jgoodies.forms.factories.ButtonBarFactory;
 import com.jgoodies.forms.layout.CellConstraints;
 import com.jgoodies.forms.layout.FormLayout;
 
+import static jmemorize.core.SearchTool.*;
+
 /**
  * A frame that shows search options and a card table as results view.
  * 
@@ -181,12 +183,12 @@ public class FindFrame extends EscapableFrame
 
         if (m_radioBothSides.isSelected())
         {
-            m_searchSides = SearchTool.BOTH_SIDES;
+            m_searchSides = BOTH_SIDES;
         } 
         else
         {
             m_searchSides = m_radioFrontSide.isSelected() ? 
-                SearchTool.FRONT_SIDE : SearchTool.FLIP_SIDE;
+                FRONT_SIDE : FLIP_SIDE;
         }
 
         if (m_searchCategory != null)
