@@ -18,10 +18,12 @@
  */
 package jmemorize.core;
 
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
 import jmemorize.core.CardSide.CardSideObserver;
+
 
 /**
  * A flash card that has a front/flip side and can be learned.
@@ -53,6 +55,37 @@ public class Card implements Events, Cloneable
     private int      m_testsHit;    //succesfull learn repetitions
     private int      m_frontHitsCorrect;
     private int      m_backHitsCorrect;
+    private double rating;
+
+    private int ratingCount;
+    private List<Feedback> feedbackList = new ArrayList<>();
+
+    public static class Feedback{
+        private String comment;
+        private boolean inAnonymous;
+        private Date dateSubmitted;
+
+        public Feedback(String comment, boolean isAnonymous){
+            this.comment = comment;
+            this.inAnonymous = isAnonymous;
+            this.dateSubmitted = new Date();
+        }
+        public String getComment(){
+            return comment;
+        }
+        public boolean isAnonymous(){
+            return isAnonymous();
+        }
+        public Date getDateSubmitted(){
+            return dateSubmitted;
+        }
+    }
+    public void rateCard(double newRating){
+        double totalRating = this.rating * this.ratingCount;
+        this.ratingCount++;
+        this.rating = (totalRating + newRating)/this.ratingCount;
+        m_dateModified = new Date();
+    }
 
     /**
      * Assumes formatted front- and backsides

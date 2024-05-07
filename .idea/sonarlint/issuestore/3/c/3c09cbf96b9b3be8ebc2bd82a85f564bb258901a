@@ -1,0 +1,30 @@
+
+h
+java:S2184$"FCast one of the operands of this multiplication operation to a "long".(ºÅêøÿÿÿÿ8£ôŸõ1
+q	java:S116'"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™ø8»£ôŸõ1
+s	java:S116("RRename this field "m_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡ú®úÿÿÿÿ8¼£ôŸõ1
+r	java:S116+"VRename this field "m_frontSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ•ºó8¼£ôŸõ1
+v	java:S116,"URename this field "m_backSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‹³—øÿÿÿÿ8¼£ôŸõ1
+x	java:S116/"WRename this field "m_dateTested" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸæÇèøÿÿÿÿ8¼£ôŸõ1
+y	java:S1160"XRename this field "m_dateExpired" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡˜¤üÿÿÿÿ8¼£ôŸõ1
+s	java:S1161"XRename this field "m_dateCreated" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßô¬E8¼£ôŸõ1
+z	java:S1162"YRename this field "m_dateModified" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úãĞØşÿÿÿÿ8¼£ôŸõ1
+t	java:S1163"XRename this field "m_dateTouched" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ê€Õ8½£ôŸõ1
+s	java:S1166"WRename this field "m_testsTotal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñĞûŠ8½£ôŸõ1
+q	java:S1167"URename this field "m_testsHit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä„¨­8½£ôŸõ1
+y	java:S1168"]Rename this field "m_frontHitsCorrect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©´ïî8½£ôŸõ1
+}	java:S1169"\Rename this field "m_backHitsCorrect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÎµ¿úÿÿÿÿ8½£ôŸõ1
+U
+java:S1135¯"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿ8÷£ôŸõ1
+U
+java:S1135À"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿ8ù£ôŸõ1
+U
+java:S1135Ú"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿ8ü£ôŸõ1
+v
+java:S2975­"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ8¨¤ôŸõ1
+U
+java:S1135ñ"2Complete the task associated to this TODO comment.(îÎÒ¶üÿÿÿÿ8¹¤ôŸõ1
+R
+java:S1068="0Remove this unused "feedbackList" private field.(¨èûÿÿÿÿ8¿¤ôŸõ1
+L
+java:S1068A"/Remove this unused "inAnonymous" private field.(Ş€š²8Á¤ôŸõ1
