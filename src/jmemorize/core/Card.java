@@ -1,7 +1,7 @@
 /*
  * jMemorize - Learning made easy (and fun) - A Leitner flashcards tool
  * Copyright(C) 2004-2008 Riad Djemili and contributors
- * 
+ *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 1, or (at your option)
@@ -26,7 +26,7 @@ import java.util.List;
 
 /**
  * A flash card that has a front/flip side and can be learned.
- * 
+ *
  * @author djemili
  * @version $Id: Card.java 1048 2008-01-21 21:40:00Z djemili $
  */
@@ -41,7 +41,7 @@ public class Card implements Events, Cloneable
     // content
     private CardSide m_frontSide = new CardSide();
     private CardSide m_backSide  = new CardSide();
-    
+
     // dates
     private Date     m_dateTested;
     private Date     m_dateExpired;
@@ -56,7 +56,7 @@ public class Card implements Events, Cloneable
     private int      m_backHitsCorrect;
 
     private double rating;
-private ArrayList<String> tags = new ArrayList<>();
+    private ArrayList<String> tags = new ArrayList<>();
     private int ratingCount;
     private List<Feedback> feedbackList = new ArrayList<>();
 
@@ -64,10 +64,15 @@ private ArrayList<String> tags = new ArrayList<>();
 
     }
 
+    public double getRating() {
+        return rating;
+    }
+
+
     public static class Feedback{
         private String comment;
         private boolean inAnonymous;
-        private Date dateSubmitted;
+        private static  Date dateSubmitted;
 
         public Feedback(String comment, boolean isAnonymous){
             this.comment = comment;
@@ -77,10 +82,10 @@ private ArrayList<String> tags = new ArrayList<>();
         public String getComment(){
             return comment;
         }
-        public boolean isAnonymous(){
+        public static boolean isAnonymous(){
             return isAnonymous();
         }
-        public Date getDateSubmitted(){
+        public static Date getDateSubmitted(){
             return dateSubmitted;
         }
     }
@@ -90,7 +95,6 @@ private ArrayList<String> tags = new ArrayList<>();
         this.rating = (totalRating + newRating)/this.ratingCount;
         m_dateModified = new Date();
     }
-    
 
 
     /**
@@ -100,12 +104,12 @@ private ArrayList<String> tags = new ArrayList<>();
     {
         this(FormattedText.formatted(front), FormattedText.formatted(back));
     }
-    
-    public Card(FormattedText front, FormattedText back) 
+
+    public Card(FormattedText front, FormattedText back)
     {
         this(new Date(), front, back);
     }
-    
+
     /**
      * The card sides are given in a formatted state.
      */
@@ -113,12 +117,12 @@ private ArrayList<String> tags = new ArrayList<>();
     {
         this(created, FormattedText.formatted(front), FormattedText.formatted(back));
     }
-    
+
     public Card(Date created, FormattedText front, FormattedText back)
     {
         this(created, new CardSide(front), new CardSide(back));
     }
-    
+
     public Card(Date created, CardSide frontSide, CardSide backSide)
     {
         m_dateCreated = cloneDate(created);
@@ -127,7 +131,7 @@ private ArrayList<String> tags = new ArrayList<>();
 
         m_frontSide = frontSide;
         m_backSide = backSide;
-        
+
         attachCardSideObservers();
     }
 
@@ -135,70 +139,70 @@ private ArrayList<String> tags = new ArrayList<>();
 
     /**
      * The given card sides are assumend to be unformatted.
-     * 
+     *
      * @throws IllegalArgumentException If frontSide or backSide has no text.
      */
     public void setSides(String front, String back)
     {
         FormattedText frontSide = FormattedText.unformatted(front);
         FormattedText backSide = FormattedText.unformatted(back);
-        
+
         setSides(frontSide, backSide);
     }
-    
+
     /**
      * @throws IllegalArgumentException If front or back has no text.
      */
-    public void setSides(FormattedText front, FormattedText back) 
-        throws IllegalArgumentException
+    public void setSides(FormattedText front, FormattedText back)
+            throws IllegalArgumentException
     {
-        if (front.equals(m_frontSide.getText()) && 
-            back.equals(m_backSide.getText()))
+        if (front.equals(m_frontSide.getText()) &&
+                back.equals(m_backSide.getText()))
         {
             return;
         }
-        
+
         m_frontSide.setText(front);
         m_backSide.setText(back);
-        
+
         if (m_category != null)
         {
             m_dateModified = new Date();
             m_category.fireCardEvent(EDITED_EVENT, this, getCategory(), m_level);
         }
     }
-    
+
     /**
      * Get the number of times a specific card side was already learned in its
      * deck.
-     * 
+     *
      * @param frontside <code>true</code> if it should deliver the fronside
      * value, <code>false</code> if it should deliver the backside value.
-     * 
+     *
      * @return the amount of times that the specified side was learned in this
      * deck.
      */
     public int getLearnedAmount(boolean frontside)
     {
         // TODO move to CardSide class
-        
+
         return frontside ? m_frontHitsCorrect :  m_backHitsCorrect;
     }
 
     /**
      * Set the number of times a specific card side was already learned in its
      * deck.
-     * 
+     *
      * @param frontside <code>true</code> if it should deliver the fronside
      * value, <code>false</code> if it should deliver the backside value.
-     * 
+     *
      * @param amount the amount of times that the specified side was learned in
      * this deck.
      */
     public void setLearnedAmount(boolean frontside, int amount)
     {
 //      TODO move to CardSide class
-        
+
         if (frontside)
         {
             m_frontHitsCorrect = amount;
@@ -217,14 +221,14 @@ private ArrayList<String> tags = new ArrayList<>();
     /**
      * Increment the number of times a specific card side was already learned in
      * its deck by one.
-     * 
+     *
      * @param frontside <code>true</code> if it should deliver the fronside
      * value, <code>false</code> if it should deliver the backside value.
      */
     public void incrementLearnedAmount(boolean frontside)
     {
 //      TODO move to CardSide class
-        
+
         setLearnedAmount(frontside, getLearnedAmount(frontside) + 1);
     }
 
@@ -247,7 +251,7 @@ private ArrayList<String> tags = new ArrayList<>();
     {
         return m_backSide;
     }
-    
+
     /**
      * @return the date that this card appeared the last time in a test and was
      * either passed or failed (skip doesn't count).
@@ -289,12 +293,12 @@ private ArrayList<String> tags = new ArrayList<>();
 
     public void setDateCreated(Date date)
     {
-        if (date == null) 
+        if (date == null)
             throw new NullPointerException();
-        
+
         m_dateCreated = cloneDate(date);
     }
-    
+
     /**
      * @return the modification date. Is never <code>null</code>.
      */
@@ -310,8 +314,8 @@ private ArrayList<String> tags = new ArrayList<>();
     {
         if (date.before(m_dateCreated))
             throw new IllegalArgumentException(
-                "Modification date can't be before creation date.");
-        
+                    "Modification date can't be before creation date.");
+
         m_dateModified = date;
     }
 
@@ -365,7 +369,7 @@ private ArrayList<String> tags = new ArrayList<>();
     {
         m_testsTotal = 0;
         m_testsHit = 0;
-        
+
         m_frontHitsCorrect = 0;
         m_backHitsCorrect = 0;
     }
@@ -383,20 +387,20 @@ private ArrayList<String> tags = new ArrayList<>();
     /**
      * A card is expired when it was learned/repeated succesfully, but its learn
      * time has expired (is in the past from current perspective).
-     * 
+     *
      * @return True if the card has expired.
      */
     public boolean isExpired()
     {
         Date now = Main.getNow();
-        return m_dateExpired != null && 
-            (m_dateExpired.before(now) || m_dateExpired.equals(now));
+        return m_dateExpired != null &&
+                (m_dateExpired.before(now) || m_dateExpired.equals(now));
     }
 
     /**
-     * A card is learned when it was learned/repeated succesfully and its learn 
+     * A card is learned when it was learned/repeated succesfully and its learn
      * time hasnt expired.
-     * 
+     *
      * @return True if the card is learned.
      */
     public boolean isLearned()
@@ -407,7 +411,7 @@ private ArrayList<String> tags = new ArrayList<>();
     /**
      * A card is unlearned when it wasnt succesfully repeated or never been l
      * earned at all.
-     * 
+     *
      * @return True if the card is unlearned.
      */
     public boolean isUnlearned()
@@ -442,26 +446,26 @@ private ArrayList<String> tags = new ArrayList<>();
             card = (Card)super.clone();
             card.m_frontSide = (CardSide)m_frontSide.clone();
             card.m_backSide = (CardSide)m_backSide.clone();
-            
+
             card.m_dateCreated = cloneDate(m_dateCreated);
             card.m_dateExpired = cloneDate(m_dateExpired);
             card.m_dateModified = cloneDate(m_dateModified);
             card.m_dateTested = cloneDate(m_dateTested);
             card.m_dateTouched = cloneDate(m_dateTouched);
-            
+
             card.m_category = null; // don't clone category
         }
-        catch (CloneNotSupportedException e) 
+        catch (CloneNotSupportedException e)
         {
             assert false;
         }
-        
+
         return card;
     }
-    
+
     /**
      * Clones the card without copying its user-dependent progress stats.
-     * 
+     *
      * This includes the following data: Fronside, Flipside, Creation date.
      * Setting the right category needs to be handled from the out side.
      */
@@ -469,8 +473,8 @@ private ArrayList<String> tags = new ArrayList<>();
     {
         try
         {
-            return new Card(m_dateCreated, 
-                (CardSide)m_frontSide.clone(), (CardSide)m_backSide.clone());
+            return new Card(m_dateCreated,
+                    (CardSide)m_frontSide.clone(), (CardSide)m_backSide.clone());
         }
         catch (CloneNotSupportedException e)
         {
@@ -486,7 +490,7 @@ private ArrayList<String> tags = new ArrayList<>();
     {
         return "("+m_frontSide+"/"+m_backSide+")";
     }
-    
+
     private void attachCardSideObservers()
     {
         CardSideObserver observer = new CardSideObserver() {
@@ -505,7 +509,7 @@ private ArrayList<String> tags = new ArrayList<>();
                 // TODO handle event notfying here
             }
         };
-        
+
         m_frontSide.addObserver(observer);
         m_backSide.addObserver(observer);
     }
@@ -520,7 +524,7 @@ private ArrayList<String> tags = new ArrayList<>();
         {
             return date == null ? null : (Date)date.clone();
         }
-        
+
         return date;
     }
 
