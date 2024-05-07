@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<statistics>
+    <session end="1 Feb 2007, 14:50:22" failed="0" passed="2" relearned="1" skipped="1" start="1 Feb 2007, 14:30:22"/>
+    <session end="1 Feb 2007, 14:55:22" failed="3" passed="4" relearned="1" skipped="0" start="1 Feb 2007, 14:50:22"/>
+</statistics>

@@ -706,7 +706,7 @@ public class DefaultLearnSession implements CategoryObserver, LearnSession
             // m_cardsChecked is ordered by last viewing, so remove prior to add 
             Card currentCard = m_currentCardInfo.getCard();
             
-            m_cardsChecked.remove(currentCard);
+            m_cardsChecked.remove(currentCard); // lastcard
             m_cardsChecked.add(currentCard);
             
             boolean flippedMode = checkIfFlipped();

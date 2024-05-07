@@ -1,0 +1,22 @@
+
+–	java:S116/"VRename this field "m_leftLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ’áıÿÿÿÿJ$7c0c2380-db01-4cd1-92d0-8e3a5ca0cc75
+’	java:S1160"WRename this field "m_rightLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßëî½J$2cf621fa-41a4-4164-9998-5cc53c307563
+s
+java:S1135-"2Complete the task associated to this TODO comment.(í¯ø®ùÿÿÿÿJ$b552a62e-2015-40d4-afb5-6fe14d9b4eed
+|	java:S125Y"<This block of commented-out lines of code should be removed.(×óóÏüÿÿÿÿJ$84bd3228-f366-42d6-b363-e20dfb820efb
+b
+java:S2129`"!Remove this "Integer" constructor(óÚÃĞûÿÿÿÿJ$275f0de7-5bec-4474-afb5-acce1d45cf74
+‰
+java:S5738`"HRemove this call to a deprecated method, it has been marked for removal.(óÚÃĞûÿÿÿÿJ$476092e1-fd20-48b4-91c2-f320e9d0240b
+]
+java:S2129a"!Remove this "Integer" constructor(ëÓË¨J$56c464c0-d5c3-48a4-b6af-bd36eb28791b
+„
+java:S5738a"HRemove this call to a deprecated method, it has been marked for removal.(ëÓË¨J$6fd02410-6b21-4b3f-92e0-25f084413f5a
+]
+java:S2129b"!Remove this "Integer" constructor(ÂÃÙŠJ$58d5064e-e333-4ecf-8be8-b8c95aca7beb
+„
+java:S5738b"HRemove this call to a deprecated method, it has been marked for removal.(ÂÃÙŠJ$2ebf60a0-6bef-4d6d-9575-d2fb0c6a8bf6
+b
+java:S2129c"!Remove this "Integer" constructor(”¯ˆ€üÿÿÿÿJ$4a148e9d-dc52-4131-8a51-945be2b50115
+‰
+java:S5738c"HRemove this call to a deprecated method, it has been marked for removal.(”¯ˆ€üÿÿÿÿJ$4fb468fa-3e92-4b45-acb7-301e8438f9d6

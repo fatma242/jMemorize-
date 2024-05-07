@@ -1,0 +1,12 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ου‚8­Ω¤³ρ1J$5ee96dee-7941-45af-90f9-9b7e2593720c
+	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(³Ρ½ώÿÿÿÿ8­Ω¤³ρ1J$500b73d6-066a-4d06-9f1c-b333c8f6a977
+	java:S116"URename this field "m_settings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(σ»γεJ$b755c5c4-9f08-47cb-9026-fb408dc699f9
+™	java:S116"YRename this field "m_testCalendar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΜΙÿÿÿÿÿJ$a367b2a0-5fda-4704-bfc8-45824e83daa5
+•	java:S116"URename this field "m_testDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ι΄—‘ÿÿÿÿÿJ$03afd443-e72a-422c-bfec-8e5b00106190
+
+java:S1450"]Remove the "m_testCalendar" field and declare it as a local variable in the relevant methods.(ΜΙÿÿÿÿÿJ$c2cb3dbd-eeed-4332-8abc-d51d02dda506
+―
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Ου‚8ΊΩ¤³ρ1J$8588dea7-6d4d-462c-9259-f28affc55c21
+΄
+java:S1130&"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(³Ρ½ώÿÿÿÿ8»Ω¤³ρ1J$8badb4ec-69e6-496a-add8-1371d6356ee1

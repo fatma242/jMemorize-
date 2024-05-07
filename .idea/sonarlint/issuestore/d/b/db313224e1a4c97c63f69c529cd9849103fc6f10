@@ -1,0 +1,57 @@
+
+‡	java:S112§"FDefine and throw a dedicated exception instead of using a generic one.(Éò„ÁúÿÿÿÿJ$0395f81d-cbe1-4846-b477-82ac7574c552
+	java:S112¿"FDefine and throw a dedicated exception instead of using a generic one.(¥µJ$0dd19a1a-a11e-42d8-bcf7-85dfcfaea5ec
+–
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(´Ç„éJ$c2d4e189-33d2-400c-aa69-11ef661a665c
+›
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õù‘‡üÿÿÿÿJ$07285042-376f-4625-ba58-2c178fb21a13
+›
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ¿ÜñÿÿÿÿÿJ$f92e1491-2deb-41bd-b300-adc3042d2b71
+‚
+java:S2184ß"@Cast one of the operands of this addition operation to a "long".(®÷ÀşüÿÿÿÿJ$c8aed2ec-6aa6-446e-aef4-dfff54fc44b9
+‚
+java:S2184÷"@Cast one of the operands of this addition operation to a "long".(ÛÙ½ƒúÿÿÿÿJ$2c767ae7-2626-4845-9737-482d03f5d9b5
+‚
+java:S2184"@Cast one of the operands of this addition operation to a "long".(ëŒõÖûÿÿÿÿJ$a9ec8639-70c1-466d-9c55-c712dcf60b82
+u
+java:S2755±"3Disable access to external entities in XML parsing.(êîË¥ûÿÿÿÿJ$4d605913-659a-4627-96bc-83bac1046471
+p
+java:S2755Ë"3Disable access to external entities in XML parsing.(Ò‹ñÙJ$eb9fc2fb-15f9-4495-856e-62da2769a8c4
+y
+java:S2589Ñ"7Remove this expression which always evaluates to "true"(¶™ú¹ÿÿÿÿÿJ$a853c4ca-01ce-4959-94ce-a3dbefa01d9a
+s
+java:S2589¸"7Remove this expression which always evaluates to "true"(ÓêŞJ$61d0a88b-5ceb-4f9d-9874-7b22b2c8afbb
+’	java:S116Â"VRename this field "m_summaries" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ç„éJ$a212ccea-4899-4170-9c61-fc29eecdfce1
+’	java:S116Ä"QRename this field "m_file" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃçÜåùÿÿÿÿJ$52ee8623-3cb7-4f3a-8080-5e1772805d09
+–	java:S116Å"URename this field "m_isLoaded" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù©øÚùÿÿÿÿJ$09e90a65-22a1-41b4-805d-4e6e87d75526
+’	java:S1169"RRename this field "m_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êõ¸¤ùÿÿÿÿJ$a59415bb-5d97-45dc-9bd8-f363679c195c
+	java:S116:"PRename this field "m_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¥ØšÿÿÿÿÿJ$492fb66a-8afb-4209-8848-48c325bdff5b
+	java:S116;"URename this field "m_duration" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªò˜˜J$790b82e4-24c7-4a9e-b626-a14b91b4d6b8
+“	java:S116="SRename this field "m_passed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¡ÿñıÿÿÿÿJ$17b1cbb1-8191-41f0-a5af-1a93d2347115
+	java:S116>"SRename this field "m_failed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¶–rJ$0d4c6b26-2027-4d5a-b14d-b95a7e2c06da
+	java:S116?"TRename this field "m_skipped" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ”ÁpJ$2e357bf0-5559-4730-bce6-9a8ba0d60096
+–	java:S116@"VRename this field "m_relearned" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áßúøÿÿÿÿJ$8b432dfd-dea6-42eb-bd2f-fd1a67c8123f
+•
+java:S2975ƒ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ŒÉ¯æşÿÿÿÿJ$d41b8a15-fbde-4524-a614-b01eaf0147aa
+
+java:S3358¹"DExtract this nested ternary operation into an independent statement.(ñ¢ş¹J$737d0572-8157-4a58-92c6-b52b3aa003ca
+o
+java:S1135Á"2Complete the task associated to this TODO comment.(®ĞÔ¨J$6a638e21-cfd0-404d-80ea-a24f5c0fa62e
+{
+java:S1155ñ">Use isEmpty() to check whether the collection is empty or not.(‹ëîìJ$51320a63-3c8c-432f-ad28-091c2a31ce81
+s
+java:S1905ô"1Remove this unnecessary cast to "SessionSummary".(àÂŠ“ûÿÿÿÿJ$b2c238cd-c654-48b2-a413-3310d2302754
+n
+java:S1135‰"2Complete the task associated to this TODO comment.(œÈîJ$3d1646ea-c245-4709-ba76-6d2c168e814b
+t
+java:S1135Ï"2Complete the task associated to this TODO comment.(»¹’¯şÿÿÿÿJ$cd0b27f0-b87e-437c-a09d-b7940c5593aa
+s
+java:S1905 "1Remove this unnecessary cast to "SessionSummary".(ÊÓåƒÿÿÿÿÿJ$e401c541-d4e7-480e-929a-f00187b17ddd
+n
+java:S1905¡"1Remove this unnecessary cast to "SessionSummary".(şˆ¡±J$ccf2586b-0e6e-4903-a8ee-809646b52375
+u
+java:S1874´"8Remove this use of "loadLearnHistory"; it is deprecated.(ı€¾ŒJ$ffa2ea83-d440-4662-b771-9578272198fa
+{
+java:S1874È"9Remove this use of "writeLearnHistory"; it is deprecated.(µ„´ÓüÿÿÿÿJ$1dcd27a6-cf27-43d7-acac-2576a9438aa4
+l
+java:S2093Ã"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿJ$efa5f559-5c45-498d-8029-2ab3aae918f4

@@ -1,0 +1,49 @@
+
+q
+java:S3740"/Provide the parametrized type for this generic.(Öñ¢óşÿÿÿÿJ$2f1209cd-0e5b-4f2e-b35b-d163e9c4f125
+q
+java:S3740"/Provide the parametrized type for this generic.(Öñ¢óşÿÿÿÿJ$f5527354-92fe-4d87-a9ef-aaa76f421b21
+q
+java:S3740¡"/Provide the parametrized type for this generic.(ğ—ÂşÿÿÿÿJ$7b517ec0-f465-4afe-9c6b-9d658cceb9ca
+q
+java:S1066ª"/Merge this if statement with the enclosing one.(°èäµøÿÿÿÿJ$ceb6231c-2706-401d-9c4c-bbbf05900a38
+|	java:S110h"<This class has 6 parents which is greater than 5 authorized.(úÇó½ıÿÿÿÿJ$57940014-c983-489e-b5bf-b5ddf66621e5
+‘	java:S116Ä"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$3eb7c60c-c73e-4e62-be03-e6194f380b98
+	java:S116Æ"RRename this field "m_frame" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†è…
+J$a6e6539a-67e6-4203-8a90-a7797260c0b4
+	java:S116È"TRename this field "m_dataset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¶¨RJ$03bb829b-ab10-4693-8ae3-c765666c2143
+˜	java:S116É"WRename this field "m_chartPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒšÙøÿÿÿÿJ$511a1c1c-8b7e-4924-9955-a1ebfc3a1e0a
+™	java:S116Ê"XRename this field "m_barRenderer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ø§ñøÿÿÿÿJ$1497f54d-eb69-463e-a38b-ed75f25a120b
+p
+java:S1948Ä",Make "m_category" transient or serializable.(¯™ø8İïªçğ1J$cd000af0-cd2a-4e8c-ab15-70b318f149cd
+š
+java:S6201X"^Replace this instanceof check and cast with 'instanceof CategoryItemEntity categoryitementity'(èŞû‡J$92386140-9d73-4f10-a247-a88c9eb2d807
+‘	java:S116j"QRename this field "m_deck" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òú•’øÿÿÿÿJ$c64aaf21-6bad-47ae-877b-159bb4d917bf
+“	java:S116k"XRename this field "m_defaultFont" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö„ø¯J$82fbf574-e8f6-4dde-8ace-f74f7aee3974
+	java:S116l"URename this field "m_boldFont" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÉ“)J$19bbb64f-86bd-479c-a4c0-79ece34343cf
+l
+java:S2160h"+Override the "equals" method in this class.(úÇó½ıÿÿÿÿJ$1c52733c-e7c6-44ae-9773-f0014cf6d4db
+v
+java:S1161t":Add the "@Override" annotation above this method signature(ó¯íùJ$9580f043-3397-4460-82a0-30a11eead2e3
+
+java:S1155x">Use isEmpty() to check whether the collection is empty or not.(¨«–8æïªçğ1J$88ad60e3-3a1a-4c74-9e43-4db0390d81a0
+}	java:S125…"<This block of commented-out lines of code should be removed.(»¹œäûÿÿÿÿJ$0001a4fc-1de2-4604-aed4-227b128e34a1
+w
+java:S1161™":Add the "@Override" annotation above this method signature(·„ó³J$80a61d7f-f6e5-4395-b358-edf39a945271
+‡
+java:S1124¸"EReorder the modifiers to comply with the Java Language Specification.(ñöì¿şÿÿÿÿJ$c2431c6c-8754-4c89-94b4-26973eec8178
+t
+java:S1135¶"2Complete the task associated to this TODO comment.(öÆÁ˜ûÿÿÿÿJ$305fb8b0-7871-4fb3-9746-3850325e0c55
+‡
+java:S1124º"EReorder the modifiers to comply with the Java Language Specification.(è¶İØùÿÿÿÿJ$5073accb-765b-4d2e-aee8-e74e26888f47
+‚
+java:S1124½"EReorder the modifiers to comply with the Java Language Specification.(ñËâêJ$1b705519-f6af-40a9-a382-78f8b25c9cc1
+‡
+java:S1124¿"EReorder the modifiers to comply with the Java Language Specification.(ööè½üÿÿÿÿJ$45a30084-314b-4ea2-b719-d42f031dc8b9
+‡
+java:S1124Á"EReorder the modifiers to comply with the Java Language Specification.(¿†¶áşÿÿÿÿJ$d95c6e18-7d04-455b-9868-63b019cd4610
+t
+java:S1135…"2Complete the task associated to this TODO comment.(¸š¦ˆúÿÿÿÿJ$763611e3-e872-4480-934f-908df89617bd
+}	java:S125ˆ"<This block of commented-out lines of code should be removed.(¤â¾®úÿÿÿÿJ$fbc7a4b2-3754-4a80-8d6c-40838c5045bd
+w
+java:S1161·":Add the "@Override" annotation above this method signature(±ùÃÏJ$e7fc6d26-fc59-415d-9539-03a22a40c460

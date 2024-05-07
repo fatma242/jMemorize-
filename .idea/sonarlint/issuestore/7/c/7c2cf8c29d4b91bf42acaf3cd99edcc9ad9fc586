@@ -1,0 +1,9 @@
+
+’	java:S116"RRename this field "OK_ICON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—–¤ÑùÿÿÿÿJ$0837eabc-831b-4e44-a7e1-a24a20fd9b32
+•	java:S116"URename this field "TODAY_ICON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËËÎµþÿÿÿÿJ$0fa9e445-7114-410e-9643-7a5666c6f5a4
+’	java:S116"RRename this field "NO_ICON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«òí²ûÿÿÿÿJ$023340d4-d33c-40af-ab89-e74f716a4101
+—	java:S116"WRename this field "EXPIRED_ICON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îá÷ÈþÿÿÿÿJ$450d3bbf-5e02-4185-b24d-841fdec9a9f0
+‘
+java:S3008"URename this field "m_instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¢‚þJ$cf4d8268-85bd-47e2-956d-944e3186e0b5
+Ú
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(×Ù×‹þÿÿÿÿJ$fd2d6f8c-9e28-4f59-a5e9-790f8c7e9855

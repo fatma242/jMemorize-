@@ -1,0 +1,40 @@
+
+p
+java:S3740Z"/Provide the parametrized type for this generic.(Á¯÷ÕøÿÿÿÿJ$9a7c1892-8d64-4a5a-939a-0a512e050423
+p
+java:S3740Z"/Provide the parametrized type for this generic.(Á¯÷ÕøÿÿÿÿJ$d771a584-50c2-4cc8-8b82-2b9e761d8a7d
+k
+java:S3740»"/Provide the parametrized type for this generic.(ïÿø<J$312c07b8-462c-4fd5-923d-f641bf9fe6d4
+–
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÙ¢±J$5970ab71-be20-4a09-8386-d391e37ff08f
+–	java:S116R"VRename this field "m_cardTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÙµşúÿÿÿÿJ$28fe2403-9a58-44c9-be71-68069fc6f307
+š	java:S116Z"ZRename this field "m_searchTextBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¯÷ÕøÿÿÿÿJ$9a3e9b51-869c-4f20-8f37-b41a10b84eee
+™	java:S116["^Rename this field "m_recentSearchTexts" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¥¯¯J$3e3518fc-f3a0-4af2-b191-edc37844ba4d
+™	java:S116^"YRename this field "m_matchCaseBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜôÂüÿÿÿÿJ$efa2099a-34d6-4398-b2ba-2ff88f8ae635
+•	java:S116`"[Rename this field "m_radioBothSides" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¤É3J$f60546e0-3ab4-48d1-82b3-c6d9aee99816
+–	java:S116b"[Rename this field "m_radioFrontSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óìÇ‹J$96e42084-8dc6-4fc5-9eb0-c1236aa23aab
+š	java:S116d"ZRename this field "m_radioBackSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âï·±ÿÿÿÿÿJ$ae9be648-7dfe-46ef-ad81-7403cbf93ac8
+“	java:S116g"XRename this field "m_categoryBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¼ÖçJ$110ac648-782a-4f2e-af87-30d7b9c5029d
+	java:S116h"VRename this field "m_statusBar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¯‚PJ$d7f587a2-bad6-4ccc-b892-f311171c95d8
+’	java:S116k"WRename this field "m_searchText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ñJ$7cf2d3b7-b478-4f6c-8d1c-29bb88845707
+˜	java:S116l"XRename this field "m_searchSides" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸÷æÄÿÿÿÿÿJ$ef6e9749-bb9a-4612-818d-808e1966e3ef
+–	java:S116m"VRename this field "m_matchCase" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïØ¨€şÿÿÿÿJ$5ecd1020-a8e7-4010-94fd-ff4e6442a633
+›	java:S116n"[Rename this field "m_searchCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÒñÛûÿÿÿÿJ$43ea3e45-5327-4919-9445-dcf1953c99c1
+–
+java:S3008p"URename this field "m_instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š µÌúÿÿÿÿJ$6c878e9a-d3a2-459b-889a-3a9caacdefeb
+q
+java:S1948["5Make "m_recentSearchTexts" transient or serializable.(À¥¯¯J$7f0c9148-8914-4e84-a093-99e38ff08f80
+s
+java:S1948n"2Make "m_searchCategory" transient or serializable.(¼ÒñÛûÿÿÿÿJ$1b1991b0-ad54-4d5c-a7fc-90681c92d725
+Ú
+java:S6548M"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(”©É¥úÿÿÿÿJ$67a29bcf-5a26-4344-bac4-f0d11445f222
+
+java:S1124P"EReorder the modifiers to comply with the Java Language Specification.(ÌÀïİJ$51ed715a-3052-4fe2-a5cf-f060b4fb102c
+Ã
+java:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºøéàûÿÿÿÿJ$0260d508-84f1-4793-a48a-b5b3d8da48c3
+¾
+java:S1186Ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(í¿ŞìJ$577a3a07-e8ce-4f21-9f44-3e1559bd0636
+w
+java:S1161®":Add the "@Override" annotation above this method signature(·øÏƒJ$7e43570b-b7fc-4d64-86d4-e9621e09339b
+d
+java:S1905º"'Remove this unnecessary cast to "Card".(îŒ©ªJ$80978b89-00b0-4483-aee7-5f12cedb2b39

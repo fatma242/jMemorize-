@@ -68,7 +68,7 @@ public class Category implements Events
     {
         m_name   = name;
     }
-    
+
     /*
      * Card related methods.
      */
@@ -92,10 +92,9 @@ public class Category implements Events
     public void addCard(Card card, int level)
     {
         addCardInternal(card, level);
-        
         fireCardEvent(ADDED_EVENT, card, card.getCategory(), level);
     }
-    
+
     /**
      * Removes a card from its associated deck and fires an event.
      */
@@ -104,10 +103,11 @@ public class Category implements Events
         int level = card.getLevel();
         Category category = card.getCategory();
         removeCardInternal(card);
-        
+
         fireCardEvent(REMOVED_EVENT, card, category, level);
     }
-    
+
+
     /**
      * Moves the card to a new category, preserving all its fields and its
      * level. This is different from removing and then adding a card because it
@@ -117,14 +117,14 @@ public class Category implements Events
     {
         int level = card.getLevel();
         Category category = card.getCategory();
-        
+
         category.removeCardInternal(card);
         newCategory.addCardInternal(card, level);
-        
+
         category.fireCardEvent(MOVED_EVENT, card, category, level);
         newCategory.fireCardEvent(MOVED_EVENT, card, category, level);
     }
-    
+
     /**
      * Removes the card from its current deck and adds it to the next deck. The
      * given date is used as new expiration date.
