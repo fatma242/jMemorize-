@@ -33,7 +33,7 @@ public class Card implements Events, Cloneable
 {
     public static final long    ONE_DAY     = 1000 * 60 * 60 * 24;
     public static final boolean CLONE_DATES = Main.isDevel();
-
+    private boolean isFavorite;
     private Category m_category;
     private int      m_level;
 
@@ -481,5 +481,16 @@ public class Card implements Events, Cloneable
         }
         
         return date;
+    }
+    public void markAsFavorite() {
+        isFavorite = true;
+    }
+
+    public void removeFromFavorites() {
+        isFavorite = false;
+    }
+
+    public boolean isFavorite() {
+        return isFavorite;
     }
 }

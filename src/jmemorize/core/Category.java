@@ -58,7 +58,8 @@ public class Category implements Events
 
     private Category               m_parent;
     private List<Category>         m_childCategories = new LinkedList<Category>();
-    
+
+    private List<Card> cards;
     /**
      * Creates a new Category.
      * 
@@ -716,5 +717,15 @@ public class Category implements Events
         {
             m_decks.remove(getNumberOfDecks()-1);
         }
+    }
+    public List<Card> getAllFavoriteCards() {
+        List<Card> favoriteCards = new ArrayList<>();
+        for (Card card : cards) {
+            if (card.isFavorite()) {
+                favoriteCards.add(card);
+            }
+        }
+
+        return favoriteCards;
     }
 }
