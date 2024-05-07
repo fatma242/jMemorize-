@@ -498,15 +498,17 @@ public class Category implements Events
      */
     public void setName(String newName)
     {
-        assert newName != null;
-        
-        if (!m_name.equals(newName))
-        {
+        if (newName == null) {
+            throw new IllegalArgumentException("newName cannot be null");
+        }
+
+        if (!m_name.equals(newName)) {
             m_name = newName;
-            
+
             fireCategoryEvent(EDITED_EVENT, this);
         }
     }
+
     
     /**
      * @return The name of this category.
