@@ -1,7 +1,7 @@
 /*
  * jMemorize - Learning made easy (and fun) - A Leitner flashcards tool
  * Copyright(C) 2004-2006 Riad Djemili
- * 
+ *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 1, or (at your option)
@@ -19,6 +19,7 @@
 package jmemorize.core;
 
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -56,7 +57,30 @@ public class SearchTool
 
         return foundCards;
     }
-    
+
+    public static List<Integer> search(String text, String searchtext, boolean ignoreCase)
+    {
+        if (ignoreCase)
+        {
+            text = text.toLowerCase();
+            searchtext = searchtext.toLowerCase();
+        }
+
+        List<Integer> positions = new ArrayList<>();
+        int pos = 0;
+
+        // Keep searching until no more occurrences are found
+        while ((pos = text.indexOf(searchtext, pos)) >= 0)
+        {
+            positions.add(pos);
+            // Move pos forward by 1 to find overlapping occurrences
+            pos += 1;
+        }
+
+        return positions;
+    }
+
+
 
 
 }

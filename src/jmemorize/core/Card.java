@@ -48,15 +48,13 @@ public class Card implements Events, Cloneable
     private Date     m_dateCreated;
     private Date     m_dateModified;
     private Date     m_dateTouched; //this date is used internaly to order cards
-    private boolean isFavorite;
-    private static List<Card> favoriteCards = new ArrayList<>();
+
     // stats
     private int      m_testsTotal;
     private int      m_testsHit;    //succesfull learn repetitions
     private int      m_frontHitsCorrect;
     private int      m_backHitsCorrect;
-<<<<<<< Updated upstream
-=======
+
     private double rating;
 private ArrayList<String> tags = new ArrayList<>();
     private int ratingCount;
@@ -93,7 +91,7 @@ private ArrayList<String> tags = new ArrayList<>();
         m_dateModified = new Date();
     }
     
->>>>>>> Stashed changes
+
 
     /**
      * Assumes formatted front- and backsides
@@ -133,9 +131,7 @@ private ArrayList<String> tags = new ArrayList<>();
         attachCardSideObservers();
     }
 
-    public Card() {
 
-    }
 
     /**
      * The given card sides are assumend to be unformatted.
@@ -527,13 +523,7 @@ private ArrayList<String> tags = new ArrayList<>();
         
         return date;
     }
-<<<<<<< Updated upstream
 
-
-
-
-=======
->>>>>>> Stashed changes
     public static List<Card> getAllFavoriteCards() {
         return favoriteCards;
     }
@@ -551,8 +541,7 @@ private ArrayList<String> tags = new ArrayList<>();
     public boolean isFavorite() {
         return isFavorite;
     }
-<<<<<<< Updated upstream
-=======
+
     public void addTag(String tag) {
         if (!tags.contains(tag)) {
             tags.add(tag);
@@ -588,5 +577,5 @@ private ArrayList<String> tags = new ArrayList<>();
         }
         return filteredCards;
     }
->>>>>>> Stashed changes
+
 }
