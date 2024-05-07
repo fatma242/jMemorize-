@@ -7,3 +7,5 @@ P
  src/jmemorize/core/Category.java,b\7\b79817ce84d43cb3143d5887c490c98da970041f
 ]
 -src/jmemorize/gui/swing/frames/FindFrame.java,c\d\cd94ba5d34edc2910f994364cd964fb6e79e4e95
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e

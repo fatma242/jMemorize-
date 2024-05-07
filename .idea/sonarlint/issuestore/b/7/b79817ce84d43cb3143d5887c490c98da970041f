@@ -1,41 +1,41 @@
 
-r
-java:S3740¨"/Provide the parametrized type for this generic.(é™‘m8”ïù õ1J$ce3dff75-74fd-4a13-87cc-dd9f40e1c31c
-œ
-java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç³¡ç8–ïù õ1J$c5db124a-e17c-4778-ae62-53dcd1c39e98
-œ
-java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(œãºº8–ïù õ1J$91ff0a29-eb1b-47c0-9178-4124bed78ae5
-¡
-java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(µı·Óıÿÿÿÿ8–ïù õ1J$ed491d12-24e9-4ea5-8712-782ceb89f155
-¢
-java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÃÜøÿÿÿÿ8—ïù õ1J$9709932a-2825-4903-b1d0-f8e80f9a357c
-
-java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ–½æ8—ïù õ1J$a70532cb-311f-49fc-9030-e3599bd866a4
-
-java:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı¤Ò©8—ïù õ1J$9897049c-dd3e-4c72-b848-5ac235d8ffff
-¢
-java:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÄ‚µúÿÿÿÿ8—ïù õ1J$9d5a0859-b51b-4bfe-8b1b-e565c7674077
-¢
-java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜”¡¾üÿÿÿÿ8—ïù õ1J$725c53db-dda1-49ee-aea8-80690040bd18
-
-java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç³ı8—ïù õ1J$09e73767-7e07-46e9-9f17-729d7a68698f
-
-java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ•Šú8—ïù õ1J$cc182a87-8801-4de0-9286-3ebec3961502
-
-java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ÀÓ¹8˜ïù õ1J$0c55dfa5-0aaf-4a8e-97a4-d1712c2272e7
-
-java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(š½Â 8˜ïù õ1J$d72d8eed-fa9d-4285-a36a-ea6cb65a06f1
-
-java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(š½Â 8˜ïù õ1J$a8e19615-6458-4e10-8af0-835baaeeef67
-˜	java:S1164"VRename this field "m_observers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç³¡ç8¯ïù õ1J$d006e7f6-2249-4c56-a05d-5f1e5193cb49
-˜	java:S1166"QRename this field "m_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëœ¢Áşÿÿÿÿ8¯ïù õ1J$78eaa138-ebc2-4461-b65c-5eb2b6468c3b
-”	java:S1167"RRename this field "m_depth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ó²ñ8¯ïù õ1J$76847e5b-b27f-4ccd-af5f-fdd1f26d3165
-”	java:S1169"RRename this field "m_decks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œãºº8¯ïù õ1J$49f122f1-abd5-4f7f-9d2e-00042930ca89
-•	java:S116;"SRename this field "m_parent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î£ê8¯ïù õ1J$a910f47d-b415-403a-a666-a79c4bc5f0d7
-£	java:S116<"\Rename this field "m_childCategories" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µı·Óıÿÿÿÿ8¯ïù õ1J$b11f716d-83c1-4873-b051-18c2786d3892
-z
-java:S11353"2Complete the task associated to this TODO comment.(ÎòÓ¨ûÿÿÿÿ8µïù õ1J$9ea58f83-fff1-4d88-a47c-d76867dad2a1
-u
-java:S1135—"2Complete the task associated to this TODO comment.(çÇÍ;8âïù õ1J$ff9763ad-5c25-4e37-a957-0fcf4054aaed
-t
-java:S1905Í"+Remove this unnecessary cast to "Category".(¼Æ’Éùÿÿÿÿ8æïù õ1J$06eea89a-5dbc-4aa8-913e-852a5f6d643e
+L
+java:S3740¨"/Provide the parametrized type for this generic.(é™‘m8‰˜££õ1
+v
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç³¡ç8‹˜££õ1
+v
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(œãºº8‹˜££õ1
+{
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(µı·Óıÿÿÿÿ8Œ˜££õ1
+|
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÃÜøÿÿÿÿ8Œ˜££õ1
+w
+java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ–½æ8Œ˜££õ1
+w
+java:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı¤Ò©8Œ˜££õ1
+|
+java:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÄ‚µúÿÿÿÿ8Œ˜££õ1
+|
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜”¡¾üÿÿÿÿ8Œ˜££õ1
+w
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç³ı8˜££õ1
+w
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ•Šú8˜££õ1
+w
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ÀÓ¹8˜££õ1
+w
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(š½Â 8˜££õ1
+w
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(š½Â 8˜££õ1
+r	java:S1164"VRename this field "m_observers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç³¡ç8¥˜££õ1
+r	java:S1166"QRename this field "m_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëœ¢Áşÿÿÿÿ8¦˜££õ1
+n	java:S1167"RRename this field "m_depth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ó²ñ8¦˜££õ1
+n	java:S1169"RRename this field "m_decks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œãºº8¦˜££õ1
+o	java:S116;"SRename this field "m_parent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î£ê8¦˜££õ1
+}	java:S116<"\Rename this field "m_childCategories" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µı·Óıÿÿÿÿ8¦˜££õ1
+T
+java:S11353"2Complete the task associated to this TODO comment.(ÎòÓ¨ûÿÿÿÿ8¬˜££õ1
+O
+java:S1135—"2Complete the task associated to this TODO comment.(çÇÍ;8Ñ˜££õ1
+N
+java:S1905Í"+Remove this unnecessary cast to "Category".(¼Æ’Éùÿÿÿÿ8â˜££õ1
