@@ -1,0 +1,122 @@
+
+q
+java:S3740Ô"/Provide the parametrized type for this generic.(‡ô±½ûÿÿÿÿJ$f4bfdd01-88e0-40e6-b14a-03d037e5291c
+l
+java:S3740Õ"/Provide the parametrized type for this generic.(Ñõ”J$913b3f9c-441e-44e4-a674-236785fcd8c1
+–
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù½úÒJ$60b45f63-be4c-4525-89ee-795dc8ed2c0b
+–
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ç¸ÜJ$d994ca54-c231-49b7-8f84-8ce657240366
+›
+java:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(–ó¸¶ùÿÿÿÿJ$bc1a7b28-6b06-4cf9-84f4-c4e2c5cb15e8
+›
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œï¨µúÿÿÿÿJ$cb18d615-86fa-4004-a47b-2b1982235bd3
+…
+java:S6208‹"CMerge the previous cases into this one using comma-separated label.(Š«Û°üÿÿÿÿJ$9f1404a5-18d4-4159-a132-21df6c457f37
+…
+java:S6208µ"CMerge the previous cases into this one using comma-separated label.(Š«Û°üÿÿÿÿJ$b6f0953a-4341-4e29-b1b0-6d19274504dd
+€
+java:S6208»"CMerge the previous cases into this one using comma-separated label.(ÑÍ“J$cd3978ea-0820-4e9a-a8f3-50de345e935e
+j
+java:S1604‚"(Make this anonymous inner class a lambda(ÚÍÆØøÿÿÿÿJ$18b0db47-7278-4e70-bd21-cc54ce28425a
+›	java:S116"ZRename this field "m_checkBoxItems" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‘îŞûÿÿÿÿJ$b223beab-573a-401d-906a-26550330b16b
+˜	java:S116Ÿ"WRename this field "m_headerMenu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş×Œ¢şÿÿÿÿJ$2ddda764-d41a-4d60-82aa-974556270ce2
+–	java:S116¡"URename this field "m_cardMenu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•º®üÿÿÿÿJ$fed92b34-0a34-4935-8e8d-09bbac682349
+’	java:S116¢"VRename this field "m_statusBar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ‡¯‡J$b4469e90-0619-4244-b9b3-036dbce1938f
+œ	java:S116¥"[Rename this field "m_ascendingArrow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßİøíûÿÿÿÿJ$8a451e86-28ff-48eb-b01a-cc49eceaff96
+˜	java:S116¦"\Rename this field "m_descendingArrow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùíÍŞJ$c5ad87f3-22b0-4232-be03-4d2f8c9ef4ac
+’	java:S116©"VRename this field "m_highlight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÆä¹J$4ce698d5-1808-498e-87b5-e00bed62f7b6
+˜	java:S116«"WRename this field "m_tableModel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ê»ÁøÿÿÿÿJ$03e6a1e0-bbc5-493c-8129-9ac579dc805c
+	java:S116¬"TRename this field "m_columns" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®±Ú«J$cc94b9c5-af1d-41bb-8835-3ae0ea92a453
+—	java:S116­"[Rename this field "m_defaultColumns" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´šøØJ$06874ac4-b53d-45d1-b9db-2434bfca4c46
+š	java:S116®"YRename this field "m_columnWidths" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ°’ŞşÿÿÿÿJ$0f7e43cd-7eb9-42c7-bc06-05b8235a4e51
+›	java:S116¯"ZRename this field "m_frontSideFont" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ãœËÿÿÿÿÿJ$bf1c35b7-e10d-40b1-81ce-40eee8d6dc2e
+š	java:S116°"YRename this field "m_flipSideFont" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¦ŞÑúÿÿÿÿJ$b8683afc-f000-45a5-b94e-fa66d3b40f7c
+	java:S116±"RRename this field "m_prefs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ìšJ$77c77106-3cfb-45d3-abb1-aabc80d7e2da
+Ÿ	java:S116²"^Rename this field "m_minTableRowHeight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çìğ§úÿÿÿÿJ$2717df5c-653e-4547-8780-49d9deba5919
+“	java:S116´"RRename this field "m_frame" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šğ°ÏüÿÿÿÿJ$ef6f5d91-0aa5-4480-9d8d-a62a19674e3a
+›	java:S116µ"_Rename this field "m_selectionListeners" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ç¸ÜJ$f791545d-6c1b-4c11-b38d-c4492a6e260f
+t
+java:S1948¥"2Make "m_ascendingArrow" transient or serializable.(ßİøíûÿÿÿÿJ$968ec679-6b1e-412b-b133-ff67a6888456
+p
+java:S1948¦"3Make "m_descendingArrow" transient or serializable.(ùíÍŞJ$7a049ecc-b73f-4c6c-b758-0e780b300fff
+s
+java:S1948¯"1Make "m_frontSideFont" transient or serializable.(§ãœËÿÿÿÿÿJ$8d540224-9e52-44b2-82a6-5fae3595b36d
+r
+java:S1948°"0Make "m_flipSideFont" transient or serializable.(Á¦ŞÑúÿÿÿÿJ$f76a7b97-0774-45e5-a681-8b955cd36ab0
+e
+java:S1948±")Make "m_prefs" transient or serializable.(•ìšJ$b5f6ac87-55ed-4788-84c0-e16587f431b7
+s
+java:S1948µ"6Make "m_selectionListeners" transient or serializable.(¡ç¸ÜJ$a800dda2-b8a3-4874-b339-dd5b816973a9
+‘	java:S116_"QRename this field "m_font" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ôŠşÿÿÿÿJ$75feb0c6-10ae-4f55-99cf-379e1660eb7d
+i
+java:S1948_"(Make "m_font" transient or serializable.(›ôŠşÿÿÿÿJ$9b73de65-336d-447a-8f9e-10dea9cf2a52
+v
+java:S1161f":Add the "@Override" annotation above this method signature(íÔ­¢J$c844162a-3f75-4642-b98b-2caf1b926d69
+†
+java:S6201p"EReplace this instanceof check and cast with 'instanceof JLabel label'(õçúÿÿÿÿJ$32e067f2-62e3-443a-aa07-7389eff73244
+	java:S116‰"SRename this field "m_suffix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¬‡¯J$c79847f6-1e58-4640-8f78-cae336a4ec30
+w
+java:S1161":Add the "@Override" annotation above this method signature(íÔ­¢J$e9085ab3-e055-4967-a030-13d8e285bff7
+“	java:S116"WRename this field "m_nullString" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßš²J$6e00334f-52e8-46bc-a2c1-25ed9c888134
+w
+java:S1161¤":Add the "@Override" annotation above this method signature(¹’›¼J$5ef98a8b-a64c-4bc4-aece-bd6923a5b2b6
+|
+java:S1161²":Add the "@Override" annotation above this method signature(¡µÏıÿÿÿÿJ$8e4914fb-239f-43b3-8737-bc1cedb5c27f
+˜	java:S116È"WRename this field "m_modelIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÑùÎÿÿÿÿÿJ$dd3808a3-d582-4cbf-936b-e000a8e01b5c
+ƒ
+java:S6201ô"AReplace this instanceof check and cast with 'instanceof JLabel l'(üµêÁúÿÿÿÿJ$8d5b3305-44be-4798-af3d-dab5838097cc
+	java:S116"RRename this field "m_cards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù½úÒJ$e1c789e7-42aa-43a6-93f4-6c8ba771d587
+‘	java:S116"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$979f466b-c107-4f50-b1f4-fe8931ffe63c
+˜	java:S116’"\Rename this field "m_orderModelIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜†’J$67f9602e-73fe-47dd-b67d-bae0cca91e7e
+‘	java:S116“"URename this field "m_orderDir" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö£ØJ$bbd508a5-a6bd-46ad-befc-6eea3f526a0c
+f
+java:S1948")Make "m_cards" transient or serializable.(Ù½úÒJ$6850cbee-16c8-4d93-90a1-dcfa7644b030
+i
+java:S1948",Make "m_category" transient or serializable.(¯™øJ$b83a9771-943b-4097-b403-6504209a91d3
+|
+java:S1161Ê":Add the "@Override" annotation above this method signature(ÌõçÖıÿÿÿÿJ$2c60c592-fa04-4154-995f-f7b8f1148224
+w
+java:S1161Ò":Add the "@Override" annotation above this method signature(¸å÷şJ$b54c9279-059c-4553-b0bf-22aa1b64c466
+d
+java:S1905Ü"'Remove this unnecessary cast to "Card".(Ùõ‚°J$68107c86-b701-4478-8458-afb9c694da9e
+w
+java:S1161Î":Add the "@Override" annotation above this method signature(×ÅÎ¹J$fef2924f-cdd8-49b9-aad4-e9d0b20e2480
+h
+java:S1168Æ"+Return an empty collection instead of null.(¥¹ïJ$36c3f30e-8a2a-4569-8554-e4beb6746f53
+o
+java:S1135é"2Complete the task associated to this TODO comment.(–Ë’®J$faa58ec7-ed39-43f7-8e22-bb8f948b8bbf
+h
+java:S1168÷"+Return an empty collection instead of null.(¥¹ïJ$762afe4d-8c6f-4239-a2cf-f48a7ce92b6f
+l
+java:S1197ı"*Move the array designators [] to the type.(‹×ƒøÿÿÿÿJ$ef232776-3c11-453a-8701-8ef633d3abb9
+{
+java:S1155„">Use isEmpty() to check whether the collection is empty or not.(üœ¡¤J$6fd7f5f6-59aa-4977-9dab-384d9c1a4f7a
+|
+java:S1161Œ":Add the "@Override" annotation above this method signature(àˆ¬ùÿÿÿÿÿJ$c44094b3-b63f-40a2-ad94-7516db7f9e9f
+w
+java:S1161 ":Add the "@Override" annotation above this method signature(Á§”«J$05d8fdf6-af35-4cd1-916b-8fff53f32cbe
+d
+java:S1905¬"'Remove this unnecessary cast to "Card".(ä«Ã¦J$f4bcd975-144c-4e9b-94d2-9f940f9197c0
+|
+java:S1161Ì":Add the "@Override" annotation above this method signature(¡ºÈ‰ıÿÿÿÿJ$fcf7ea09-1c6b-4b87-b8eb-3e1c98088658
+|
+java:S1161â":Add the "@Override" annotation above this method signature(¦ï™ßøÿÿÿÿJ$379ae0a2-b15c-415c-910c-51f7b29ac3d3
+w
+java:S1161§":Add the "@Override" annotation above this method signature(×ÅÎ¹J$39b960fa-be67-4af7-89b9-a6a8c96c4217
+w
+java:S1161º":Add the "@Override" annotation above this method signature(‚õç×J$6c99c214-a215-41f3-bf3c-70c1e2a722b8
+]
+java:S2129Ø"!Remove this "Integer" constructor(üÇŠfJ$72540eba-3f68-4fc0-adeb-8a9852aa1051
+„
+java:S5738Ø"HRemove this call to a deprecated method, it has been marked for removal.(üÇŠfJ$36ca93e3-71d7-4fe7-9b6c-aead0b2dd7d2
+c
+java:S2129í"!Remove this "Integer" constructor(¾‹ŞïøÿÿÿÿJ$98bd4df0-21ab-4acb-89df-64c64e702780
+Š
+java:S5738í"HRemove this call to a deprecated method, it has been marked for removal.(¾‹ŞïøÿÿÿÿJ$7c10d816-e311-4bd9-924f-91d0d4af5eb0
+^
+java:S2129„"!Remove this "Integer" constructor(Êí¯ñJ$dc3424a6-02be-46d1-b298-03c49e057604
+…
+java:S5738„"HRemove this call to a deprecated method, it has been marked for removal.(Êí¯ñJ$e45f990f-b700-4a91-8f09-6e5d9585f4a8
+”
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¥öáÿÿÿÿÿJ$b56366ff-830c-4881-b59e-f16607a52d2b

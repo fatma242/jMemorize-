@@ -1,0 +1,9 @@
+
+ 
+java:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿJ$c6181364-c9d8-4c78-ab0c-72c18b8211e5
+v
+java:S1118":Add a private constructor to hide the implicit public one.(¤•ŒáJ$47c34f6a-63ea-47c6-8d52-24a621b8b68c
+n
+java:S1135-"2Complete the task associated to this TODO comment.(¿—ÿJ$33ba1960-093f-4548-a668-eb6139436fe2
+b
+java:S11682"&Return an empty array instead of null.(¥¹ïJ$9eaaa5ed-17b7-47a2-825a-513e7a3db259

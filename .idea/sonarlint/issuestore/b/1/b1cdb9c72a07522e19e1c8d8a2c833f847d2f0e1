@@ -1,0 +1,12 @@
+
+™	java:S116)"^Rename this field "m_selectionProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ”›J$5f8c4f2b-d7e2-4859-b80f-706850ecf606
+q
+java:S1948)"5Make "m_selectionProvider" transient or serializable.(ƒ”›J$eab200ca-2f4f-4663-a48e-0ac67e71960d
+Š
+java:S3252;"IUse static access with "javax.swing.TransferHandler" for "getCopyAction".(íÃ‹ìüÿÿÿÿJ$f96c0e19-6c9d-4255-8228-32261f27d127
+v
+java:S1161I":Add the "@Override" annotation above this method signature(ÿ†Û¤J$6c8a8db9-096a-47ce-ace2-931cdf7037a8
+z
+java:S1155O">Use isEmpty() to check whether the collection is empty or not.(µÃü J$0fac2d0d-1356-4fcc-b8d3-6dc4a65097f8
+
+java:S1155P">Use isEmpty() to check whether the collection is empty or not.(úËÆ¿ÿÿÿÿÿJ$43bfa1c9-93f4-49f1-bcfa-a5e3c385b883

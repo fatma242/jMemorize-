@@ -1,0 +1,68 @@
+
+–
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıìéØJ$586badf7-9260-4b93-b9ee-de39324ef6a2
+›
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å¿ªÜıÿÿÿÿJ$9c1b17bb-ae2e-47b7-8470-0106f6c29aa7
+–
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(íóÄíJ$20aa3e23-6890-4355-a79b-804c532fa15e
+›
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù‘½¼ûÿÿÿÿJ$9d577e26-2528-4a82-aab8-e526d8d9a361
+›
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªèôºùÿÿÿÿJ$e8a0da63-751b-45c0-8c26-d9e424816cb9
+
+java:S1192Î"QDefine a constant instead of duplicating this literal "/resource/icons/" 3 times.(»øÓJ$5b2a97ee-7aad-4790-89e3-0a18aede9549
+‰
+java:S1192ä"GDefine a constant instead of duplicating this literal "d:grow" 3 times.(á¼©†şÿÿÿÿJ$1b2447b3-3868-41e1-a337-0d082ef32618
+j
+java:S1604¥"(Make this anonymous inner class a lambda(€Š³üÿÿÿÿJ$fbf1186f-cca3-493b-8649-209b200008ae
+j
+java:S1604µ"(Make this anonymous inner class a lambda(¯ñó£şÿÿÿÿJ$0662e63c-15d3-456a-bc04-8b098292064b
+™	java:S116"]Rename this field "m_flippedCardSides" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§°¯£J$31ef968f-f899-4dc7-b959-218a39ba4b64
+œ	java:S116"[Rename this field "m_verticalLayout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µŸ‹²ûÿÿÿÿJ$6744f112-2279-43d2-b1d9-8c8cf4f2a80e
+”	java:S116‘"XRename this field "m_categoryBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¼ÖçJ$702c47ac-d4d1-4af7-ad84-0808b87e221a
+—	java:S116“"VRename this field "m_observers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¿ªÜıÿÿÿÿJ$a3d9b558-5029-476b-a167-c15e2ee58e26
+’	java:S116”"VRename this field "m_cardSides" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íóÄíJ$489c3e39-bdb1-48bc-b47a-c6eaf955b064
+™	java:S116•"XRename this field "m_textActions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‘½¼ûÿÿÿÿJ$6551e8e6-7e4a-41bc-acb7-5f6ce7ebf87a
+	java:S116–"\Rename this field "m_showSideButtons" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªèôºùÿÿÿÿJ$b59a2c05-9651-4e01-8655-cb3e86575ba6
+—	java:S116˜"[Rename this field "m_cardSidesPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¢ÂJ$ae88dd37-5c2a-4369-a3dd-4aa289f1603f
+—	java:S116™"VRename this field "m_popupMenu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ½ˆ‚üÿÿÿÿJ$e3e64429-b1bc-4546-9186-63cab6f2b271
+™	java:S116š"XRename this field "m_menuAdapter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ñÈ¥ÿÿÿÿÿJ$0f425cdb-13f1-45ed-9d28-c053c0745f33
+–	java:S116œ"ZRename this field "m_imageObserver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò€ğJ$84dcf248-2360-42e1-83db-7e33a456a25c
+o
+java:S1948“"-Make "m_observers" transient or serializable.(Å¿ªÜıÿÿÿÿJ$afdc7e59-1b2b-4a37-b1a7-2d1ccebeda2d
+q
+java:S1948š"/Make "m_menuAdapter" transient or serializable.(«ñÈ¥ÿÿÿÿÿJ$df67510b-117d-424e-b0df-ed9fbde46b8d
+n
+java:S1948œ"1Make "m_imageObserver" transient or serializable.(ò€ğJ$d1227f72-be70-41c4-9c66-5851c7a04842
+…
+java:S4201i"IRemove this unnecessary null check; "instanceof" returns false for nulls.(à“©ÂJ$4b920650-64a5-44b5-bfa9-d70e00a82dd3
+†
+java:S4201‹"IRemove this unnecessary null check; "instanceof" returns false for nulls.(à“©ÂJ$6e6170d8-1955-4c15-be39-7319d362191c
+	java:S116›"SRename this field "m_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ“»èJ$1f644de9-4aa5-4103-a97d-c0652a11ae1e
+’	java:S116œ"VRename this field "m_shortcuts" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıìéØJ$90423873-70d5-4631-a277-b32401e9e088
+•	java:S116"ZRename this field "m_caretListener" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ó¶J$fe3f0936-87f2-4cd3-a781-6de3a5d440b5
+m
+java:S1948"1Make "m_caretListener" transient or serializable.(¦ó¶J$22a524c6-356b-4b86-a0f9-42ec4ab6d769
+’	java:S116Ù"QRename this field "m_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¥•ÖøÿÿÿÿJ$33a0ad72-30aa-4f5e-a07c-9d2ae3efdc35
+“	java:S116Ú"RRename this field "m_sides" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óƒñ‚üÿÿÿÿJ$45d365f9-7078-43e5-b741-b3561a799d81
+x	java:S125å"<This block of commented-out lines of code should be removed.(¼Õä»J$462f525b-d861-4de1-ba84-c108cba9f07a
+x	java:S125‡"<This block of commented-out lines of code should be removed.(ñˆäÙJ$90ec6e25-f584-4e53-9d1f-def27617c954
+{
+java:S1874Œ">Remove this use of "getMenuShortcutKeyMask"; it is deprecated.(¤Ë½ÒJ$8769eac1-aec3-41cc-8419-4b84b6c11750
+w
+java:S1161©":Add the "@Override" annotation above this method signature(×ÅÎ¹J$995c6657-499f-4ba3-b964-c1c7c0d7e297
+‘
+java:S6201Â"OReplace this instanceof check and cast with 'instanceof CardSidePanel cardSide'(Õ‰úÿÿÿÿJ$44a4b4e9-efa9-4719-9feb-34633a662ddd
+o
+java:S1135à"2Complete the task associated to this TODO comment.(…ïœ†J$9b501042-bffb-4f4d-a2d9-b9cf7cdac9c2
+x	java:S125ó"<This block of commented-out lines of code should be removed.(·Û¿ÆJ$a74f6039-f61b-4d3d-9945-71c30a2007e3
+x	java:S125Ù"<This block of commented-out lines of code should be removed.(“êåJ$78219a2f-ece7-460a-930a-bdefe23eeaba
+i
+java:S1172à",Remove this unused method parameter "title".(ªÛô§J$d1f3f295-b496-44f5-87a8-f7fe65be4491
+}	java:S125ë"<This block of commented-out lines of code should be removed.(œœ˜âüÿÿÿÿJ$b3fdabb9-4f93-4868-82a1-8e78808dfaed
+o
+java:S1135½"2Complete the task associated to this TODO comment.(àÃ³èJ$2ec6affc-e555-4fc6-906c-5a8e664a1ba9
+¬
+java:S6201Ö"jReplace this instanceof check and cast with 'instanceof AbstractStyledTextAction abstractstyledtextaction'(µÖ‡ÏüÿÿÿÿJ$5f216f7a-82d2-45ff-8f40-3fd450ec0fcd
+}	java:S125ê"<This block of commented-out lines of code should be removed.(ŸîøÍıÿÿÿÿJ$c3a155ca-2ca2-4821-abfe-f4af0d748821
+x	java:S125ü"<This block of commented-out lines of code should be removed.(£¿±–J$3676730d-dac0-46f2-8e7e-0718c94c69f9

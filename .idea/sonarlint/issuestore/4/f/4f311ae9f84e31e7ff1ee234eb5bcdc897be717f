@@ -1,0 +1,25 @@
+
+›
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¡ÜëøÿÿÿÿJ$4e7f5a9f-e635-42d7-bdea-c923e10963f8
+	java:S116#"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$21567bdd-e7e7-4e2d-889e-223991033603
+	java:S116$"TRename this field "m_session" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÓº¯J$7814e0e1-7fb8-41ad-8d75-bbf4fc6df758
+	java:S116%"URename this field "m_settings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó»ãåJ$9d311c32-90ac-414b-98e9-ea6cb6563fbf
+	java:S116&"URename this field "m_provider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ØÛÔJ$99c0a031-2392-4e28-975f-05e463cbdcd3
+›	java:S116("[Rename this field "m_unlearnedCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢´°ŞøÿÿÿÿJ$2825e6e8-4723-462a-9068-2873ae8ddb0a
+™	java:S116)"YRename this field "m_learnedCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÃĞšÿÿÿÿÿJ$ad07d4ab-228d-4bbd-b22b-1ef0e52cd9b1
+”	java:S116*"YRename this field "m_expiredCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùî¶ÁJ$58b163f8-f266-4e72-9132-211ca67b8cf1
+•	java:S116+"ZRename this field "m_selectedCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™úÚJ$e1c61c1f-29b0-4cde-bcfd-87f7c31c4a4d
+š
+java:S1450+"^Remove the "m_selectedCount" field and declare it as a local variable in the relevant methods.(™úÚJ$31bfe665-f9da-4fb0-890d-c3ee43792fcc
+œ
+java:S1149ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$7c6bfd73-6359-4071-af00-176fa17fedf4
+†
+java:S1124-"EReorder the modifiers to comply with the Java Language Specification.(ó‹‚ûÿÿÿÿJ$e4f6e297-f847-49ce-9328-337b6684f7ca
+
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(¦¶¢™J$93c69782-4d49-47f5-873c-149e0f8304dd
+
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(‰üÉJ$aff088b4-b1fc-45b0-b09c-bba87392f1b0
+{
+java:S11611":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿJ$857de36f-92c0-4dfa-b1a5-53c23f697363
+o
+java:S1068+"3Remove this unused "m_selectedCount" private field.(™úÚJ$488beea8-29dd-4705-a5dc-2ac0d3fa7881

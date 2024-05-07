@@ -1,0 +1,20 @@
+
+™	java:S116+"^Rename this field "m_selectionProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ”›J$927502d2-cd61-4a7f-a7a0-ac591a72a390
+q
+java:S1948+"5Make "m_selectionProvider" transient or serializable.(ƒ”›J$c1f0e391-f599-42ed-a80f-81e702cb1ee1
+
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ˆâž6J$580de6b4-29c3-4425-879e-ce46c62fb9d8
+y
+java:S1155>">Use isEmpty() to check whether the collection is empty or not.(ŒÓªtJ$47e855f9-1871-482b-83b6-77eec09764f1
+]
+java:S2129@"!Remove this "Integer" constructor(¬Î‡›J$8923b935-5a36-47b3-a134-1d0b709d5ca3
+„
+java:S5738@"HRemove this call to a deprecated method, it has been marked for removal.(¬Î‡›J$008eba8c-777d-41e6-8c47-c39a84d714d4
+
+java:S1155U">Use isEmpty() to check whether the collection is empty or not.(íš¥‡þÿÿÿÿJ$aa81321c-8f5b-4e15-9474-dfc6e1af6571
+\
+java:S2129^"!Remove this "Integer" constructor( ÃJ$3bee8b43-980e-45df-9fa1-d576e65c4653
+ƒ
+java:S5738^"HRemove this call to a deprecated method, it has been marked for removal.( ÃJ$68e0d0a0-fa3f-4820-ab05-c0e8e9ea8024
+
+java:S1155|">Use isEmpty() to check whether the collection is empty or not.(í³ß…ùÿÿÿÿJ$8b1c8db7-9bea-4f51-86ff-e00980736d5c

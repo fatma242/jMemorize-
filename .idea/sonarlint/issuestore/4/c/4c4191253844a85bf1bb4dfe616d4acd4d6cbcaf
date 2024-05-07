@@ -1,0 +1,8 @@
+
+—	java:S116#"WRename this field "SHORTCUT_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¢óßıÿÿÿÿJ$fdb03d78-8e35-4ed1-8d73-ddb31aaf8011
+
+java:S1874#">Remove this use of "getMenuShortcutKeyMask"; it is deprecated.(Ç¢óßıÿÿÿÿJ$ed00b577-abd4-4e4d-931f-482537e4ef4a
+]
+java:S2129,"!Remove this "Integer" constructor(á¤ÔJ$8abcae44-e359-45e6-9b1b-aced9790637a
+„
+java:S5738,"HRemove this call to a deprecated method, it has been marked for removal.(á¤ÔJ$78e00983-57b7-485d-806d-166c58c19405

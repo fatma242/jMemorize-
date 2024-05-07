@@ -1,5 +1,5 @@
 /*
- * jMemorize - Learning made easy (and fun) - A Leitner flashcards tool
+ * jMemorize   - Learning made easy (and fun) - A Leitner flashcards tool
  * Copyright(C) 2004-2008 Riad Djemili and contributors
  * 
  * This program is free software; you can redistribute it and/or modify
@@ -12,7 +12,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
- * You should have received a copy of the GNU General Public License
+ * You should  have received a copy of the GNU General Public License
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
  */
@@ -137,17 +137,17 @@ public class Main extends Observable implements LearnSessionProvider,
     {
         Lesson oldLesson = m_lesson;
         m_lesson = lesson;
-        
+
         if (oldLesson != null)
         {
             fireLessonClosed(oldLesson);
         }
-        
+
         if (m_frame != null) // TODO remove call
         {
             m_frame.setLesson(m_lesson);
         }
-        
+
         fireLessonLoaded(m_lesson);
     }
 

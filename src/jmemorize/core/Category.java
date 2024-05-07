@@ -58,7 +58,8 @@ public class Category implements Events
 
     private Category               m_parent;
     private List<Category>         m_childCategories = new LinkedList<Category>();
-    
+
+    private List<Card> cards;
     /**
      * Creates a new Category.
      * 
@@ -68,7 +69,7 @@ public class Category implements Events
     {
         m_name   = name;
     }
-    
+
     /*
      * Card related methods.
      */
@@ -89,42 +90,54 @@ public class Category implements Events
      * 
      * Fires a ADDED_EVENT.
      */
-    public void addCard(Card card, int level)
-    {
+    public void addCard(Card card, int level) {
+        if (card == null) {
+            throw new IllegalArgumentException("Card cannot be null");
+        }
+        if (level < 0 || level >= m_decks.size()) {
+            throw new IllegalArgumentException("Invalid card level");
+        }
         addCardInternal(card, level);
-        
         fireCardEvent(ADDED_EVENT, card, card.getCategory(), level);
     }
-    
+
     /**
      * Removes a card from its associated deck and fires an event.
      */
-    public void removeCard(Card card)
-    {
+    public void removeCard(Card card) {
+        if (card == null) {
+            throw new IllegalArgumentException("Card cannot be null");
+        }
         int level = card.getLevel();
         Category category = card.getCategory();
+        if (category == null || !this.equals(category)) {
+            throw new IllegalArgumentException("Card does not belong to this category");
+        }
         removeCardInternal(card);
-        
         fireCardEvent(REMOVED_EVENT, card, category, level);
     }
-    
+
+
     /**
      * Moves the card to a new category, preserving all its fields and its
      * level. This is different from removing and then adding a card because it
      * triggers a single MOVE event instead of a REMOVE and ADD event.
      */
-    public static void moveCard(Card card, Category newCategory)
-    {
+    public static void moveCard(Card card, Category newCategory) {
+        if (card == null || newCategory == null) {
+            throw new IllegalArgumentException("Card and new category cannot be null");
+        }
         int level = card.getLevel();
         Category category = card.getCategory();
-        
+        if (category == null || !category.equals(newCategory)) {
+            throw new IllegalArgumentException("Card does not belong to the source category or new category is different");
+        }
         category.removeCardInternal(card);
         newCategory.addCardInternal(card, level);
-        
         category.fireCardEvent(MOVED_EVENT, card, category, level);
         newCategory.fireCardEvent(MOVED_EVENT, card, category, level);
     }
-    
+
     /**
      * Removes the card from its current deck and adds it to the next deck. The
      * given date is used as new expiration date.
@@ -716,5 +729,15 @@ public class Category implements Events
         {
             m_decks.remove(getNumberOfDecks()-1);
         }
+    }
+    public List<Card> getAllFavoriteCards() {
+        List<Card> favoriteCards = new ArrayList<>();
+        for (Card card : cards) {
+            if (card.isFavorite()) {
+                favoriteCards.add(card);
+            }
+        }
+
+        return favoriteCards;
     }
 }
