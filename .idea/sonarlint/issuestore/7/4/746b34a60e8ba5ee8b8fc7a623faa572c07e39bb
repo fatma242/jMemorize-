@@ -5,10 +5,10 @@ java:S3740î"/Provide the parametrized type for this generic.(ş¡ˆøÿÿÿÿ8º€ã’õ1
 java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(éİ”Õÿÿÿÿÿ8«›Ñ’õ1J$1d69248d-bbfe-49e0-b9d9-bdaa529c7f55
 q
 java:S1604²"(Make this anonymous inner class a lambda(±Ãšıÿÿÿÿ8­›Ñ’õ1J$5d82d406-c66b-4ffb-bfd3-b03f384319c2
-”
-java:S2259î"KA "NullPointerException" could be thrown; "defaultBundle" is nullable here.(ş¡ˆøÿÿÿÿ8Šã’õ1J$b600be78-7c85-4024-9e02-b10aa12cae4a
 ˆ
 java:S2259ì"DA "NullPointerException" could be thrown; "bundle" is nullable here.(å½ñø8Šã’õ1J$4191eca4-ca02-4d24-aed6-3d306cb2eb3a
+”
+java:S2259î"KA "NullPointerException" could be thrown; "defaultBundle" is nullable here.(ş¡ˆøÿÿÿÿ8Šã’õ1J$b600be78-7c85-4024-9e02-b10aa12cae4a
 ¢
 java:S3008D"ZRename this field "m_defaultBundle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓöŸûÿÿÿÿ8ğ›Ñ’õ1J$78304fdf-c24d-4530-a7bb-a0f8b9f25417
 

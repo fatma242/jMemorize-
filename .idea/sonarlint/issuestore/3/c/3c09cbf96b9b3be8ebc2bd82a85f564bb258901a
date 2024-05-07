@@ -1,6 +1,7 @@
 
 <<<<<<< Updated upstream
 
+<<<<<<< Updated upstream
 java:S2184#"FCast one of the operands of this multiplication operation to a "long".(ºÅêøÿÿÿÿ8İ“”õ1J$ec20271b-b122-4cb7-a455-fe73199b3e53
 —	java:S116&"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™ø8 ””õ1J$1df34d90-0ecf-4d75-bcd2-f737ba9d1df5
 ™	java:S116'"RRename this field "m_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡ú®úÿÿÿÿ8 ””õ1J$94d2b3da-1ce7-4470-8e7f-87b9d822d912
@@ -51,4 +52,34 @@ java:S1135À"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿ8¢·ø
 java:S2975“"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ8Û·øãğ1J$e77dc6ab-5907-4506-add0-68995e5c862c
 {
 java:S1135×"2Complete the task associated to this TODO comment.(îÎÒ¶üÿÿÿÿ8í·øãğ1J$6d188e94-f148-4f84-87bb-84c2768d305e
+>>>>>>> Stashed changes
+=======
+java:S2184$"FCast one of the operands of this multiplication operation to a "long".(ºÅêøÿÿÿÿ8‡£õ1J$3e2aecd0-7bd8-4c13-be9c-cdb597b85905
+—	java:S116'"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™ø8ç£õ1J$c6296b4a-c35a-4807-89d6-1af6684c0566
+™	java:S116("RRename this field "m_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡ú®úÿÿÿÿ8ç£õ1J$889a347c-2536-4d15-b097-704b48ff42c3
+˜	java:S116+"VRename this field "m_frontSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ•ºó8ç£õ1J$92fd3fe6-b06e-4c6f-9484-d5767729e747
+œ	java:S116,"URename this field "m_backSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‹³—øÿÿÿÿ8ç£õ1J$a514a51d-326a-4137-ae02-7bbe2ac60685
+	java:S116/"WRename this field "m_dateTested" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸæÇèøÿÿÿÿ8ç£õ1J$aa00f5d1-c505-4659-9924-c98bfc21a056
+Ÿ	java:S1160"XRename this field "m_dateExpired" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡˜¤üÿÿÿÿ8è£õ1J$b402d540-a009-439f-a104-24827b10674e
+™	java:S1161"XRename this field "m_dateCreated" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßô¬E8è£õ1J$bcea6815-c449-42cd-a4ed-f32f0754dedc
+ 	java:S1162"YRename this field "m_dateModified" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úãĞØşÿÿÿÿ8è£õ1J$d6c44749-81fa-43da-8366-38a3671d8dbf
+š	java:S1163"XRename this field "m_dateTouched" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ê€Õ8è£õ1J$967c3b0f-94be-445e-bc3e-c32bf41d10e1
+™	java:S1167"WRename this field "m_testsTotal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñĞûŠ8è£õ1J$6f22c3ca-81aa-4e3f-8545-e192439d9956
+—	java:S1168"URename this field "m_testsHit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä„¨­8è£õ1J$df741be6-e7b1-46c0-82d4-e33bea69198d
+Ÿ	java:S1169"]Rename this field "m_frontHitsCorrect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©´ïî8é£õ1J$f9108417-4c1d-4626-a898-655273b17978
+£	java:S116:"\Rename this field "m_backHitsCorrect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÎµ¿úÿÿÿÿ8é£õ1J$7496204a-645e-4843-9f38-3c790134f150
+{
+java:S1135µ"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿ8”‚£õ1J$8f980bd1-3b3e-4d99-b044-e902905db1b8
+{
+java:S1135Æ"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿ8£‚£õ1J$3f4eb1dd-7b82-426b-9622-6432e47888be
+{
+java:S1135à"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿ8¦‚£õ1J$ce1d19ef-9ff9-4b45-af7b-172e7411a13d
+œ
+java:S2975³"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ8Â‚£õ1J$62ea7ac8-66e3-4c79-b5d2-304a09dfe8e0
+{
+java:S1135÷"2Complete the task associated to this TODO comment.(îÎÒ¶üÿÿÿÿ8Ñ‚£õ1J$fcfa5b5b-1466-4342-bc98-0378c4414a45
+x
+java:S1068>"0Remove this unused "feedbackList" private field.(¨èûÿÿÿÿ8ğ‚£õ1J$7d7c5443-4b58-410a-9d41-39e126391fd3
+r
+java:S1068F"/Remove this unused "inAnonymous" private field.(Ş€š²8ñ‚£õ1J$a68fd5ea-5f32-4145-8e85-8dd293dfe4d8
 >>>>>>> Stashed changes

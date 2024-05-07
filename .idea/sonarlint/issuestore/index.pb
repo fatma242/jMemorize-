@@ -2,6 +2,7 @@
 L
 src/jmemorize/core/Card.java,3\c\3c09cbf96b9b3be8ebc2bd82a85f564bb258901a
 U
+<<<<<<< Updated upstream
 %src/jmemorize/core/io/CsvBuilder.java,6\5\65822d371ef59c2644ce2e104e93a794749b5bc1
 X
 (src/jmemorize/core/io/PdfRtfBuilder.java,a\8\a8c00153cf25094fe1b57c13f0a3cd28d6aa8f20
@@ -310,3 +311,14 @@ V
 >>>>>>> Stashed changes
 >
 jMemorize-.iml,9\0\90d30a1078879bac6abf03c33642b918ecc3541c
+=======
+%src/jmemorize/core/test/CardTest.java,c\a\caab127031c0480e8015cd6533d4b64e0c0fb2fe
+Y
+)src/jmemorize/core/test/CategoryTest.java,4\6\46b2b1e97cdd3e79f9089bda6753c0711a9e7d35
+P
+ src/jmemorize/core/Category.java,b\7\b79817ce84d43cb3143d5887c490c98da970041f
+]
+-src/jmemorize/core/test/LocalizationTest.java,9\c\9c2a0d15132489af768f658264388b338e0cb1ee
+S
+#src/jmemorize/gui/Localization.java,7\4\746b34a60e8ba5ee8b8fc7a623faa572c07e39bb
+>>>>>>> Stashed changes

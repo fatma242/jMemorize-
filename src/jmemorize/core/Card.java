@@ -48,12 +48,52 @@ public class Card implements Events, Cloneable
     private Date     m_dateCreated;
     private Date     m_dateModified;
     private Date     m_dateTouched; //this date is used internaly to order cards
-
+    private boolean isFavorite;
+    private static List<Card> favoriteCards = new ArrayList<>();
     // stats
     private int      m_testsTotal;
     private int      m_testsHit;    //succesfull learn repetitions
     private int      m_frontHitsCorrect;
     private int      m_backHitsCorrect;
+<<<<<<< Updated upstream
+=======
+    private double rating;
+private ArrayList<String> tags = new ArrayList<>();
+    private int ratingCount;
+    private List<Feedback> feedbackList = new ArrayList<>();
+
+    public Card() {
+
+    }
+
+    public static class Feedback{
+        private String comment;
+        private boolean inAnonymous;
+        private Date dateSubmitted;
+
+        public Feedback(String comment, boolean isAnonymous){
+            this.comment = comment;
+            this.inAnonymous = isAnonymous;
+            this.dateSubmitted = new Date();
+        }
+        public String getComment(){
+            return comment;
+        }
+        public boolean isAnonymous(){
+            return isAnonymous();
+        }
+        public Date getDateSubmitted(){
+            return dateSubmitted;
+        }
+    }
+    public void rateCard(double newRating){
+        double totalRating = this.rating * this.ratingCount;
+        this.ratingCount++;
+        this.rating = (totalRating + newRating)/this.ratingCount;
+        m_dateModified = new Date();
+    }
+    
+>>>>>>> Stashed changes
 
     /**
      * Assumes formatted front- and backsides
@@ -487,10 +527,13 @@ public class Card implements Events, Cloneable
         
         return date;
     }
+<<<<<<< Updated upstream
 
 
 
 
+=======
+>>>>>>> Stashed changes
     public static List<Card> getAllFavoriteCards() {
         return favoriteCards;
     }
@@ -508,4 +551,42 @@ public class Card implements Events, Cloneable
     public boolean isFavorite() {
         return isFavorite;
     }
+<<<<<<< Updated upstream
+=======
+    public void addTag(String tag) {
+        if (!tags.contains(tag)) {
+            tags.add(tag);
+            updateModified();
+        }
+    }
+    public void removeTag(String tag) {
+        if (tags.contains(tag)) {
+            tags.remove(tag);
+            updateModified();
+        }
+    }
+
+    public List<String> getTags() {
+        return new ArrayList<>(tags);
+    }
+
+    public boolean hasTag(String tag) {
+        return tags.contains(tag);
+    }
+    private void updateModified() {
+        m_dateModified = new Date();
+        if (m_category != null) {
+            m_category.fireCardEvent(EDITED_EVENT, this, m_category, m_level);
+        }
+    }
+    public static List<Card> filterByTag(List<Card> cards, String tag) {
+        List<Card> filteredCards = new ArrayList<>();
+        for (Card card : cards) {
+            if (card.hasTag(tag)) {
+                filteredCards.add(card);
+            }
+        }
+        return filteredCards;
+    }
+>>>>>>> Stashed changes
 }
