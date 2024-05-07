@@ -1,30 +1,30 @@
 
-h
-java:S2184$"FCast one of the operands of this multiplication operation to a "long".(ºÅêøÿÿÿÿ8£ôŸõ1
-q	java:S116'"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™ø8»£ôŸõ1
-s	java:S116("RRename this field "m_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡ú®úÿÿÿÿ8¼£ôŸõ1
-r	java:S116+"VRename this field "m_frontSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ•ºó8¼£ôŸõ1
-v	java:S116,"URename this field "m_backSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‹³—øÿÿÿÿ8¼£ôŸõ1
-x	java:S116/"WRename this field "m_dateTested" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸæÇèøÿÿÿÿ8¼£ôŸõ1
-y	java:S1160"XRename this field "m_dateExpired" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡˜¤üÿÿÿÿ8¼£ôŸõ1
-s	java:S1161"XRename this field "m_dateCreated" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßô¬E8¼£ôŸõ1
-z	java:S1162"YRename this field "m_dateModified" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úãĞØşÿÿÿÿ8¼£ôŸõ1
-t	java:S1163"XRename this field "m_dateTouched" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ê€Õ8½£ôŸõ1
-s	java:S1166"WRename this field "m_testsTotal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñĞûŠ8½£ôŸõ1
-q	java:S1167"URename this field "m_testsHit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä„¨­8½£ôŸõ1
-y	java:S1168"]Rename this field "m_frontHitsCorrect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©´ïî8½£ôŸõ1
-}	java:S1169"\Rename this field "m_backHitsCorrect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÎµ¿úÿÿÿÿ8½£ôŸõ1
-U
-java:S1135¯"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿ8÷£ôŸõ1
-U
-java:S1135À"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿ8ù£ôŸõ1
-U
-java:S1135Ú"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿ8ü£ôŸõ1
-v
-java:S2975­"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ8¨¤ôŸõ1
-U
-java:S1135ñ"2Complete the task associated to this TODO comment.(îÎÒ¶üÿÿÿÿ8¹¤ôŸõ1
-R
-java:S1068="0Remove this unused "feedbackList" private field.(¨èûÿÿÿÿ8¿¤ôŸõ1
-L
-java:S1068A"/Remove this unused "inAnonymous" private field.(Ş€š²8Á¤ôŸõ1
+
+java:S2184$"FCast one of the operands of this multiplication operation to a "long".(ºÅêøÿÿÿÿ8£ôŸõ1J$ff901deb-dbc8-4070-b186-0b9e249a5726
+—	java:S116'"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™ø8»£ôŸõ1J$a58b9b28-3e82-46f5-9a56-b38eb64068bc
+™	java:S116("RRename this field "m_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡ú®úÿÿÿÿ8¼£ôŸõ1J$6b69cb1b-dcba-4b8c-a04b-f7a66ef07b1c
+˜	java:S116+"VRename this field "m_frontSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ•ºó8¼£ôŸõ1J$7fc02175-6565-46c9-9488-9a3e0e40b959
+œ	java:S116,"URename this field "m_backSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‹³—øÿÿÿÿ8¼£ôŸõ1J$27429645-69fa-4f32-ab7d-554092016e93
+	java:S116/"WRename this field "m_dateTested" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸæÇèøÿÿÿÿ8¼£ôŸõ1J$e4eeacc9-e75e-4c26-9817-d1cde3975bfc
+Ÿ	java:S1160"XRename this field "m_dateExpired" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡˜¤üÿÿÿÿ8¼£ôŸõ1J$f8b79841-f6f7-4ed2-9243-086ef8fd85fd
+™	java:S1161"XRename this field "m_dateCreated" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßô¬E8¼£ôŸõ1J$d2cc2040-a896-40ce-acda-70147e7c02f5
+ 	java:S1162"YRename this field "m_dateModified" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úãĞØşÿÿÿÿ8¼£ôŸõ1J$56ac77bc-1ff5-4392-b8aa-07e19b2a7fbb
+š	java:S1163"XRename this field "m_dateTouched" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ê€Õ8½£ôŸõ1J$272d130f-cde9-434e-bc31-4c600b6b5594
+™	java:S1166"WRename this field "m_testsTotal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñĞûŠ8½£ôŸõ1J$cbe480f5-f8b6-4570-937c-3673f496d0c4
+—	java:S1167"URename this field "m_testsHit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä„¨­8½£ôŸõ1J$d80b774d-2b61-4591-8bad-f92544ef2a3e
+Ÿ	java:S1168"]Rename this field "m_frontHitsCorrect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©´ïî8½£ôŸõ1J$bebfd4de-808e-422e-addf-a5b2f3b4dc45
+£	java:S1169"\Rename this field "m_backHitsCorrect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÎµ¿úÿÿÿÿ8½£ôŸõ1J$5884ff2d-ca41-48ae-be43-b79de4622738
+{
+java:S1135°"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿ8÷£ôŸõ1J$43197e0b-f270-4402-8c83-61c28ee90dd2
+{
+java:S1135Á"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿ8ù£ôŸõ1J$98da5899-4e0e-483b-b59b-265877350c5f
+{
+java:S1135Û"2Complete the task associated to this TODO comment.(÷Ô˜»şÿÿÿÿ8ü£ôŸõ1J$1cafa0e3-9ffa-417d-94dd-4c72eb8ac26f
+œ
+java:S2975®"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ8¨¤ôŸõ1J$e48ca053-52c3-4977-8784-6756ef7bab51
+{
+java:S1135ò"2Complete the task associated to this TODO comment.(îÎÒ¶üÿÿÿÿ8¹¤ôŸõ1J$dfbb9c67-4ed5-41c0-b6a5-8840c3f006ef
+x
+java:S1068="0Remove this unused "feedbackList" private field.(¨èûÿÿÿÿ8¿¤ôŸõ1J$922c8931-c3e4-43de-be5b-496293f26167
+r
+java:S1068A"/Remove this unused "inAnonymous" private field.(Ş€š²8Á¤ôŸõ1J$1cac52cb-24ca-43e3-ae3e-f3ba1605c2c9

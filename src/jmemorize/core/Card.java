@@ -86,6 +86,7 @@ public class Card implements Events, Cloneable
         this.rating = (totalRating + newRating)/this.ratingCount;
         m_dateModified = new Date();
     }
+    
 
     /**
      * Assumes formatted front- and backsides
