@@ -301,3 +301,12 @@ W
 'resource/text/translation_da.properties,f\7\f76fb84f5a5ee723aa57bb60a9a2fac58b8f9f49
 W
 'resource/text/translation_fr.properties,a\4\a428ab101f05233ab8daa912f42ea409b41d895f
+<<<<<<< Updated upstream
+G
+.idea/libraries/lib.xml,5\6\563a23e064e6fdd2d09bd0c2d99ef456aff71a31
+V
+&.idea/libraries/checkstyle_all_4_3.xml,f\f\ff2f5cf5e6b8e82be1bdc77bef4fb27582a0088f
+=======
+>>>>>>> Stashed changes
+>
+jMemorize-.iml,9\0\90d30a1078879bac6abf03c33642b918ecc3541c

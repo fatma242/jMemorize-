@@ -1,7 +1,7 @@
 /*
  * jMemorize - Learning made easy (and fun) - A Leitner flashcards tool
  * Copyright(C) 2004-2008 Riad Djemili and contributors
- * 
+ *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 1, or (at your option)
@@ -34,52 +34,53 @@ public class LocalizationTest extends TestCase
         Map defaultBundle = new HashMap();
         defaultBundle.put("abc", "ABC");
         defaultBundle.put("def", "DEF");
-        
+
         Map childBundle = new HashMap();
         childBundle.put("abc", "XYZ");
-        
+
         Localization.setBundles(childBundle, defaultBundle);
     }
-    
+
     public void testSimpleGet()
     {
         assertEquals("XYZ", Localization.get("abc"));
     }
-    
+
     public void testGetFallthrough()
     {
         assertEquals("DEF", Localization.get("def"));
     }
-    
+
     public void testGetWithAlternateKey()
     {
         assertEquals("XYZ", Localization.get("def", "abc"));
     }
-    
+
     public void testGetEmpty()
     {
         assertEquals("XYZ", Localization.getEmpty("abc"));
         assertEquals("", Localization.getEmpty("def"));
     }
-    
+
     public void testGetDebugString()
     {
         assertEquals("!foo!", Localization.get("foo"));
     }
-    
+
     public void testNullBundles()
     {
         Localization.setBundles(null, null);
         assertEquals("#abc#", Localization.get("abc"));
     }
-    
+
     public void testNullDefaultBundle()
     {
         Map defaultBundle = new HashMap();
         defaultBundle.put("abc", "ABC");
         Localization.setBundles(defaultBundle, null);
-        
+
         assertEquals("ABC", Localization.get("abc"));
         assertEquals("#def#", Localization.get("def"));
     }
+
 }

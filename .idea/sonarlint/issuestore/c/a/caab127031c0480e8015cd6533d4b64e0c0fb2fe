@@ -1,22 +1,45 @@
 
 •
-java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(™·ş¾J$4a333e0d-741a-4b79-8b14-f7250f4d5cb1
+<<<<<<< Updated upstream
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(™·ş¾J$ec8f3d14-db23-40e1-8259-25ba5ea337cb
 •
-java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(®›‘øJ$a4f93408-0ae3-4b0d-8bdc-7a8d2efe38a3
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(®›‘øJ$e9b65d8c-8da9-4aad-91bc-16a2622ae8e9
 •
-java:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(™·ş¾J$1eb5892a-c836-4991-9a6e-76f0b27caf27
+java:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(™·ş¾J$587b5abe-9e12-4668-a8fc-27b41d0ba4d6
 •
-java:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç³ıÚJ$7c321297-e12c-4271-b843-8581dd859fcb
+java:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç³ıÚJ$315258e2-2424-415c-916d-3f67a8353412
 •
-java:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(™·ş¾J$42b9740a-a51f-4ec0-b71e-0a3ec5a88da3
+java:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(™·ş¾J$aeec5b7e-2a9a-42eb-8b9d-ad0dfd0c49e9
 •
-java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç³ıÚJ$3776e069-b504-4bcc-92f5-9d18962747be
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç³ıÚJ$dca8bc3b-3fb2-4ee4-9757-b79c2da40b7f
 „
-java:S11929"HDefine a constant instead of duplicating this literal "foo.png" 3 times.(ÆÙÈJ$bd64fe4c-402e-410c-90ec-a7b462ba36e2
-	java:S116 "URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$71820d53-747e-4c3f-b0bd-73b898f67c2e
-‘	java:S116!"QRename this field "m_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘Ü‘şÿÿÿÿJ$ad53f673-3fed-4a46-820d-9fef11440157
+java:S1192:"HDefine a constant instead of duplicating this literal "foo.png" 3 times.(ÆÙÈJ$3621ab69-70a9-47b2-b304-336c1daeb90e
+	java:S116!"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$0b4835c8-b56d-4e00-b6f7-9a2b64d51ae2
+‘	java:S116""QRename this field "m_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘Ü‘şÿÿÿÿJ$27d8bf4c-219a-4445-9a0c-2f1df07f2f9f
 {
-java:S1161#":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿJ$eaa5638a-b12c-43cd-8c06-08f70aa9d020
+java:S1161$":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿJ$ba533ed9-020c-46d5-b58a-ad543ab89093
 c
-java:S1905s"'Remove this unnecessary cast to "Card".(‚ä´ŸJ$073ef9d0-3ecf-4ae2-b359-5e01ab59b057
-x	java:S125ˆ"<This block of commented-out lines of code should be removed.(¥äï¾J$e076faae-35cd-4f3b-9580-96ada54d66f3
+java:S1905t"'Remove this unnecessary cast to "Card".(‚ä´ŸJ$6ca18689-614b-40b9-953d-22de7f9363c2
+x	java:S125‰"<This block of commented-out lines of code should be removed.(¥äï¾J$2a095fad-65b8-47de-b488-8f603578cef9
+=======
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(™·ş¾J$ea9fd334-3f27-482f-90b4-911ae4301cfd
+•
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(®›‘øJ$aa536857-22a0-4438-ab8d-b1df0401ed0c
+•
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(™·ş¾J$6fc1dff7-e1b8-4c55-9a33-a19a2227a4f2
+•
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç³ıÚJ$0332451e-3568-4e24-a70e-c2340aaca2c1
+•
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(™·ş¾J$5c72c517-aecc-4bc7-a8f7-8cb1d2b51711
+•
+java:S2293z"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç³ıÚJ$afc52f82-5df0-4f3b-af69-1d678fc6b4b2
+„
+java:S1192="HDefine a constant instead of duplicating this literal "foo.png" 3 times.(ÆÙÈJ$4fe0ae42-001d-43ee-9c07-56fcae123411
+q	java:S116$"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™ø8½Áª¢õ1
+r	java:S116%"QRename this field "m_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘Ü‘şÿÿÿÿ8ÌÁª¢õ1
+\
+java:S1161'":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿ8ØÁª¢õ1
+D
+java:S1905w"'Remove this unnecessary cast to "Card".(‚ä´Ÿ8øÁª¢õ1
+Y	java:S125Œ"<This block of commented-out lines of code should be removed.(¥äï¾8„Âª¢õ1
+>>>>>>> Stashed changes
