@@ -1,13 +1,13 @@
 
 š
-java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(’£ú¶ýÿÿÿÿJ$d5efdac9-6daa-4c9c-9cfb-517b42d5a277
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(’£ú¶ýÿÿÿÿJ$7c253b91-b054-40ee-9bb9-b7a6dcaab062
 š
-java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(®´êÞøÿÿÿÿJ$6cd3371b-80ac-467f-ac47-8e912c8df6c9
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(®´êÞøÿÿÿÿJ$7233c669-62c6-4086-971a-6ec9cc761e2a
 š
-java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò‘¬ÜúÿÿÿÿJ$7b5f1c6c-f692-4a1f-863c-8b00371534fd
-š	java:S116."ZRename this field "m_newCardFrames" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’£ú¶ýÿÿÿÿJ$aaa91fbf-2705-4151-874e-ace859b871ea
-™	java:S116/"YRename this field "m_createdCards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®´êÞøÿÿÿÿJ$85b3c2e9-f0ff-4670-b752-0faae1a047f4
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò‘¬ÜúÿÿÿÿJ$9981eef9-2e71-473b-a78c-c9f81f222a76
+š	java:S116."ZRename this field "m_newCardFrames" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’£ú¶ýÿÿÿÿJ$65232922-5c11-4fef-abbf-e5abd5281259
+™	java:S116/"YRename this field "m_createdCards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®´êÞøÿÿÿÿJ$3453c971-ec19-4250-902d-e05d580083c8
 k
-java:S1905D"/Remove this unnecessary cast to "NewCardFrame".(›œ¦ùJ$c632ec87-2b9c-4d94-b54f-68ad321f1f36
+java:S1905D"/Remove this unnecessary cast to "NewCardFrame".(›œ¦ùJ$b8cbd455-5658-4b64-9a0e-bb71d5cec768
 c
-java:S1905X"'Remove this unnecessary cast to "Card".( Éƒ¶J$f527e6d6-ed05-4685-b35b-4707f1b7d356
+java:S1905X"'Remove this unnecessary cast to "Card".( Éƒ¶J$9a593975-30ed-47fd-8139-2962941d5a62

@@ -1,9 +1,9 @@
 
-	java:S116"URename this field "m_cardSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À®Ã J$a5353877-63c1-4d62-8eda-1148f99dd20b
-‘	java:S116"QRename this field "m_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ñ¸£ûÿÿÿÿJ$91743c7b-70f3-48c6-9287-b0fc204252a1
+	java:S116"URename this field "m_cardSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À®Ã J$873ee72c-aa70-4bd7-88ef-8c8122c5d616
+‘	java:S116"QRename this field "m_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ñ¸£ûÿÿÿÿJ$47ad609d-8c45-463b-911a-a20494cd63ae
 ½
-java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õ›ñìJ$5c204095-88e2-47e5-bbee-3562f51d53b1
+java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õ›ñìJ$68c7b04f-97b7-4c14-af8b-6abc351e8294
 ½
-java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸»¤ÓJ$273e2a7b-0b35-477e-954e-c95eacd7ea34
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸»¤ÓJ$8795e1ed-efcc-43a5-aa09-aefd15ab6bf3
 n
-java:S1135"2Complete the task associated to this TODO comment.(ğÓäßJ$582e44b2-7e10-4820-a018-c6823d0e03c8
+java:S1135"2Complete the task associated to this TODO comment.(ğÓäßJ$aa8da73a-90c2-4301-a0cd-287afeef4ee4

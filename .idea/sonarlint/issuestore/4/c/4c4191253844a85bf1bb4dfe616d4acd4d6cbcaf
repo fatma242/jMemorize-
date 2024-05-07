@@ -1,8 +1,8 @@
 
-ó	java:S116#"WRename this field "SHORTCUT_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¢Ûﬂ˝ˇˇˇˇJ$b4f3074a-4577-4791-8f07-2d6e643f5533
+ó	java:S116#"WRename this field "SHORTCUT_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¢Ûﬂ˝ˇˇˇˇJ$fdb03d78-8e35-4ed1-8d73-ddb31aaf8011
 
-java:S1874#">Remove this use of "getMenuShortcutKeyMask"; it is deprecated.(«¢Ûﬂ˝ˇˇˇˇJ$b175b248-f8d1-4370-82cf-79676454b452
+java:S1874#">Remove this use of "getMenuShortcutKeyMask"; it is deprecated.(«¢Ûﬂ˝ˇˇˇˇJ$ed00b577-abd4-4e4d-931f-482537e4ef4a
 ]
-java:S2129,"!Remove this "Integer" constructor(·Å§‘J$adbab97e-13c7-42df-94b4-609b915a8eff
+java:S2129,"!Remove this "Integer" constructor(·Å§‘J$8abcae44-e359-45e6-9b1b-aced9790637a
 Ñ
-java:S5738,"HRemove this call to a deprecated method, it has been marked for removal.(·Å§‘J$dd5503b0-332a-4744-817a-3597c10112dd
+java:S5738,"HRemove this call to a deprecated method, it has been marked for removal.(·Å§‘J$78e00983-57b7-485d-806d-166c58c19405

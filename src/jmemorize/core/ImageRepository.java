@@ -330,3 +330,68 @@ public class ImageRepository
     {        
     }
 }
+//import java.util.ArrayList;
+//import java.util.Collections;
+//import java.util.Date;
+//import java.util.LinkedList;
+//import java.util.List;
+//
+//public class Category implements Events {
+//    private List<CategoryObserver> m_observers = new ArrayList<>();
+//
+//    private String m_name;
+//    private int m_depth = 0;
+//
+//    private List<List<Card>> m_decks = new ArrayList<>();
+//    private Category m_parent;
+//    private List<Category> m_childCategories = new LinkedList<>();
+//
+//    public Category(String name) {
+//        if (name == null || name.isEmpty()) {
+//            throw new IllegalArgumentException("Category name cannot be null or empty");
+//        }
+//        m_name = name;
+//    }
+//
+//    public void addCard(Card card) {
+//        addCard(card, 0);
+//    }
+//
+//    public void addCard(Card card, int level) {
+//        if (card == null) {
+//            throw new IllegalArgumentException("Card cannot be null");
+//        }
+//        if (level < 0 || level >= m_decks.size()) {
+//            throw new IllegalArgumentException("Invalid card level");
+//        }
+//        addCardInternal(card, level);
+//        fireCardEvent(ADDED_EVENT, card, card.getCategory(), level);
+//    }
+//
+//    public void removeCard(Card card) {
+//        if (card == null) {
+//            throw new IllegalArgumentException("Card cannot be null");
+//        }
+//        int level = card.getLevel();
+//        Category category = card.getCategory();
+//        if (category == null || !this.equals(category)) {
+//            throw new IllegalArgumentException("Card does not belong to this category");
+//        }
+//        removeCardInternal(card);
+//        fireCardEvent(REMOVED_EVENT, card, category, level);
+//    }
+//
+//    public static void moveCard(Card card, Category newCategory) {
+//        if (card == null || newCategory == null) {
+//            throw new IllegalArgumentException("Card and new category cannot be null");
+//        }
+//        int level = card.getLevel();
+//        Category category = card.getCategory();
+//        if (category == null || !category.equals(newCategory)) {
+//            throw new IllegalArgumentException("Card does not belong to the source category or new category is different");
+//        }
+//        category.removeCardInternal(card);
+//        newCategory.addCardInternal(card, level);
+//        category.fireCardEvent(MOVED_EVENT, card, category, level);
+//        newCategory.fireCardEvent(MOVED_EVENT, card, category, level);
+//    }

@@ -1,13 +1,13 @@
 
 k
-java:S3740*"/Provide the parametrized type for this generic.(·¢„øJ$c0ba1ee2-03bf-4ff8-9446-8e9240fc78fe
+java:S3740*"/Provide the parametrized type for this generic.(·¢„øJ$71d8620e-e9c9-4f7f-9c63-ac8f5b89298c
 p
-java:S3740~"/Provide the parametrized type for this generic.(ÁþÕÆúÿÿÿÿJ$eddfee9f-7a4c-4024-b549-f7ed25ab212b
+java:S3740~"/Provide the parametrized type for this generic.(ÁþÕÆúÿÿÿÿJ$505ed199-169a-4b50-a0f9-2060697a90fc
 p
-java:S3740~"/Provide the parametrized type for this generic.(ÁþÕÆúÿÿÿÿJ$262d7a1a-a95c-4000-a374-02e7031190db
-–	java:S116D"VRename this field "FOLDER_ICON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ£ù÷ùÿÿÿÿJ$92c36b4a-27f3-43e5-b3f6-1c31daffbd1b
-™	java:S116G"YRename this field "m_rootCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÔ…µÿÿÿÿÿJ$f8b2628d-3f51-47b5-9737-652643de6314
+java:S3740~"/Provide the parametrized type for this generic.(ÁþÕÆúÿÿÿÿJ$100ecb0d-af50-4eeb-b05d-56a74dbbe7a9
+–	java:S116D"VRename this field "FOLDER_ICON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ£ù÷ùÿÿÿÿJ$f3313486-4705-48b5-aeae-2f8e0057c7f6
+™	java:S116G"YRename this field "m_rootCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÔ…µÿÿÿÿÿJ$6ceaede4-2eff-49a3-9ebf-ed06110842ab
 q
-java:S1948G"0Make "m_rootCategory" transient or serializable.(ðÔ…µÿÿÿÿÿJ$b69a02b7-81e9-469a-b7f2-239c20c2fa75
+java:S1948G"0Make "m_rootCategory" transient or serializable.(ðÔ…µÿÿÿÿÿJ$e88aaacb-9ca4-44a0-ab23-9fff0ba66c2d
 u
-java:S11611":Add the "@Override" annotation above this method signature(ñºà<J$15bebd49-a00b-4366-b086-bf87d3c2d7b0
+java:S11611":Add the "@Override" annotation above this method signature(ñºà<J$c7bbbc41-4a99-400d-86cf-09f24f4237a0

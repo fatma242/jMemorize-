@@ -1,35 +1,35 @@
 
 •
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(à ÒÄJ$24c94fee-165d-44a9-8291-c9b36d800d28
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(à ÒÄJ$abf44040-a4e0-4407-a5f0-2577fb4b7368
 š
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÓ½ÊüÿÿÿÿJ$e03857ba-5b8a-499b-aab2-daf2e0fd59b6
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÓ½ÊüÿÿÿÿJ$e472cf17-dbae-48a2-ae7c-b5e672aaec6a
 š
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó”àíøÿÿÿÿJ$e03e0061-e677-476f-82fd-7f586a7fec93
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó”àíøÿÿÿÿJ$546fe3d4-23a3-454e-aa9a-a5e6dd789424
 •
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷¡‰´J$27c6162f-521b-4af1-913e-3078c1ef3600
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷¡‰´J$213812b7-040a-40b5-806a-3298941c4eec
 •
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦é·şJ$a0336449-f91f-4a78-99e4-6b05027a7fd5
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦é·şJ$4da22728-5823-4f97-9961-56c474e3ca4c
 ›
-java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÄ‚µúÿÿÿÿJ$a0ac31d9-fee4-4169-a4b0-c9a3fcd7c578
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÄ‚µúÿÿÿÿJ$f856e604-96a4-499f-8f6b-6fafc2818079
 ‹
-java:S1192""JDefine a constant instead of duplicating this literal "test card" 4 times.(ÁÏ€ŒûÿÿÿÿJ$28140ac6-ac00-4acc-83e7-94fc1c84416b
-’	java:S116"RRename this field "m_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ€¹ıÿÿÿÿJ$8ff2fa2f-6c6c-4fea-b576-bd95de073085
-	java:S116"PRename this field "m_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä‡¤²ùÿÿÿÿJ$7127a9de-acc2-4b24-8600-841896418e49
-	java:S116"SRename this field "m_passed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à ÒÄJ$720a8cdc-dd11-49e6-acc6-eff2d9f379f3
-“	java:S116"SRename this field "m_failed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÓ½ÊüÿÿÿÿJ$25b51973-3f4d-4f2c-83c7-155e2883d04f
-”	java:S116"TRename this field "m_skipped" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó”àíøÿÿÿÿJ$beecdd4d-2226-4f76-bb51-d612ef37ed0b
-‘	java:S116"VRename this field "m_relearned" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¡‰´J$210eaf52-5c66-4a26-bbc3-15f09f54548a
+java:S1192""JDefine a constant instead of duplicating this literal "test card" 4 times.(ÁÏ€ŒûÿÿÿÿJ$3048c675-05f3-4030-a9e4-633d9d25f428
+’	java:S116"RRename this field "m_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ€¹ıÿÿÿÿJ$99dec93d-9b19-4d2f-a9de-0ddf8642cf7b
+	java:S116"PRename this field "m_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä‡¤²ùÿÿÿÿJ$28b7da66-b62c-4ce2-94c5-592742fc902a
+	java:S116"SRename this field "m_passed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à ÒÄJ$f1db1530-047f-46dd-8e4d-45aaf6b4ef0a
+“	java:S116"SRename this field "m_failed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÓ½ÊüÿÿÿÿJ$ea67042f-d9a4-4e81-8086-530b2dc9aa3e
+”	java:S116"TRename this field "m_skipped" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó”àíøÿÿÿÿJ$aac2e9dd-a7ce-4a01-b6e4-81aed586dc13
+‘	java:S116"VRename this field "m_relearned" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¡‰´J$ea4c7864-6dff-4f9d-b19f-f964871d0e52
 ¼
-java:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­ŞÌVJ$820cf138-2ecb-4de2-9f34-603273440c1a
+java:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­ŞÌVJ$6f70f816-d16b-4f1c-bfe0-3c3347ea95f4
 Â
-java:S1186a"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(š­Ù¿ÿÿÿÿÿJ$cb91bdf6-2a54-4897-a1d9-d11564408da4
+java:S1186a"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(š­Ù¿ÿÿÿÿÿJ$856dde06-71ab-48c7-9bc4-1ca825972a8f
 ½
-java:S1186y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œÆÚ´J$093a65c4-1882-4886-a003-0f4797996e7e
+java:S1186y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œÆÚ´J$03ff71c6-f8ea-41f8-b209-1341c3dcd7e3
 ½
-java:S1186}"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(àöûºJ$1ff75704-9bab-49d6-b024-0cfbe0e411f0
+java:S1186}"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(àöûºJ$6de24a65-7134-424f-b43b-5481851cb5a5
 Ã
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨çĞ‹øÿÿÿÿJ$d990976b-26fb-4b80-95eb-ce7a064b1a40
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨çĞ‹øÿÿÿÿJ$f7aa9ca3-e9fd-432f-b2eb-f6de646ab4a5
 ¾
-java:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾ÅÁĞJ$b55984b0-16db-47f8-8d19-b074a71ea376
+java:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾ÅÁĞJ$bc7daa5d-609a-40e8-93e1-65f952adb031
 ¾
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ç¿“šJ$04261ee3-215d-445e-a709-b366d0a23d62
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ç¿“šJ$9b95be73-085a-4821-9bde-9b1f911ae539

@@ -1,8 +1,8 @@
 
 x
-java:S2589P"7Remove this expression which always evaluates to "true"(ֿ¯רתÿÿÿÿJ$3f82e658-c803-4b48-b1fa-62788dbe1ee0
-™	java:S116*"^Rename this field "m_selectionProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿתוןJ$d93a9c41-c1a0-4d5c-9ed3-8d31a4a73a24
+java:S2589P"7Remove this expression which always evaluates to "true"(ֿ¯רתÿÿÿÿJ$c8bd5657-fd54-47fe-8b9e-66500550d063
+™	java:S116*"^Rename this field "m_selectionProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿתוןJ$36516f84-1331-4881-922b-61ee771a779e
 q
-java:S1948*"5Make "m_selectionProvider" transient or serializable.(ÿתוןJ$4c82cc8e-0cac-440b-96db-afd50872d86b
+java:S1948*"5Make "m_selectionProvider" transient or serializable.(ÿתוןJ$bba6abe8-0ba2-4f5f-8e6e-99692fe1bae7
 †
-java:S32529"JUse static access with "javax.swing.TransferHandler" for "getPasteAction".(װ«€®J$b2ee4c11-b17a-452f-9d54-f323dbf6f73a
+java:S32529"JUse static access with "javax.swing.TransferHandler" for "getPasteAction".(װ«€®J$36c6674b-9588-406b-8fd9-23f966354a6c

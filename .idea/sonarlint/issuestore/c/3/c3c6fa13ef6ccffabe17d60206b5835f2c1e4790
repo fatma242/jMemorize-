@@ -1,10 +1,10 @@
 
-™	java:S116("^Rename this field "m_selectionProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ”›J$acae4215-6905-44ae-969d-a88344224363
+™	java:S116("^Rename this field "m_selectionProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ”›J$2c7751da-7575-4d08-ae26-45cf82bf28c6
 q
-java:S1948("5Make "m_selectionProvider" transient or serializable.(ƒ”›J$411a11c5-cbd2-4ce3-bb2c-ee43a89acb26
+java:S1948("5Make "m_selectionProvider" transient or serializable.(ƒ”›J$9b1ace9f-7d56-4093-80e3-9313739f3a7b
 n
-java:S11358"2Complete the task associated to this TODO comment.(ÈóŸ¦J$f3fbfd8c-b1e7-481b-bfb0-845e17106363
+java:S11358"2Complete the task associated to this TODO comment.(ÈóŸ¦J$4250708b-7a69-46fe-918d-044e6c4da35a
 h
-java:S19059"'Remove this unnecessary cast to "Card".(¾üÄ¯ÿÿÿÿÿJ$a148eb5c-082a-4c19-81c9-df8d4f144bd7
+java:S19059"'Remove this unnecessary cast to "Card".(¾üÄ¯ÿÿÿÿÿJ$89be3321-aa2f-4ac8-9b05-9fda99159118
 
-java:S1155K">Use isEmpty() to check whether the collection is empty or not.(ù¯¹ÎüÿÿÿÿJ$88019f5f-cfc0-407e-94f9-ca1857c0f929
+java:S1155K">Use isEmpty() to check whether the collection is empty or not.(ù¯¹ÎüÿÿÿÿJ$187f9976-fee9-4573-9054-8982dc66614a

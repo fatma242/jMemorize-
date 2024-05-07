@@ -1,9 +1,9 @@
 
-Ž	java:S116%"SRename this field "m_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó‘÷úJ$37e1bb02-d4a1-4af4-b905-17aa12cfdd59
+Ž	java:S116%"SRename this field "m_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó‘÷úJ$5c3267a6-d91b-4ef5-991d-6f618255f6fe
 {
-java:S11613":Add the "@Override" annotation above this method signature(ÑïÎãüÿÿÿÿJ$ba3bf514-31cc-4e9f-a584-d21bc7236cb0
+java:S11613":Add the "@Override" annotation above this method signature(ÑïÎãüÿÿÿÿJ$c6c80eef-4915-4964-bc32-ea6fb967721c
 v
-java:S11619":Add the "@Override" annotation above this method signature(Ï˜®ŠJ$e5273f43-aace-4b67-ad98-e0ec9e2c45b7
-w	java:S125T"<This block of commented-out lines of code should be removed.(¶Ž“J$c9dc0c3d-b551-46f2-afb3-55f964dcc2aa
+java:S11619":Add the "@Override" annotation above this method signature(Ï˜®ŠJ$6d930d57-3be7-425f-a1cd-db6b5473455b
+w	java:S125T"<This block of commented-out lines of code should be removed.(¶Ž“J$1e534286-ac88-4494-9114-a094b14851ba
 …
-java:S3252z"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´J$a8246763-3ae6-49ee-8202-4eabe478a055
+java:S3252z"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´J$d5c42d89-1438-4a48-9ae8-6112a414af9e

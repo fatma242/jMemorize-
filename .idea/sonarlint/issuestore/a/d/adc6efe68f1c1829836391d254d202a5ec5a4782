@@ -1,12 +1,12 @@
 
-™	java:S116)"^Rename this field "m_selectionProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿúåïJ$e6c7e8af-6e0c-47eb-9211-980f888cf5c4
+™	java:S116)"^Rename this field "m_selectionProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿúåïJ$86a1757b-0f05-476f-a60c-b42c5cb531f5
 q
-java:S1948)"5Make "m_selectionProvider" transient or serializable.(ÿúåïJ$1bef7927-4372-4007-8a76-364b2b182673
+java:S1948)"5Make "m_selectionProvider" transient or serializable.(ÿúåïJ$8ce0b135-8ec3-4bfd-8b5a-b870904ce0ae
 „
-java:S32528"HUse static access with "javax.swing.TransferHandler" for "getCutAction".(€ç’ÓJ$fe81d8b6-2c23-43f7-87b6-cd4391010f09
+java:S32528"HUse static access with "javax.swing.TransferHandler" for "getCutAction".(€ç’ÓJ$e2938282-a15e-4d2b-96e1-f6d9a6a71e39
 v
-java:S1161H":Add the "@Override" annotation above this method signature(ÿ†Û¤J$c1063982-d556-4780-af70-b9c9b7a23dbb
+java:S1161H":Add the "@Override" annotation above this method signature(ÿ†Û¤J$732be21b-c11a-4e80-a700-ed300ce703c9
 z
-java:S1155N">Use isEmpty() to check whether the collection is empty or not.(µÃü J$a69e16d1-8975-4655-96f2-37e132235c5e
+java:S1155N">Use isEmpty() to check whether the collection is empty or not.(µÃü J$f3e9a17e-9b24-44c8-9d1b-db1661644e70
 
-java:S1155O">Use isEmpty() to check whether the collection is empty or not.(úËÆ¿ÿÿÿÿÿJ$aadb6d21-c4ac-443e-ba13-4763c258f89c
+java:S1155O">Use isEmpty() to check whether the collection is empty or not.(úËÆ¿ÿÿÿÿÿJ$9a9b2795-b091-43ac-a978-a1d11cb98127

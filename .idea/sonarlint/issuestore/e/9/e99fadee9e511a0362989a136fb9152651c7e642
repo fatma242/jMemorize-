@@ -1,17 +1,17 @@
 
 e
-java:S1604»"(Make this anonymous inner class a lambda(•ÆİJ$2f3c5738-001e-410f-ae3e-ec2e4dc4ee0a
+java:S1604»"(Make this anonymous inner class a lambda(•ÆİJ$415145ab-4977-44aa-8f20-71273b89e310
 j
-java:S1604Ä"(Make this anonymous inner class a lambda(ÖØï£ıÿÿÿÿJ$a3eb4e20-6fb4-4bac-b034-0ffa5ecd2c49
+java:S1604Ä"(Make this anonymous inner class a lambda(ÖØï£ıÿÿÿÿJ$de3882a0-997f-43bc-91b3-5611ee40c683
 e
-java:S1604Í"(Make this anonymous inner class a lambda(™¬ŞÔJ$d79fa69e-4769-484b-80ab-8b4f05dd5e64
-	java:S116a"TRename this field "m_manager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ªÖÆJ$3a302cba-ff91-40b4-aaeb-2245b72f92c6
-‘	java:S116b"VRename this field "m_cardPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºüŸ›J$dbfabe5e-5ce1-445d-9aac-a1c5ebb14a16
-	java:S116c"]Rename this field "m_createMoreButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úèŞƒüÿÿÿÿJ$5aafa62e-43f7-4d1f-a76c-39cd3b8ab2ba
-	java:S116d"]Rename this field "m_editRecentAction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À€öÂûÿÿÿÿJ$fb1dd40a-ee61-4d22-a06e-78686098a167
+java:S1604Í"(Make this anonymous inner class a lambda(™¬ŞÔJ$b981d778-9591-4895-ba9e-bf81cf2349a4
+	java:S116a"TRename this field "m_manager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ªÖÆJ$e55e61a0-ed63-4561-986d-ba1ef3c2c76b
+‘	java:S116b"VRename this field "m_cardPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºüŸ›J$f81a3e19-2424-401d-88c4-bb6438bb3496
+	java:S116c"]Rename this field "m_createMoreButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úèŞƒüÿÿÿÿJ$8be9829e-ca82-4ebf-b91d-10aaa83fe0ac
+	java:S116d"]Rename this field "m_editRecentAction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À€öÂûÿÿÿÿJ$4a053a28-a58b-4814-b65b-875211974184
 g
-java:S1948a"+Make "m_manager" transient or serializable.(³ªÖÆJ$f3467ae3-7119-4b54-b9c1-e371b621eeae
+java:S1948a"+Make "m_manager" transient or serializable.(³ªÖÆJ$9aacf411-77b3-42c8-9a78-8c3cad67ee6e
 u
-java:S1948d"4Make "m_editRecentAction" transient or serializable.(À€öÂûÿÿÿÿJ$bb2f27f1-4e2f-4e51-ba25-cd133c162966
+java:S1948d"4Make "m_editRecentAction" transient or serializable.(À€öÂûÿÿÿÿJ$3ddd2b81-1810-4175-ae7e-eb114f2d34d6
 m
-java:S1874D"1Remove this use of "CTRL_MASK"; it is deprecated.(ÒÆíJ$7b1f1239-4bb3-4945-9abd-70f433cfa50b
+java:S1874D"1Remove this use of "CTRL_MASK"; it is deprecated.(ÒÆíJ$c168ff6c-f361-4a18-b45a-13bdd21f7127

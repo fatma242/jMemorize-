@@ -1,9 +1,9 @@
 
-”	java:S116!"TRename this field "m_canSave" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÏó¬úÿÿÿÿJ$d396ebf1-f550-41d0-93b1-6772c98a0988
-‘	java:S116""QRename this field "m_file" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃçÜåùÿÿÿÿJ$f578b337-6426-4c60-9358-4f93e3746852
-™	java:S116$"YRename this field "m_rootCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÔ…µÿÿÿÿÿJ$9f15e0c3-b00d-4b68-981d-29713c92f6f7
-”	java:S116%"YRename this field "m_learnHistory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÌœ¬J$2f07c12e-db24-467a-baeb-681fe27a7375
+”	java:S116!"TRename this field "m_canSave" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÏó¬úÿÿÿÿJ$04b63b9c-10b4-4d05-bf28-05a6762185a4
+‘	java:S116""QRename this field "m_file" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃçÜåùÿÿÿÿJ$cfd399b6-ee07-49b5-a7fe-09cae7307e60
+™	java:S116$"YRename this field "m_rootCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÔ…µÿÿÿÿÿJ$8307e3d2-2e38-40a1-b998-fa97d221d7c7
+”	java:S116%"YRename this field "m_learnHistory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÌœ¬J$63e7e40e-1ae2-4190-809c-3f30a8dc2974
 †
-java:S6201|"EReplace this instanceof check and cast with 'instanceof Lesson other'(½É•¡ýÿÿÿÿJ$040ac149-a500-4c32-a7f7-37c2aec9b463
+java:S6201|"EReplace this instanceof check and cast with 'instanceof Lesson other'(½É•¡ýÿÿÿÿJ$dce69971-779d-4278-bed9-1fe0c094a04d
 o
-java:S1135–"2Complete the task associated to this TODO comment.(Ýì÷µJ$eecc198e-c5ea-4528-98fb-537076bed397
+java:S1135–"2Complete the task associated to this TODO comment.(Ýì÷µJ$14760da8-d889-4a01-8d40-39f0a724a147

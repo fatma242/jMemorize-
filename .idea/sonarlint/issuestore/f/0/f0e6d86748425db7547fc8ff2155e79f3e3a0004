@@ -1,53 +1,53 @@
 
 š
-java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(ø¦ûæüÿÿÿÿJ$9d125e94-b7cf-4a7e-b1ca-3ae3ae79d156
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(ø¦ûæüÿÿÿÿJ$55aabb26-d23c-4952-ac25-0f9c9dce8c24
 š
-java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ¡ùÛüÿÿÿÿJ$b5aebed3-2702-406a-ad96-da48f8a3035b
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ¡ùÛüÿÿÿÿJ$0e6cfbfc-5a1f-4a29-a2f9-8a9437207553
 š
-java:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾€ÉÑûÿÿÿÿJ$5a419bda-7503-4d43-8150-19c31ce25c92
+java:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾€ÉÑûÿÿÿÿJ$0916eea4-dd0c-4795-be8d-8d953fb017e6
 f
-java:S2629Ğ"$Invoke method(s) only conditionally.(ËÆè°şÿÿÿÿJ$63cf98d4-4ef8-410d-8389-812fb24b78c0
-
-java:S2095ß"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¢âØøÿÿÿÿJ$69ef1166-aaca-4e2c-b837-51f885753077
+java:S2629Ğ"$Invoke method(s) only conditionally.(ËÆè°şÿÿÿÿJ$54213836-fc37-4255-8fef-3ff3a3b37e1b
 ‹
-java:S2095à"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ö·¥öJ$35e2607a-f672-43d9-961b-8b91037c33fd
-“	java:S116N"XRename this field "m_recentFiles" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃíŒ„J$4d9ba28f-513b-43a6-99f7-c86efe9cda10
+java:S2095à"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ö·¥öJ$c7388ec8-caff-4963-8d63-04423bb2093b
+
+java:S2095ß"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¢âØøÿÿÿÿJ$610ab857-55a3-4734-8fb8-41dce6943f51
+“	java:S116N"XRename this field "m_recentFiles" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃíŒ„J$b48d538c-af1e-4efb-8838-86645f29dd08
 Œ	java:S116S"RRename this field "m_frame" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†è…
-J$2c241c7d-f998-4224-ba3c-27acdcdb6d15
-	java:S116T"SRename this field "m_lesson" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ€á„J$a2cd8e43-9132-4cca-b7da-c851a76048c1
-•	java:S116U"ZRename this field "m_learnSettings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ï³ïJ$75595383-19be-4144-aa88-a5e3bc38b67d
-Ÿ	java:S116V"_Rename this field "m_globalLearnHistory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒäàøÿÿÿÿJ$5809d132-4826-45cb-8578-c3140855e8df
-—	java:S116W"\Rename this field "m_runningSessions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÔâËJ$75f1d495-c428-4931-801f-8c4b190aba04
-œ	java:S116Z"\Rename this field "m_lessonObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§‰ƒØıÿÿÿÿJ$fc2ac8a7-10d8-47f8-a46d-c6eb6472adaf
-	java:S116\"bRename this field "m_learnSessionObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«·ÉJ$c1343bf2-f65d-4a73-b471-3795b3cf3a00
-›	java:S116^"`Rename this field "m_programEndObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØµÍJ$3c1e0455-b7fa-4826-9259-69c6135e5b64
+J$192a529e-571b-41da-9fb8-6aa83e29f915
+	java:S116T"SRename this field "m_lesson" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ€á„J$a3a50cbc-3c9a-4a21-baee-d082c2342feb
+•	java:S116U"ZRename this field "m_learnSettings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ï³ïJ$7390f8bd-aed4-4ed7-9845-e35cac99af43
+Ÿ	java:S116V"_Rename this field "m_globalLearnHistory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒäàøÿÿÿÿJ$8be8333c-cdf9-49dd-a517-9f0e51af7ee5
+—	java:S116W"\Rename this field "m_runningSessions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÔâËJ$25dfc711-1e80-409a-8cae-0ec6bac1444f
+œ	java:S116Z"\Rename this field "m_lessonObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§‰ƒØıÿÿÿÿJ$9ae9e7e1-a306-49b3-a111-c13b25dfb1b4
+	java:S116\"bRename this field "m_learnSessionObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«·ÉJ$23b1ecd2-5786-4679-86d6-a5a79655f1b7
+›	java:S116^"`Rename this field "m_programEndObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØµÍJ$69600a98-2c16-48a6-913e-4b488826478b
 –
-java:S3008Q"URename this field "m_instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÛ«†şÿÿÿÿJ$f5286868-f169-42ef-80b2-6f76e5de6f72
+java:S3008Q"URename this field "m_instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÛ«†şÿÿÿÿJ$211c990b-6102-41c2-9de0-f3db2d134c0e
 ¡
-java:S3008c"`Rename this field "m_lastLoggedThrowable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ù›ÜøÿÿÿÿJ$a5d262d2-51fc-4adf-94d3-f2eb6f8388c2
+java:S3008c"`Rename this field "m_lastLoggedThrowable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ù›ÜøÿÿÿÿJ$85943d6e-0b44-46de-bd6c-614890692b56
 ^
-java:S2386D"Make this member "protected".(…‡ì£úÿÿÿÿJ$f2e440c6-4384-4c25-b1c9-643e4f8e469e
+java:S2386D"Make this member "protected".(…‡ì£úÿÿÿÿJ$33b96487-4c6a-4220-997f-e76eb54422b1
 s
-java:S18749"2Remove this use of "Observable"; it is deprecated.(À¿©ªüÿÿÿÿJ$4dd70738-e7bb-45d1-9db9-0737089f4bb0
+java:S18749"2Remove this use of "Observable"; it is deprecated.(À¿©ªüÿÿÿÿJ$fcf4eb9f-be4f-401d-b5ad-aadda3944ad5
 }
-java:S1075I"ARefactor your code to get this URI from a customizable parameter.(œöªJ$b93375f0-a2d2-495f-a674-1e3c829be092
+java:S1075I"ARefactor your code to get this URI from a customizable parameter.(œöªJ$482bde73-9ab8-4d26-afb5-fa7b25541de5
 t
-java:S1135’"2Complete the task associated to this TODO comment.(÷î€¡ùÿÿÿÿJ$577e95ee-f49c-43dd-b942-183d5aa8e4e7
+java:S1135’"2Complete the task associated to this TODO comment.(÷î€¡ùÿÿÿÿJ$b28e163b-a3c4-4c83-8542-ecfaf2e494b0
 t
-java:S1135ª"2Complete the task associated to this TODO comment.(±ˆ§±şÿÿÿÿJ$0e596319-c6ee-4d8d-a003-049dcc8a85dd
+java:S1135ª"2Complete the task associated to this TODO comment.(±ˆ§±şÿÿÿÿJ$0e8d6ced-f93e-41db-be0c-32a0f5f7e66f
 i
-java:S1181Ê"%Catch Exception instead of Throwable.(Ñ´¯8Ë‘µæğ1J$1d8c6fa3-1940-4638-ba23-a6a9940ef84a
-|	java:S899¾";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿJ$c7d6ae0f-cecc-46ce-94d4-ab6a5287e009
+java:S1181Ê"%Catch Exception instead of Throwable.(Ñ´¯8Ë‘µæğ1J$177fac9a-9ec3-4429-9c26-e2cc7a521885
+|	java:S899¾";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿJ$19f2e94d-3ee7-4bd5-a631-6585fda46213
 
-java:S4042¾"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿJ$908bf363-e737-4501-b1c3-08cef8dba840
+java:S4042¾"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿJ$40cf308a-f650-4ff4-be25-8c09f5a9126e
 o
-java:S1135ƒ"2Complete the task associated to this TODO comment.(·ùˆßJ$c8217915-8087-4ec0-a5ce-eda00c88dabc
-}	java:S125‹"<This block of commented-out lines of code should be removed.(ÿ¼£éÿÿÿÿÿJ$7095ed1b-14bb-4ddf-8735-ad1bbf500845
+java:S1135ƒ"2Complete the task associated to this TODO comment.(·ùˆßJ$ca2ec68d-b875-4281-8705-481ce9fe2a05
+}	java:S125‹"<This block of commented-out lines of code should be removed.(ÿ¼£éÿÿÿÿÿJ$3013efb1-5acc-4c30-9696-e23b5311fb24
 ~
-java:S2130¯"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(ÂîÛÌJ$694cbd17-8b5e-4013-bac9-212d11b40b8b
+java:S2130¯"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(ÂîÛÌJ$87c8d6a0-63f6-489b-a040-ee508d0ed096
 t
-java:S1135Å"2Complete the task associated to this TODO comment.(´ü®äüÿÿÿÿJ$9976ad8e-592c-49c3-a0b1-cf823eae794a
+java:S1135Å"2Complete the task associated to this TODO comment.(´ü®äüÿÿÿÿJ$76524be8-e668-4762-8713-7818e0a2e6e2
 l
-java:S2093İ"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿJ$592659c5-0072-438e-9a49-d42f5cf3c8a8
+java:S2093İ"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿJ$003ae5af-b250-43a2-9900-ecf988dc1138
 l
-java:S1197¤"*Move the array designators [] to the type.(º ìıÿÿÿÿJ$7174bc48-2a1e-4978-aa0b-b990fe0429ed
+java:S1197¤"*Move the array designators [] to the type.(º ìıÿÿÿÿJ$e25b177c-fb85-4c35-baba-c9bf3adc3e61

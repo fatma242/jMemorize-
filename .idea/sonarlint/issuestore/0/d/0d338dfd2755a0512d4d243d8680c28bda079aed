@@ -1,31 +1,31 @@
 
 •
-java:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ç¸ÜJ$02b0c3f2-dc18-4399-9764-93be24e12958
+java:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ç¸ÜJ$cd36474a-967c-4fa3-a817-7400850084d1
 ›
-java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(³£»°úÿÿÿÿJ$66139734-376e-407e-9386-02227ca56576
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(³£»°úÿÿÿÿJ$694d5739-91b6-4439-907a-ab5ebd062379
 ›
-java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(î„´ûÿÿÿÿJ$181b7651-59c7-4da3-87a4-d981ee1465bd
-	java:S116N"TRename this field "m_session" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÓº¯J$9c0c6ca9-31d5-43ff-818b-3dd3af58d713
-“	java:S116O"XRename this field "m_currentCard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²üçšJ$075b173e-24b2-4184-a059-5494d90a6110
-—	java:S116Q"WRename this field "m_timerPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯éÄÍşÿÿÿÿJ$a955a1a8-c135-4950-959d-f7e5e192dc57
-	java:S116R"]Rename this field "m_cardCounterPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÕàµùÿÿÿÿJ$9b8a580a-e221-45fb-afa7-0cf050b74dda
-™	java:S116T"YRename this field "m_flippedLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÓğ“şÿÿÿÿJ$6e0c1a30-de23-4df2-af6a-20ad7220b433
-¥	java:S116["eRename this field "m_currentCardProgressLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¤”şüÿÿÿÿJ$3da08442-93e8-4546-8abd-db02a65ea72b
-£	java:S116\"cRename this field "m_currentCardProgressBar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œä’ÂÿÿÿÿÿJ$2598d448-327c-47f8-87b1-ba398b2404de
-¢	java:S116]"bRename this field "m_isPartialProgressMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙßÙ²üÿÿÿÿJ$f5b35a4b-82c0-45d3-b3a9-d63318f96bbf
-‘	java:S116_"VRename this field "m_statusBar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ‡¯‡J$32a4eb85-5417-4cca-83f0-44baaffc1394
-š	java:S116`"_Rename this field "m_selectionListeners" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ç¸ÜJ$caf91fea-93c9-4e51-9f6b-cadf7f976743
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(î„´ûÿÿÿÿJ$955a42f2-4c5b-40b6-a4b0-cc051f9dd924
+	java:S116N"TRename this field "m_session" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÓº¯J$2dd01f5a-ca32-4d75-991a-b534b4b659e5
+“	java:S116O"XRename this field "m_currentCard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²üçšJ$ce58dfe2-0142-4472-a804-b7546775bb24
+—	java:S116Q"WRename this field "m_timerPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯éÄÍşÿÿÿÿJ$6c961a3b-988e-4c41-a8b7-912102f5a5ba
+	java:S116R"]Rename this field "m_cardCounterPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÕàµùÿÿÿÿJ$61cedbeb-b099-4c91-b8eb-5873cb9ff78e
+™	java:S116T"YRename this field "m_flippedLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÓğ“şÿÿÿÿJ$754a0829-80dd-4b2d-84b3-019d92bf8f8b
+¥	java:S116["eRename this field "m_currentCardProgressLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¤”şüÿÿÿÿJ$756295ab-f99b-4641-8b99-f99485faa703
+£	java:S116\"cRename this field "m_currentCardProgressBar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œä’ÂÿÿÿÿÿJ$bd8879db-0b31-418c-84eb-9fd035ff5f6f
+¢	java:S116]"bRename this field "m_isPartialProgressMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙßÙ²üÿÿÿÿJ$77b2bc00-bb99-4d9d-be96-1795f281931e
+‘	java:S116_"VRename this field "m_statusBar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ‡¯‡J$653305e1-7535-44cb-b817-6dd4e61cd80a
+š	java:S116`"_Rename this field "m_selectionListeners" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ç¸ÜJ$7c72f09a-56f9-46c3-95d2-644fa7ac7827
 g
-java:S1948N"+Make "m_session" transient or serializable.(ñÓº¯J$c09f8a43-2a79-401d-8eeb-7ab420f7f4c0
+java:S1948N"+Make "m_session" transient or serializable.(ñÓº¯J$6b077fd7-776a-42ab-81ca-79a5debb1532
 k
-java:S1948O"/Make "m_currentCard" transient or serializable.(²üçšJ$d4df8688-67c1-42bc-8f1e-74ac4fd928e1
+java:S1948O"/Make "m_currentCard" transient or serializable.(²üçšJ$d734ec16-0108-483c-a580-0a471b45788c
 r
-java:S1948`"6Make "m_selectionListeners" transient or serializable.(¡ç¸ÜJ$3d3ed6a4-8470-4937-a393-834eb7332832
+java:S1948`"6Make "m_selectionListeners" transient or serializable.(¡ç¸ÜJ$d5002a4c-ee8c-4314-bf08-46a2131c5e88
 h
-java:S1168Ç"+Return an empty collection instead of null.(¥¹ïJ$d3d0d2e1-765e-46b1-8292-5b01342bcc58
+java:S1168Ç"+Return an empty collection instead of null.(¥¹ïJ$82cdc701-4946-40c8-b401-53e15197b723
 €
-java:S1155Ñ">Use isEmpty() to check whether the collection is empty or not.(³‡¼şúÿÿÿÿJ$962a6d3e-b2fd-4df2-823d-9e1c0575f8d3
+java:S1155Ñ">Use isEmpty() to check whether the collection is empty or not.(³‡¼şúÿÿÿÿJ$e2993c93-ccc1-4e1b-910e-8988de25c695
 c
-java:S2129Î"!Remove this "Integer" constructor(Áğ¢ŒøÿÿÿÿJ$a2cf8ccd-56d9-44d9-98ff-d46bae3222ca
+java:S2129Î"!Remove this "Integer" constructor(Áğ¢ŒøÿÿÿÿJ$3a8c7059-4e77-4d81-9a1d-00876eaed397
 Š
-java:S5738Î"HRemove this call to a deprecated method, it has been marked for removal.(Áğ¢ŒøÿÿÿÿJ$ddf76d7a-fb26-4485-bf49-0c472fdcf9e1
+java:S5738Î"HRemove this call to a deprecated method, it has been marked for removal.(Áğ¢ŒøÿÿÿÿJ$2f38fde6-334e-40a1-9279-66555b697261

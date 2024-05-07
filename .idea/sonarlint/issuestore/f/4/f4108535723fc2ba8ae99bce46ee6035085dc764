@@ -1,15 +1,15 @@
 
 •
-java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ş°°»J$d9492dbd-ef96-48e2-822a-95d31cbe610b
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ş°°»J$0ac3d5f0-e966-42e9-9a8b-a92818b52e93
 š
-java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ‹àüÿÿÿÿJ$9079cf3d-d6c3-4e91-b753-9c8aa3d1ff57
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ‹àüÿÿÿÿJ$8db2dacc-08eb-4474-9326-0b0504fae8d4
 š
-java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ‹àüÿÿÿÿJ$12c9953b-83ec-4cb0-ac19-098f10de7bc4
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ‹àüÿÿÿÿJ$5118fdf1-37fd-4b12-b0b2-62695fb7f545
 †
-java:S11928"JDefine a constant instead of duplicating this literal "expected:" 3 times.(¨è•¬J$2920fe17-f5e5-4040-a3c9-2789f04d3c1d
+java:S11928"JDefine a constant instead of duplicating this literal "expected:" 3 times.(¨è•¬J$4a9c943c-65d2-4465-9d66-304e28b67cde
 †
-java:S11928"JDefine a constant instead of duplicating this literal " but was " 3 times.(¨è•¬J$2cfb4198-fb87-4af2-8ec6-73cff0c2be79
+java:S11928"JDefine a constant instead of duplicating this literal " but was " 3 times.(¨è•¬J$bacedc25-2f12-489d-9406-a4e97ed157bd
 {
-java:S1118":Add a private constructor to hide the implicit public one.(¯áã™üÿÿÿÿJ$ab0d25ae-815d-4b33-9201-448245e29a11
+java:S1118":Add a private constructor to hide the implicit public one.(¯áã™üÿÿÿÿJ$f78faa30-c354-44d7-b17a-062cd17a1146
 •
-java:S30125"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ğúí÷J$c1b9e4ad-a270-4b37-8966-0b97a9436e40
+java:S30125"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ğúí÷J$a25db23a-7eeb-4193-ae97-b23e67fd2cc6

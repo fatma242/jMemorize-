@@ -1,7 +1,7 @@
 
-“	java:S116#"XRename this field "m_answerPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„λωΰJ$672624aa-2246-4286-984d-aec6cfc7f1b9
-–	java:S116%"[Rename this field "m_answerCardSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”©J$5750f323-1476-4216-b870-800d09a25202
+“	java:S116#"XRename this field "m_answerPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„λωΰJ$4a97bb82-6d0c-4c5c-90f0-62c8c4643367
+–	java:S116%"[Rename this field "m_answerCardSide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”©J$6d5a6410-4638-45c9-84a6-5ae34917bee1
 ½
-java:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ΧΎα¥J$9cd48aed-e79d-48b9-8a13-6d5ceff4a00e
+java:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ΧΎα¥J$9a5effa4-4fc4-479e-b29c-b063fb1ad556
 ›
-java:S1450%"_Remove the "m_answerCardSide" field and declare it as a local variable in the relevant methods.(”©J$62e53fd0-75a2-43e1-b809-54611716fca7
+java:S1450%"_Remove the "m_answerCardSide" field and declare it as a local variable in the relevant methods.(”©J$a0c8a397-d140-4f8c-9281-7933a56e1eba

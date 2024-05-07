@@ -1,51 +1,51 @@
 
 q
-java:S1066«"/Merge this if statement with the enclosing one.(àâç©úÿÿÿÿJ$5668802d-268b-4d1f-aeda-31e99c6ec7d3
-•	java:S116Ï"ZRename this field "m_cardSidePanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÜJ$fe2a9995-ba08-4a5b-83fc-3eb94da94316
+java:S1066«"/Merge this if statement with the enclosing one.(àâç©úÿÿÿÿJ$14676a6a-7f19-4d78-9acf-acdd157319c3
+•	java:S116Ï"ZRename this field "m_cardSidePanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÜJ$b2defb2c-0cd2-41f4-a7e4-5233ffc79f90
  
-java:S1149B"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿJ$de6cf792-f3bb-4877-94ea-3170ed4ab893
-	java:S1163"RRename this field "m_cards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•²ÀŞJ$310dddbf-eff2-492e-9f00-b781128c0b0e
+java:S1149B"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿJ$7a4b2d24-e971-40d7-a1a4-f91761516512
+	java:S1163"RRename this field "m_cards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•²ÀŞJ$a229b734-98db-42e1-b520-6d48eb7af498
  
-java:S1149B"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿJ$f481f591-f9f0-47c8-b274-23a175dcf48a
-	java:S116\"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$c5d47471-e62e-4cda-96ce-ec11979c2f14
-’	java:S116"QRename this field "m_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ñ¸£ûÿÿÿÿJ$41845066-2e5f-49e1-90b2-43f4e6f0cc70
-‘	java:S116‚"URename this field "m_document" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°°åÉJ$35baa9d6-0bfb-4ac3-ac40-6be915205e0b
-“	java:S116ƒ"RRename this field "m_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šíÑ¯üÿÿÿÿJ$de4116d5-e97b-4857-9949-75266ed82527
-‘	java:S116„"PRename this field "m_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¦åûÿÿÿÿJ$d44cd95f-4e7c-47d8-b4a9-dd7aa3d23fb0
+java:S1149B"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿJ$47709a55-1af1-48ab-922d-2290f547c4f8
+	java:S116\"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$8df2a387-2271-4721-bed5-efc0ccbf9a6c
+’	java:S116"QRename this field "m_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ñ¸£ûÿÿÿÿJ$2916e181-b78c-43c0-a742-99f1c56ba74c
+‘	java:S116‚"URename this field "m_document" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°°åÉJ$e6b4d1e5-12f4-4bfb-8f5e-969e2edb23fa
+“	java:S116ƒ"RRename this field "m_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šíÑ¯üÿÿÿÿJ$911962ad-22ef-4547-b267-7d5c1e607c9d
+‘	java:S116„"PRename this field "m_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¦åûÿÿÿÿJ$76a84923-4e6c-4f64-aca3-1e9cef33f8d5
 ^
-java:S1116Œ"Remove this empty statement.(ÑÏÿ¯şÿÿÿÿJ$52e5a73c-6470-4a87-9a22-b53ce005629d
-–	java:S116¦"ZRename this field "m_formattedText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô…ĞÜJ$7b6a9dc4-cfe2-4da8-a649-687ef1abd546
+java:S1116Œ"Remove this empty statement.(ÑÏÿ¯şÿÿÿÿJ$71436e4e-158d-4f01-99fb-0d52fe5ed7b6
+–	java:S116¦"ZRename this field "m_formattedText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô…ĞÜJ$8a9c403c-dd42-47d1-b52d-8d46653c05ce
 ‡
-java:S1124Æ"EReorder the modifiers to comply with the Java Language Specification.(ĞÖš‡ÿÿÿÿÿJ$1bb3a57a-632f-4802-95da-66037428c70c
+java:S1124Æ"EReorder the modifiers to comply with the Java Language Specification.(ĞÖš‡ÿÿÿÿÿJ$299fbd84-4ac3-4505-87ee-569f9ebcac51
 ‚
-java:S1124É"EReorder the modifiers to comply with the Java Language Specification.(ø¸¥©J$20cb8c6c-9754-44e9-b602-acbf7d822321
+java:S1124É"EReorder the modifiers to comply with the Java Language Specification.(ø¸¥©J$8dcaba7b-187b-4010-a863-a9889db9f7fa
 ‚
-java:S1124Ì"EReorder the modifiers to comply with the Java Language Specification.(á³¤ J$23b66e89-495d-4d1d-8964-ad0ec0a02fea
+java:S1124Ì"EReorder the modifiers to comply with the Java Language Specification.(á³¤ J$bdd41206-faa4-48e8-a9d7-13d517ab1dee
 |
-java:S1161İ":Add the "@Override" annotation above this method signature(¶…ªúÿÿÿÿJ$566ec355-e4bd-4901-b7f8-4c8a93f9e4e4
+java:S1161İ":Add the "@Override" annotation above this method signature(¶…ªúÿÿÿÿJ$ab9ffee9-1e61-40b9-9dbb-353a098d0e23
 w
-java:S1161å":Add the "@Override" annotation above this method signature(Ø†íãJ$c0b83f92-8da4-4ed6-a9f2-5caddb1d83bc
+java:S1161å":Add the "@Override" annotation above this method signature(Ø†íãJ$a0ef9691-cb01-44d1-b998-d163c83293c1
 ”
-java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(‚¼óèÿÿÿÿÿJ$de69a598-7055-4991-9b19-ca01223882b8
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(‚¼óèÿÿÿÿÿJ$76abc58b-53cd-4678-9ec5-483ac2b05c89
 |
-java:S1161†":Add the "@Override" annotation above this method signature(‚¼óèÿÿÿÿÿJ$88d00138-5e29-47fb-a9b9-da972250621a
+java:S1161†":Add the "@Override" annotation above this method signature(‚¼óèÿÿÿÿÿJ$0b80d2e6-67a6-4184-83af-771154c6b31d
 Œ
-java:S6201‹"JReplace this instanceof check and cast with 'instanceof CategoryTree tree'(ĞÄ¯¾ûÿÿÿÿJ$53b488e9-7939-4a14-b572-e168e81355d7
+java:S6201‹"JReplace this instanceof check and cast with 'instanceof CategoryTree tree'(ĞÄ¯¾ûÿÿÿÿJ$35785c06-962d-4b37-aa77-3067f646044c
 …
-java:S6201"HReplace this instanceof check and cast with 'instanceof CardTable table'(½¬ñJ$e81f312f-3ba5-4c49-8c1c-fcb024b60e19
+java:S6201"HReplace this instanceof check and cast with 'instanceof CardTable table'(½¬ñJ$fd6cd1d3-8c52-4442-9d74-c92b9a44885e
 
-java:S6201•"KReplace this instanceof check and cast with 'instanceof JTextPane textPane'(ËÅæŞÿÿÿÿÿJ$bb8c3dbd-87f7-457a-99be-13eabafd0f61
+java:S6201•"KReplace this instanceof check and cast with 'instanceof JTextPane textPane'(ËÅæŞÿÿÿÿÿJ$2bed8d99-cc2f-4684-bba7-a0d42de85888
 m
-java:S1874±"+Remove this use of "URL"; it is deprecated.(³¸™şÿÿÿÿJ$ff8e0b10-d07d-47d6-af45-6083f54e2286
+java:S1874±"+Remove this use of "URL"; it is deprecated.(³¸™şÿÿÿÿJ$28951ba3-b373-4608-8eb7-66fee00f67e4
 |
-java:S1161ï":Add the "@Override" annotation above this method signature(ú‡¸¸øÿÿÿÿJ$1f5f85fd-fbb8-4c00-81f1-8374d668d15f
+java:S1161ï":Add the "@Override" annotation above this method signature(ú‡¸¸øÿÿÿÿJ$a7ea9c07-d2a9-4aed-970e-8d913222d7aa
 …
-java:S6201ñ"HReplace this instanceof check and cast with 'instanceof CardTable table'(•ÃñĞJ$0b525609-4058-4589-9b75-1792e6db8c8d
+java:S6201ñ"HReplace this instanceof check and cast with 'instanceof CardTable table'(•ÃñĞJ$0125a2c0-bf27-41b5-bd8a-0a659254b05f
 Œ
-java:S6201ö"JReplace this instanceof check and cast with 'instanceof CategoryTree tree'(Ÿó˜şÿÿÿÿJ$4c53b5d2-1563-4a29-80f4-8f7d5750f260
+java:S6201ö"JReplace this instanceof check and cast with 'instanceof CategoryTree tree'(Ÿó˜şÿÿÿÿJ$beee2f5e-8ddb-4d67-ab90-3b9021f989c2
 
-java:S6201ş"KReplace this instanceof check and cast with 'instanceof JTextPane textPane'(×Š˜ÄüÿÿÿÿJ$85f6ef8e-06b7-4036-aea7-f1a8848eabb6
+java:S6201ş"KReplace this instanceof check and cast with 'instanceof JTextPane textPane'(×Š˜ÄüÿÿÿÿJ$fcfbd746-a931-4cba-a520-cdaee2e059b8
 |
-java:S1161“":Add the "@Override" annotation above this method signature(îúÃ­úÿÿÿÿJ$dfd57d18-0a79-40f9-a5ee-ea23340ceae0
+java:S1161“":Add the "@Override" annotation above this method signature(îúÃ­úÿÿÿÿJ$4d9aef88-8be3-4a00-9a95-6971dba425be
 ˆ
-java:S6541†"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 90 to 64, Complexity from 18 to 14, Nesting Level from 6 to 2, Number of Variables from 18 to 6.(‚¼óèÿÿÿÿÿJ$dbdc4ce3-015a-4d5d-bf11-c4795a76cebd
+java:S6541†"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 90 to 64, Complexity from 18 to 14, Nesting Level from 6 to 2, Number of Variables from 18 to 6.(‚¼óèÿÿÿÿÿJ$0299a21e-43ee-470f-a8e0-64f942d0b28a

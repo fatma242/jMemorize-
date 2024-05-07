@@ -1,19 +1,19 @@
 
 ›
-java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(àÂÑÄşÿÿÿÿJ$647caec6-b22b-40c4-a6b5-bd99393a2c8b
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(àÂÑÄşÿÿÿÿJ$ed27dc11-a551-4e86-a101-5ca54993acb0
 …
-java:S1192Y"IDefine a constant instead of duplicating this literal "test.png" 3 times.(İˆ©¸J$1ed18d28-1979-42a5-9a69-71712ce98da1
+java:S1192Y"IDefine a constant instead of duplicating this literal "test.png" 3 times.(İˆ©¸J$e9fa744a-7afa-4215-8948-feee2859e272
 
-java:S1192G"NDefine a constant instead of duplicating this literal "more/test.gif" 8 times.(ÂşèèÿÿÿÿÿJ$24582835-0629-4679-b73e-b53117f933c7
+java:S1192G"NDefine a constant instead of duplicating this literal "more/test.gif" 8 times.(ÂşèèÿÿÿÿÿJ$a6699cc3-6566-42d9-8b5b-7e9b51ac5c99
 ‹
-java:S11925"JDefine a constant instead of duplicating this literal "test.gif" 14 times.(í¬˜•øÿÿÿÿJ$3365ed8a-afff-4c24-8534-6abd66209a57
-	java:S116$"ORename this field "m_ir" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôŸ«ûÿÿÿÿJ$ec9ce7a3-11fb-40cb-85bd-4da1d8b14018
+java:S11925"JDefine a constant instead of duplicating this literal "test.gif" 14 times.(í¬˜•øÿÿÿÿJ$db2dfd1d-01b6-4dc6-a7df-dda73f30b079
+	java:S116$"ORename this field "m_ir" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôŸ«ûÿÿÿÿJ$498716a4-7728-4157-9cd3-dee19a035eff
 †
-java:S1124""EReorder the modifiers to comply with the Java Language Specification.(£½îæûÿÿÿÿJ$89b3d1b4-3bd0-4703-8e2a-6e2ca0b73cbe
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(£½îæûÿÿÿÿJ$94025b7d-558a-45f9-b78c-c0b68dac3f32
 s
-java:S1135;"2Complete the task associated to this TODO comment.(Ç¥¼ŸıÿÿÿÿJ$44f4d31d-839c-4472-84c2-a8f831620f2b
+java:S1135;"2Complete the task associated to this TODO comment.(Ç¥¼ŸıÿÿÿÿJ$62d7af26-79cd-4e8c-9e88-e7c76d48b4e4
 w
-java:S1854":Remove this useless assignment to local variable "imgDir".(¯É‚úJ$1ea09bb0-f597-4da6-8878-1616714be5fa
-w	java:S899´";Do something with the "boolean" value returned by "delete".(íÔˆ¢J$6c1b8b6a-d76e-4930-aa4c-58212450add2
+java:S1854":Remove this useless assignment to local variable "imgDir".(¯É‚úJ$c14ef40b-12ca-44c2-abb2-18dcdfdb8e81
+w	java:S899´";Do something with the "boolean" value returned by "delete".(íÔˆ¢J$8954041b-10f7-4bb0-b4bd-b2da6c1a0a8c
 ‹
-java:S4042´"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(íÔˆ¢J$28e50a40-a731-4afe-9cfa-443f542db425
+java:S4042´"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(íÔˆ¢J$8f9ff63d-7520-4748-a18a-327d42134a08

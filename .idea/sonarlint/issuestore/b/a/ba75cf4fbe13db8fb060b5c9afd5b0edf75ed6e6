@@ -1,8 +1,8 @@
 
-Œ	java:S116"QRename this field "m_font" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëƒñÁJ$1dbf25c5-f214-483d-8894-3a4a16e515be
-–	java:S116"VRename this field "m_alignment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÿ‡ñıÿÿÿÿJ$eeeb8318-3ca1-493c-b857-9c74fba4d34e
-›	java:S116"aRename this field "m_isVerticallyCentered" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‹)J$82ddfa77-5f9b-4da2-9772-04bd8b8a6038
+Œ	java:S116"QRename this field "m_font" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëƒñÁJ$d0515dcd-b570-4883-9731-e9eabff04ab2
+–	java:S116"VRename this field "m_alignment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÿ‡ñıÿÿÿÿJ$ebf38ee0-8999-4e21-885c-bb6c8d51c359
+›	java:S116"aRename this field "m_isVerticallyCentered" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‹)J$92fdc0bf-04ee-440d-a863-6a91e48a413d
 ]
-java:S1116	"Remove this empty statement.(Ùí»¡üÿÿÿÿJ$6f001ad9-eb60-4532-bebd-56121882e8af
+java:S1116	"Remove this empty statement.(Ùí»¡üÿÿÿÿJ$1dfd9390-65ba-4d26-8345-42c151ce97ef
 ]
-java:S1116"Remove this empty statement.(‚éüåùÿÿÿÿJ$6ada761c-7ca2-413f-b702-9879658cda10
+java:S1116"Remove this empty statement.(‚éüåùÿÿÿÿJ$ba3ab7b4-abe9-4e03-aaa3-f543ce7e3264

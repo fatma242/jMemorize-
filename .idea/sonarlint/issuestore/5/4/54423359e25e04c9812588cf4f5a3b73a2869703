@@ -1,13 +1,13 @@
 
 ›
-java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¡ÜëøÿÿÿÿJ$2202710b-e3b6-427f-a297-30e76f781215
-	java:S116#"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$261dae41-35a0-4424-9843-d61299c36397
-	java:S116$"TRename this field "m_session" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÓº¯J$3fbcf774-3107-4170-bb48-2ed3985afa6c
-	java:S116%"URename this field "m_settings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó»ãåJ$d24956f5-872f-45e6-a773-bdd320782ba0
-	java:S116&"URename this field "m_provider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ØÛÔJ$37b03b66-4c19-4c36-9247-166a7d8d6f1e
-’	java:S116("RRename this field "m_card0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÅÖÿûÿÿÿÿJ$6146d3db-9c7c-4086-acfd-033d1039ddb2
-’	java:S116)"RRename this field "m_card1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‘¬ÚùÿÿÿÿJ$7571858b-6b15-4896-b8e0-3375128ddb9e
-	java:S116*"RRename this field "m_card2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùËíÒJ$21e95217-87dc-4706-8150-d3c4ce095ea0
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¡ÜëøÿÿÿÿJ$fe27662e-478e-46fc-8048-4c2947fa7a56
+	java:S116#"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$41b18baf-856a-41c8-98c7-4109c8b487b7
+	java:S116$"TRename this field "m_session" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÓº¯J$d9e7cf72-2305-4a7d-99e2-902e605b5add
+	java:S116%"URename this field "m_settings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó»ãåJ$68093be8-2f73-45be-8b6a-cb651bfa03fe
+	java:S116&"URename this field "m_provider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ØÛÔJ$e609da4a-ed28-40af-9d9a-a84a8232591b
+’	java:S116("RRename this field "m_card0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÅÖÿûÿÿÿÿJ$4219deb8-dcff-44c7-9d8c-2054fd2dafb2
+’	java:S116)"RRename this field "m_card1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‘¬ÚùÿÿÿÿJ$5c424223-1ab7-43c3-b4a1-6eeda7d5f9a9
+	java:S116*"RRename this field "m_card2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùËíÒJ$15f3277c-3194-422b-ab0c-6b3a1951fa02
 {
-java:S1161,":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿJ$49cea336-d52b-4134-ae9f-fced9f031291
-w	java:S125]"<This block of commented-out lines of code should be removed.(Ú°à¬J$9afb0b52-44cb-4461-89cd-0a4d18e9f070
+java:S1161,":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿJ$198e2937-277e-40f3-a0a3-19a0c23765a5
+w	java:S125]"<This block of commented-out lines of code should be removed.(Ú°à¬J$95b9ce51-5fc2-43b5-84bc-26014a3955ac

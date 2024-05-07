@@ -1,23 +1,23 @@
 
-’	java:S116."RRename this field "m_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¬þÿÿÿÿJ$fcc3b8ba-6743-4c2b-bae2-ecfe27c365f1
-‘	java:S116/"VRename this field "m_iconLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£í²×J$9cd4993d-45fd-40f0-ae7f-4cc7862af3e7
-•	java:S1161"URename this field "m_expanded" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÓ¤òþÿÿÿÿJ$78293d74-ee89-4ab9-a479-1bd2d5e267bb
-‘	java:S1162"QRename this field "m_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘Ü‘þÿÿÿÿJ$d15a16c8-e505-4e4d-ac49-0279a894c634
-™	java:S1164"YRename this field "m_expandedIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ó¢ðüÿÿÿÿJ$2164ab7d-f2db-424d-8da3-24d2bc58b92a
-•	java:S1165"ZRename this field "m_collapsedIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™‡ø‘J$3e461e90-0844-411c-9cac-07cf5d400d23
+’	java:S116."RRename this field "m_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¬þÿÿÿÿJ$6127d16e-1e4b-4a37-be36-b85d392d540c
+‘	java:S116/"VRename this field "m_iconLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£í²×J$58f9734e-b630-4c22-ab7e-62df2f27eeb2
+•	java:S1161"URename this field "m_expanded" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÓ¤òþÿÿÿÿJ$98c96917-1079-4587-846b-3120257393f9
+‘	java:S1162"QRename this field "m_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘Ü‘þÿÿÿÿJ$0aef9fc2-c208-4b16-bc15-e30f69487f9f
+™	java:S1164"YRename this field "m_expandedIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ó¢ðüÿÿÿÿJ$3eba8f6a-8c22-4f3b-8b45-bc17c16c4c76
+•	java:S1165"ZRename this field "m_collapsedIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™‡ø‘J$e9fefee3-c09d-4b87-b4ec-6b87d551d5a8
 i
-java:S19482"(Make "m_card" transient or serializable.(Ä‘Ü‘þÿÿÿÿJ$e6e33409-4ffa-4ae4-a667-8d276116b6f9
+java:S19482"(Make "m_card" transient or serializable.(Ä‘Ü‘þÿÿÿÿJ$ca712e86-9dc9-4512-b90a-27cd3ecebed9
 q
-java:S19484"0Make "m_expandedIcon" transient or serializable.(€ó¢ðüÿÿÿÿJ$7cd8d360-10db-4b4a-8ba9-06b1600fa015
+java:S19484"0Make "m_expandedIcon" transient or serializable.(€ó¢ðüÿÿÿÿJ$932cdfd2-276d-4440-889e-41baa96bf36d
 m
-java:S19485"1Make "m_collapsedIcon" transient or serializable.(™‡ø‘J$bf3b7f7f-f72d-4d3b-8300-239980f16444
+java:S19485"1Make "m_collapsedIcon" transient or serializable.(™‡ø‘J$6d3903c1-f093-44d4-ad12-bc1af79e236f
 ›
-java:S1149g"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$2bcf81b5-9280-46c0-9d59-41dd29142631
+java:S1149g"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$31517d86-1380-4bb1-abd3-7b27d3597043
 ›
-java:S1149x"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ù¤šÕJ$de8ba0ec-d7dc-499a-85a2-54132a6dfff1
+java:S1149x"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ù¤šÕJ$e65b7059-14f5-4637-b43b-de1ff3add819
 œ
-java:S1149—"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$fdcea23b-aebb-4cf6-89ed-6c259100da39
+java:S1149—"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$265e301b-643c-40bf-b6ff-a028a97584bb
 z
-java:S3252J">Use static access with "javax.swing.SwingConstants" for "TOP".(ÓÓÇ©J$7d03e4a4-289e-442a-8e74-e6406435b457
+java:S3252J">Use static access with "javax.swing.SwingConstants" for "TOP".(ÓÓÇ©J$df1ac9e9-e0bc-4ca0-8f31-812b83e710e6
 v
-java:S1161U":Add the "@Override" annotation above this method signature(×ÅÎ¹J$e19d7760-84c7-4d3c-955c-1ba21cd9a437
+java:S1161U":Add the "@Override" annotation above this method signature(×ÅÎ¹J$a8d80fd2-51c9-43e2-a304-2589150658b3

@@ -1,23 +1,23 @@
 
 „
-java:S2184É"BCast one of the operands of this addition operation to a "double".(¨š‚ºşÿÿÿÿJ$9910e1af-3e1b-4e5e-b830-d5a7cae18b06
-™	java:S116@"^Rename this field "m_amountToTestFront" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨íø…J$7201f302-0c55-492c-8891-4909116eb294
-	java:S116A"]Rename this field "m_amountToTestBack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆìÎøÿÿÿÿJ$f3f8d96c-b946-4950-aa78-4ace1b1beff0
-–	java:S116C"[Rename this field "m_schedulePreset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÆşùJ$3ea5c05e-063c-4aaf-a38e-b6eb165ead74
-•	java:S116D"URename this field "m_schedule" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ŒÃâùÿÿÿÿJ$7509b95d-5d95-4262-b4a0-0c544e2f38fd
-§	java:S116F"gRename this field "m_fixedExpirationTimeEnabled" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏŞíİıÿÿÿÿJ$ac7ef53a-2451-48e2-94fe-1e7535db1dbe
-›	java:S116G"`Rename this field "m_fixedExpirationHour" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÇñàJ$a9d8e605-a015-4400-bfe1-7caf2c0f7588
-¢	java:S116H"bRename this field "m_fixedExpirationMinute" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¨åşÿÿÿÿJ$df62fc0d-78a7-438b-9194-cb54fb4f21c5
-‘	java:S116J"VRename this field "m_limitTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¿‰ÙJ$b59805d1-716e-4956-a909-a12f306c9538
-™	java:S116K"^Rename this field "m_retestFailedCards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¹¯J$79bfaadd-12c5-4daf-867b-49ce373be8b1
-’	java:S116L"RRename this field "m_sides" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºìîŒûÿÿÿÿJ$37ff82a6-5971-4f0b-87b8-f38a303d6a40
-œ	java:S116M"\Rename this field "m_groupByCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÉ†ÿÿÿÿÿJ$68af7362-fab9-467f-ab96-6369f2453813
-š	java:S116N"ZRename this field "m_categoryOrder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒËŞ·üÿÿÿÿJ$4bc5c754-a874-43ef-827d-69d160273332
-™	java:S116O"YRename this field "m_shuffleRatio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹û´üÿÿÿÿJ$8399d597-a2f6-45f4-8deb-79fa10ed6f8e
-	java:S116Q"^Rename this field "m_limitCardsEnabled" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‹ê™şÿÿÿÿJ$0d79389e-afb9-4013-8a2f-0ca2d46159a7
-—	java:S116R"]Rename this field "m_limitTimeEnabled" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¨£XJ$82471a15-f94f-4657-9cbb-227b6b12a77b
-’	java:S116S"WRename this field "m_limitCards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÖÜŒJ$a1e837ce-6361-46e6-95e4-2a74b67cf680
+java:S2184É"BCast one of the operands of this addition operation to a "double".(¨š‚ºşÿÿÿÿJ$e73913ec-0c68-47aa-81f8-8d4a975a623e
+™	java:S116@"^Rename this field "m_amountToTestFront" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨íø…J$2f0c3d93-898e-47b8-859e-f95304bf61da
+	java:S116A"]Rename this field "m_amountToTestBack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆìÎøÿÿÿÿJ$b0c41a40-6b41-4464-a0c2-83620dfa2340
+–	java:S116C"[Rename this field "m_schedulePreset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÆşùJ$f495e50e-d98a-49e7-8b21-a89dd45be3ca
+•	java:S116D"URename this field "m_schedule" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ŒÃâùÿÿÿÿJ$67f22726-c617-44c8-aff8-b3329a2144f4
+§	java:S116F"gRename this field "m_fixedExpirationTimeEnabled" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏŞíİıÿÿÿÿJ$d397122c-5959-495e-983b-7042714521c5
+›	java:S116G"`Rename this field "m_fixedExpirationHour" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÇñàJ$7405545e-e441-4db4-9e64-f5eb172e692f
+¢	java:S116H"bRename this field "m_fixedExpirationMinute" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¨åşÿÿÿÿJ$84ee2920-883d-41fa-9ed8-5bf3dd6f8c92
+‘	java:S116J"VRename this field "m_limitTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¿‰ÙJ$60bcc5a9-e37f-4c35-864a-17118435924f
+™	java:S116K"^Rename this field "m_retestFailedCards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¹¯J$ec38fc8e-bc07-420a-ab0e-015fe289f2ce
+’	java:S116L"RRename this field "m_sides" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºìîŒûÿÿÿÿJ$2a31798a-d7f5-44f4-8b0b-d89d207b9d2c
+œ	java:S116M"\Rename this field "m_groupByCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÉ†ÿÿÿÿÿJ$e454bd9b-4005-4f76-87ce-9a48afa6c644
+š	java:S116N"ZRename this field "m_categoryOrder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒËŞ·üÿÿÿÿJ$8be2b8af-7374-410b-986e-7e698161abe9
+™	java:S116O"YRename this field "m_shuffleRatio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹û´üÿÿÿÿJ$b704d79c-6092-4265-8621-4e09f7ffeb31
+	java:S116Q"^Rename this field "m_limitCardsEnabled" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‹ê™şÿÿÿÿJ$284f8e27-2f59-4acc-b3ab-6b44f823b370
+—	java:S116R"]Rename this field "m_limitTimeEnabled" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¨£XJ$2ff1548c-0c20-4026-ad87-2286f6be9097
+’	java:S116S"WRename this field "m_limitCards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÖÜŒJ$6945b342-b5fb-4e78-887e-614321f29719
 ^
-java:S2386+"Make this member "protected".(ş’„¹ıÿÿÿÿJ$6636a53d-ef08-4149-8d5e-f512afcec143
+java:S2386+"Make this member "protected".(ş’„¹ıÿÿÿÿJ$a3f338bc-c949-4877-9956-766df290aef0
 g
-java:S1197«"*Move the array designators [] to the type.(•‰Ê´J$9a9fe711-adad-4a9b-bbd9-c7872027a658
+java:S1197«"*Move the array designators [] to the type.(•‰Ê´J$0f250120-0893-4858-8a20-135a5bbe852a
