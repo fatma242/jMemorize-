@@ -59,19 +59,14 @@ public class Category implements Events
      * 
      * @param name The name of the new category.
      */
-    public Category(String name)
-    {
-        m_name   = name;
-    }
-<<<<<<< Updated upstream
-    
-=======
-
-    public Category() {
-
+    public Category(String name) {
+        if (name == null || name.isEmpty()) {
+            throw new IllegalArgumentException("Category name cannot be null or empty");
+        }
+        m_name = name;
     }
 
->>>>>>> Stashed changes
+
     /*
      * Card related methods.
      */
@@ -82,51 +77,63 @@ public class Category implements Events
      * 
      * Fires a ADDED_EVENT.
      */
-    public void addCard(Card card)
-    {
+    public void addCard(Card card) {
         addCard(card, 0);
     }
-    
+
+
     /**
      * Adds a card to the deck with given level and fires an event.
      * 
      * Fires a ADDED_EVENT.
      */
-    public void addCard(Card card, int level)
-    {
+    public void addCard(Card card, int level) {
+        if (card == null) {
+            throw new IllegalArgumentException("Card cannot be null");
+        }
+        if (level < 0 || level >= m_decks.size()) {
+            throw new IllegalArgumentException("Invalid card level");
+        }
         addCardInternal(card, level);
-        
         fireCardEvent(ADDED_EVENT, card, card.getCategory(), level);
     }
-    
+
+
     /**
      * Removes a card from its associated deck and fires an event.
      */
-    public void removeCard(Card card)
-    {
+    public void removeCard(Card card) {
+        if (card == null) {
+            throw new IllegalArgumentException("Card cannot be null");
+        }
         int level = card.getLevel();
         Category category = card.getCategory();
+        if (category == null || !this.equals(category)) {
+            throw new IllegalArgumentException("Card does not belong to this category");
+        }
         removeCardInternal(card);
-        
         fireCardEvent(REMOVED_EVENT, card, category, level);
     }
-    
+
     /**
      * Moves the card to a new category, preserving all its fields and its
      * level. This is different from removing and then adding a card because it
      * triggers a single MOVE event instead of a REMOVE and ADD event.
      */
-    public static void moveCard(Card card, Category newCategory)
-    {
+    public static void moveCard(Card card, Category newCategory) {
+        if (card == null || newCategory == null) {
+            throw new IllegalArgumentException("Card and new category cannot be null");
+        }
         int level = card.getLevel();
         Category category = card.getCategory();
-        
+        if (category == null || !category.equals(newCategory)) {
+            throw new IllegalArgumentException("Card does not belong to the source category or new category is different");
+        }
         category.removeCardInternal(card);
         newCategory.addCardInternal(card, level);
-        
         category.fireCardEvent(MOVED_EVENT, card, category, level);
-        newCategory.fireCardEvent(MOVED_EVENT, card, category, level);
-    }
+        newCategory.fireCardEvent(MOVED_EVENT, card, category,level);
+}
     
     /**
      * Removes the card from its current deck and adds it to the next deck. The

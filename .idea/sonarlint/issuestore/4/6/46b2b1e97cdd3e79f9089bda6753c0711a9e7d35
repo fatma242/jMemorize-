@@ -1,44 +1,22 @@
 
-¡
-<<<<<<< Updated upstream
-java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó¼š¡üÿÿÿÿ8ËŠœõ1J$e1bc0ec5-4411-4fe8-bfa9-88fa73ff3839
- 	java:S116V"YRename this field "m_rootCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÔ…µÿÿÿÿÿ8€‚Šœõ1J$f8da548f-13c0-4550-a61c-75e9424af851
-¡	java:S116W"ZRename this field "m_childCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›“şëøÿÿÿÿ8€‚Šœõ1J$94a5d7b9-ad8f-422a-8d60-7f067e93f160
-—	java:S116Y"URename this field "m_rootCard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¾Á¹8€‚Šœõ1J$64857297-38a1-40be-a9f1-8ade2c389e6b
-˜	java:S116Z"VRename this field "m_childCard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùåİï8€‚Šœõ1J$f4d880f7-7765-4293-9753-4ab43150b11e
-š	java:S116\"SRename this field "m_events" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¼š¡üÿÿÿÿ8€‚Šœõ1J$af35d36f-f5f4-4282-a7a9-804c63c17be9
-“	java:S116/"QRename this field "m_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôæğ€8…‚Šœõ1J$5c1d2923-dbb9-4f88-b9b0-3cbde4af9a69
-˜	java:S1160"QRename this field "m_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘Ü‘şÿÿÿÿ8…‚Šœõ1J$9c5d3ff0-e174-4c17-a2bd-a8eef36aec8f
-™	java:S1161"RRename this field "m_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡ú®úÿÿÿÿ8…‚Šœõ1J$eda0aa05-4ef5-4819-896e-ad73388919d0
-“	java:S116E"QRename this field "m_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôæğ€8ˆ‚Šœõ1J$07964066-4961-44c3-b6b5-ab4fc1e5361c
-—	java:S116F"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™ø8‰‚Šœõ1J$dab4083b-67f3-4758-8ef0-48d29ae730e4
-‚
-java:S1161a":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿ8‚Šœõ1J$b50b9b49-49d5-480d-8164-295b0898ad9e
-~
-java:S2209«"5Change this instance-reference to a static reference.(å¹ÿĞùÿÿÿÿ8´‚Šœõ1J$d9a18d0b-aff4-4fba-8ed8-4f00b0096a6e
-y
-java:S2209·"5Change this instance-reference to a static reference.(œñÃá8·‚Šœõ1J$75555252-aa7c-4d1c-b3b5-3705ea059ab7
-v
-java:S1135»"2Complete the task associated to this TODO comment.(°Î½Œ8¸‚Šœõ1J$e82bbb9d-3fc4-4a98-8220-cb7f5337fbea
-=======
-java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó¼š¡üÿÿÿÿ8Ÿµ¿¡õ1J$ecaa70b0-73d9-4860-8d42-1995ef14f9f8
- 	java:S116W"YRename this field "m_rootCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÔ…µÿÿÿÿÿ8şµ¿¡õ1J$452d3c46-ac24-4d1a-9ffc-12833703f3de
-¡	java:S116X"ZRename this field "m_childCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›“şëøÿÿÿÿ8şµ¿¡õ1J$91548b5b-4b93-4b72-8122-c2ab16692b4c
-—	java:S116Z"URename this field "m_rootCard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¾Á¹8şµ¿¡õ1J$d1722e27-e7f5-45c0-9019-dfb08609b97b
-˜	java:S116["VRename this field "m_childCard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùåİï8şµ¿¡õ1J$57b6b024-00fd-47e5-b927-f2fc4919bb2b
-š	java:S116]"SRename this field "m_events" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¼š¡üÿÿÿÿ8şµ¿¡õ1J$21aa7684-f71c-495a-a682-212e8fd70252
-“	java:S1160"QRename this field "m_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôæğ€8…¶¿¡õ1J$bb424fbb-60c3-4ba4-abb4-d4397672d2b3
-˜	java:S1161"QRename this field "m_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘Ü‘şÿÿÿÿ8…¶¿¡õ1J$e242a727-a102-454e-83f6-45ad496e3124
-™	java:S1162"RRename this field "m_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡ú®úÿÿÿÿ8†¶¿¡õ1J$0d692e85-299d-42b5-a116-19cc9826287b
-“	java:S116F"QRename this field "m_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôæğ€8¶¿¡õ1J$23c518d5-b5ab-4a35-8d86-b15dca9f3670
-—	java:S116G"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™ø8¶¿¡õ1J$b2165181-abe5-4241-adae-9aa6c03e9cd0
-‚
-java:S1161b":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿ8¤¶¿¡õ1J$fe1a7eda-c8a5-40c1-b2f0-9f10c6ba3ee1
-	java:S125Î"<This block of commented-out lines of code should be removed.(Ú°à¬8½¶¿¡õ1J$758b464a-85fb-4f6c-8dad-35de7c16e824
-	java:S125…"<This block of commented-out lines of code should be removed.(Ú°à¬8Å¶¿¡õ1J$e971b8d1-6d7d-453d-985e-9704df8da7d4
-	java:S125ª"<This block of commented-out lines of code should be removed.(Ú°à¬8È¶¿¡õ1J$5223362c-09aa-4cc4-b2f0-17bdd1012a26
-y
-java:S2209¸"5Change this instance-reference to a static reference.(œñÃá8Ì¶¿¡õ1J$8754e45f-e302-46b1-a502-9d9c0ddce31c
-v
-java:S1135¼"2Complete the task associated to this TODO comment.(°Î½Œ8Í¶¿¡õ1J$4aab1398-d3c9-411e-bb1e-f72dda38b55d
->>>>>>> Stashed changes
+{
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó¼š¡üÿÿÿÿ8Öúı¢õ1
+z	java:S116W"YRename this field "m_rootCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÔ…µÿÿÿÿÿ8®üı¢õ1
+{	java:S116X"ZRename this field "m_childCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›“şëøÿÿÿÿ8®üı¢õ1
+q	java:S116Z"URename this field "m_rootCard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¾Á¹8¯üı¢õ1
+r	java:S116["VRename this field "m_childCard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùåİï8¯üı¢õ1
+t	java:S116]"SRename this field "m_events" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¼š¡üÿÿÿÿ8¯üı¢õ1
+m	java:S1160"QRename this field "m_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôæğ€8ºüı¢õ1
+r	java:S1161"QRename this field "m_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘Ü‘şÿÿÿÿ8»üı¢õ1
+s	java:S1162"RRename this field "m_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡ú®úÿÿÿÿ8»üı¢õ1
+m	java:S116F"QRename this field "m_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôæğ€8Êüı¢õ1
+q	java:S116G"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™ø8Ëüı¢õ1
+\
+java:S1161b":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿ8×üı¢õ1
+Y	java:S125Î"<This block of commented-out lines of code should be removed.(Ú°à¬8¯ıı¢õ1
+Y	java:S125…"<This block of commented-out lines of code should be removed.(Ú°à¬8¿ıı¢õ1
+Y	java:S125ª"<This block of commented-out lines of code should be removed.(Ú°à¬8Öıı¢õ1
+S
+java:S2209¸"5Change this instance-reference to a static reference.(œñÃá8ßıı¢õ1
+P
+java:S1135¼"2Complete the task associated to this TODO comment.(°Î½Œ8âıı¢õ1

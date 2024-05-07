@@ -18,12 +18,11 @@
  */
 package jmemorize.core;
 
+import jmemorize.core.CardSide.CardSideObserver;
+
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-
-import jmemorize.core.CardSide.CardSideObserver;
-
 
 /**
  * A flash card that has a front/flip side and can be learned.
@@ -35,10 +34,10 @@ public class Card implements Events, Cloneable
 {
     public static final long    ONE_DAY     = 1000 * 60 * 60 * 24;
     public static final boolean CLONE_DATES = Main.isDevel();
-
+    private boolean isFavorite;
     private Category m_category;
     private int      m_level;
-
+    private static List<Card> favoriteCards = new ArrayList<>();
     // content
     private CardSide m_frontSide = new CardSide();
     private CardSide m_backSide  = new CardSide();
@@ -49,16 +48,23 @@ public class Card implements Events, Cloneable
     private Date     m_dateCreated;
     private Date     m_dateModified;
     private Date     m_dateTouched; //this date is used internaly to order cards
-
+    private boolean isFavorite;
+    private static List<Card> favoriteCards = new ArrayList<>();
     // stats
     private int      m_testsTotal;
     private int      m_testsHit;    //succesfull learn repetitions
     private int      m_frontHitsCorrect;
     private int      m_backHitsCorrect;
+<<<<<<< Updated upstream
+=======
     private double rating;
-
+private ArrayList<String> tags = new ArrayList<>();
     private int ratingCount;
     private List<Feedback> feedbackList = new ArrayList<>();
+
+    public Card() {
+
+    }
 
     public static class Feedback{
         private String comment;
@@ -87,6 +93,7 @@ public class Card implements Events, Cloneable
         m_dateModified = new Date();
     }
     
+>>>>>>> Stashed changes
 
     /**
      * Assumes formatted front- and backsides
@@ -124,6 +131,10 @@ public class Card implements Events, Cloneable
         m_backSide = backSide;
         
         attachCardSideObservers();
+    }
+
+    public Card() {
+
     }
 
     /**
@@ -516,4 +527,66 @@ public class Card implements Events, Cloneable
         
         return date;
     }
+<<<<<<< Updated upstream
+
+
+
+
+=======
+>>>>>>> Stashed changes
+    public static List<Card> getAllFavoriteCards() {
+        return favoriteCards;
+    }
+
+    public void markAsFavorite() {
+        isFavorite = true;
+        favoriteCards.add(this);
+    }
+
+    public void removeFromFavorites() {
+        isFavorite = false;
+        favoriteCards.remove(this);
+    }
+
+    public boolean isFavorite() {
+        return isFavorite;
+    }
+<<<<<<< Updated upstream
+=======
+    public void addTag(String tag) {
+        if (!tags.contains(tag)) {
+            tags.add(tag);
+            updateModified();
+        }
+    }
+    public void removeTag(String tag) {
+        if (tags.contains(tag)) {
+            tags.remove(tag);
+            updateModified();
+        }
+    }
+
+    public List<String> getTags() {
+        return new ArrayList<>(tags);
+    }
+
+    public boolean hasTag(String tag) {
+        return tags.contains(tag);
+    }
+    private void updateModified() {
+        m_dateModified = new Date();
+        if (m_category != null) {
+            m_category.fireCardEvent(EDITED_EVENT, this, m_category, m_level);
+        }
+    }
+    public static List<Card> filterByTag(List<Card> cards, String tag) {
+        List<Card> filteredCards = new ArrayList<>();
+        for (Card card : cards) {
+            if (card.hasTag(tag)) {
+                filteredCards.add(card);
+            }
+        }
+        return filteredCards;
+    }
+>>>>>>> Stashed changes
 }
