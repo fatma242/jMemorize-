@@ -63,7 +63,15 @@ public class Category implements Events
     {
         m_name   = name;
     }
+<<<<<<< Updated upstream
     
+=======
+
+    public Category() {
+
+    }
+
+>>>>>>> Stashed changes
     /*
      * Card related methods.
      */

@@ -1,5 +1,6 @@
 
 •
+<<<<<<< Updated upstream
 java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(™·ş¾J$ec8f3d14-db23-40e1-8259-25ba5ea337cb
 •
 java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(®›‘øJ$e9b65d8c-8da9-4aad-91bc-16a2622ae8e9
@@ -20,3 +21,25 @@ java:S1161$":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿ
 c
 java:S1905t"'Remove this unnecessary cast to "Card".(‚ä´ŸJ$6ca18689-614b-40b9-953d-22de7f9363c2
 x	java:S125‰"<This block of commented-out lines of code should be removed.(¥äï¾J$2a095fad-65b8-47de-b488-8f603578cef9
+=======
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(™·ş¾J$ea9fd334-3f27-482f-90b4-911ae4301cfd
+•
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(®›‘øJ$aa536857-22a0-4438-ab8d-b1df0401ed0c
+•
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(™·ş¾J$6fc1dff7-e1b8-4c55-9a33-a19a2227a4f2
+•
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç³ıÚJ$0332451e-3568-4e24-a70e-c2340aaca2c1
+•
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(™·ş¾J$5c72c517-aecc-4bc7-a8f7-8cb1d2b51711
+•
+java:S2293z"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç³ıÚJ$afc52f82-5df0-4f3b-af69-1d678fc6b4b2
+„
+java:S1192="HDefine a constant instead of duplicating this literal "foo.png" 3 times.(ÆÙÈJ$4fe0ae42-001d-43ee-9c07-56fcae123411
+q	java:S116$"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™ø8½Áª¢õ1
+r	java:S116%"QRename this field "m_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘Ü‘şÿÿÿÿ8ÌÁª¢õ1
+\
+java:S1161'":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿ8ØÁª¢õ1
+D
+java:S1905w"'Remove this unnecessary cast to "Card".(‚ä´Ÿ8øÁª¢õ1
+Y	java:S125Œ"<This block of commented-out lines of code should be removed.(¥äï¾8„Âª¢õ1
+>>>>>>> Stashed changes

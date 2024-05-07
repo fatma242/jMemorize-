@@ -24,9 +24,12 @@ import jmemorize.core.Category;
 import junit.framework.TestCase;
 import org.junit.Test;
 
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
+
+import static org.junit.Assert.assertNotEquals;
 
 public class CardTest extends TestCase
 {
@@ -183,5 +186,80 @@ public class CardTest extends TestCase
         assertEquals(2, favoriteCards.size());
         assertTrue(favoriteCards.contains(favoriteCard1));
         assertTrue(favoriteCards.contains(favoriteCard2));
+    }
+    @Test
+    public void testAddTag() {
+        Card card = new Card();
+        card.addTag("tag1");
+        assertTrue(card.hasTag("tag1"));
+
+        // Adding the same tag should not result in duplicates
+        card.addTag("tag1");
+        assertEquals(1, card.getTags().size());
+    }
+
+    @Test
+    public void testRemoveTag() {
+        Card card = new Card();
+        card.addTag("tag1");
+        card.removeTag("tag1");
+        assertFalse(card.hasTag("tag1"));
+
+        // Removing a non-existing tag should have no effect
+        card.removeTag("tag1");
+        assertFalse(card.hasTag("tag1"));
+    }
+
+    @Test
+    public void testGetTags() {
+        Card card = new Card();
+        card.addTag("tag1");
+        card.addTag("tag2");
+        List<String> tags = card.getTags();
+
+        assertEquals(2, tags.size());
+
+        // Modifying the returned list should not affect the original list of tags
+        tags.add("tag3");
+        assertFalse(card.hasTag("tag3"));
+    }
+    @Test
+    public void testHasTag() {
+        Card card = new Card();
+        assertFalse(card.hasTag("tag1"));
+
+        card.addTag("tag1");
+        assertTrue(card.hasTag("tag1"));
+    }
+
+    @Test
+    public void testUpdateModified() {
+        Card card = new Card();
+        Date originalModified = card.getDateModified();
+
+        // Update modified should change the modified date
+        card.addTag("tag1");
+        assertNotEquals(originalModified, card.getDateModified());
+    }
+
+    @Test
+    public void testFilterByTag() {
+        Card card1 = new Card();
+        card1.addTag("tag1");
+
+        Card card2 = new Card();
+        card2.addTag("tag2");
+
+        List<Card> cards = new ArrayList<>();
+        cards.add(card1);
+        cards.add(card2);
+
+        List<Card> filtered = Card.filterByTag(cards, "tag1");
+        assertEquals(1, filtered.size());
+        assertTrue(filtered.contains(card1));
+
+        // Filter by non-existing tag should return an empty list
+        filtered = Card.filterByTag(cards, "tag3");
+        assertTrue(filtered.isEmpty());
     }
 }

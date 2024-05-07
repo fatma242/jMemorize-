@@ -139,6 +139,7 @@ public class Localization
         m_defaultBundle = defaultBundle;
     }
     
+
     /**
      * The list of available languages is stored in the file
      * <tt>/resource/text/langs.txt</tt>. Every line holds a string that

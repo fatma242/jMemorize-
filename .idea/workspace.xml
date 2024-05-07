@@ -5,27 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4dfef5a-e173-42da-ae1b-7d3dff2bb4b4" name="Changes" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/0246484cd172315d68d9f31e358fa8216f03ad15" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/0246484cd172315d68d9f31e358fa8216f03ad15" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/281eb77863b9d3c4cfab5540d7ce39e6162873b9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/281eb77863b9d3c4cfab5540d7ce39e6162873b9" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c09cbf96b9b3be8ebc2bd82a85f564bb258901a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c09cbf96b9b3be8ebc2bd82a85f564bb258901a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46b2b1e97cdd3e79f9089bda6753c0711a9e7d35" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46b2b1e97cdd3e79f9089bda6753c0711a9e7d35" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c09cbf96b9b3be8ebc2bd82a85f564bb258901a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c09cbf96b9b3be8ebc2bd82a85f564bb258901a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46b2b1e97cdd3e79f9089bda6753c0711a9e7d35" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46b2b1e97cdd3e79f9089bda6753c0711a9e7d35" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/746b34a60e8ba5ee8b8fc7a623faa572c07e39bb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/746b34a60e8ba5ee8b8fc7a623faa572c07e39bb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c2a0d15132489af768f658264388b338e0cb1ee" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c2a0d15132489af768f658264388b338e0cb1ee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b79817ce84d43cb3143d5887c490c98da970041f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b79817ce84d43cb3143d5887c490c98da970041f" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/caab127031c0480e8015cd6533d4b64e0c0fb2fe" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/caab127031c0480e8015cd6533d4b64e0c0fb2fe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jMemorize-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jMemorize-.iml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Card$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Card$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Card.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Category.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CardTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CardTest.class" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Category.class" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CategoryTest$CardEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CategoryTest$CardEvent.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CategoryTest$CategoryEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CategoryTest$CategoryEvent.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CategoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CategoryTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/Localization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/Localization.class" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/src/jmemorize/core/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/Card.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jmemorize/core/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/Category.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jmemorize/core/test/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/test/CardTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jmemorize/core/test/CategoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/test/CategoryTest.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/jmemorize/core/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jmemorize/core/test/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/test/CardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jmemorize/core/test/CategoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/test/CategoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jmemorize/core/test/LocalizationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/test/LocalizationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jmemorize/gui/Localization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/gui/Localization.java" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +69,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
@@ -119,6 +140,29 @@
       </method>
     </configuration>
     <configuration name="CategoryTest.testGetAllFavoriteCards" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/OneDrive/Documents/GitHub/jMemorize-&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.CategoryTest.testAddCard">
+    <configuration name="CategoryTest.testAddCard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>> Stashed changes
       <module name="jMemorize-" />
       <extension name="coverage">
         <pattern>
@@ -128,7 +172,43 @@
       </extension>
       <option name="PACKAGE_NAME" value="jmemorize.core.test" />
       <option name="MAIN_CLASS_NAME" value="jmemorize.core.test.CategoryTest" />
+<<<<<<< Updated upstream
       <option name="METHOD_NAME" value="testGetAllFavoriteCards" />
+=======
+      <option name="METHOD_NAME" value="testAddCard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryTest.testMoveCard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jMemorize-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jmemorize.core.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jmemorize.core.test" />
+      <option name="MAIN_CLASS_NAME" value="jmemorize.core.test.CategoryTest" />
+      <option name="METHOD_NAME" value="testMoveCard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryTest.testRemoveCard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jMemorize-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jmemorize.core.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jmemorize.core.test" />
+      <option name="MAIN_CLASS_NAME" value="jmemorize.core.test.CategoryTest" />
+      <option name="METHOD_NAME" value="testRemoveCard" />
+>>>>>>> Stashed changes
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,10 +216,16 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< Updated upstream
         <item itemvalue="JUnit.CardTest.testGetAllFavoriteCards" />
         <item itemvalue="JUnit.CategoryTest.testGetAllFavoriteCards" />
         <item itemvalue="JUnit.CardTest.testRemoveCardFromFavorites" />
         <item itemvalue="JUnit.CardTest.testMarkCardAsFavorite" />
+=======
+        <item itemvalue="JUnit.CategoryTest.testAddCard" />
+        <item itemvalue="JUnit.CategoryTest.testRemoveCard" />
+        <item itemvalue="JUnit.CategoryTest.testMoveCard" />
+>>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
