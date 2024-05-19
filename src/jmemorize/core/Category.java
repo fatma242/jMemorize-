@@ -66,6 +66,10 @@ public class Category implements Events
         m_name = name;
     }
 
+    public Category() {
+
+    }
+
 
     /*
      * Card related methods.

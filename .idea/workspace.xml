@@ -5,47 +5,351 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4dfef5a-e173-42da-ae1b-7d3dff2bb4b4" name="Changes" comment="">
-<<<<<<< Updated upstream
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/0246484cd172315d68d9f31e358fa8216f03ad15" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/0246484cd172315d68d9f31e358fa8216f03ad15" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/281eb77863b9d3c4cfab5540d7ce39e6162873b9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/281eb77863b9d3c4cfab5540d7ce39e6162873b9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c09cbf96b9b3be8ebc2bd82a85f564bb258901a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c09cbf96b9b3be8ebc2bd82a85f564bb258901a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46b2b1e97cdd3e79f9089bda6753c0711a9e7d35" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46b2b1e97cdd3e79f9089bda6753c0711a9e7d35" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c09cbf96b9b3be8ebc2bd82a85f564bb258901a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c09cbf96b9b3be8ebc2bd82a85f564bb258901a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46b2b1e97cdd3e79f9089bda6753c0711a9e7d35" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46b2b1e97cdd3e79f9089bda6753c0711a9e7d35" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/746b34a60e8ba5ee8b8fc7a623faa572c07e39bb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/746b34a60e8ba5ee8b8fc7a623faa572c07e39bb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c2a0d15132489af768f658264388b338e0cb1ee" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c2a0d15132489af768f658264388b338e0cb1ee" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b79817ce84d43cb3143d5887c490c98da970041f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b79817ce84d43cb3143d5887c490c98da970041f" afterDir="false" />
->>>>>>> Stashed changes
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/caab127031c0480e8015cd6533d4b64e0c0fb2fe" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/caab127031c0480e8015cd6533d4b64e0c0fb2fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/application_split.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/application_xp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/arrow_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/arrow_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/card_add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/card_edit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/card_flipped.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/card_next.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/card_prev.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/card_reset.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/category_add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/chart_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/edit_copy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/edit_cut.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/edit_paste.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/file_new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/file_open.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/file_save.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/file_saveas.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/find.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/folder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/forcelearn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/learn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/pdf.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/picture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/picture_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/picture_and_text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/picture_delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/remove.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/rtf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/settings.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/state_forgotten.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/state_no.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/state_ok.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/state_soon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/text_bold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/text_italic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/text_subscript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/text_superscript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/text_underline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/tree.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/icons/warn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/changes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/langs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/translation_cs.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/translation_da.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/translation_de.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/translation_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/translation_eo.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/translation_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/translation_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/translation_ja.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/translation_nl.native" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/translation_no.native" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/translation_pl.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/translation_pt.native" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/translation_sv.native" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/translation_tr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/text/translation_zh.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jMemorize-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jMemorize-.iml" afterDir="false" />
-<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Card$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Card$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/CardSide$CardSideObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/CardSide$CardSideObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/CardSide.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/CardSide.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/CategoryObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/CategoryObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Events.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Events.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/FormattedText$ParseException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/FormattedText$ParseException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/FormattedText.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/FormattedText.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/ImageRepository$ImageItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/ImageRepository$ImageItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/ImageRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/ImageRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Lesson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Lesson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/LessonObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/LessonObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/LessonProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/LessonProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Main$ProgramEndObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Main$ProgramEndObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/SearchTool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/SearchTool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Settings$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Settings$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Settings$CardFontObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Settings$CardFontObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Settings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Settings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/io/CsvBuilder$BadHeaderException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/io/CsvBuilder$BadHeaderException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/io/CsvBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/io/CsvBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/io/PdfRtfBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/io/PdfRtfBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/io/XmlBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/io/XmlBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/DefaultLearnSession$CardComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/DefaultLearnSession$CardComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/DefaultLearnSession$CardInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/DefaultLearnSession$CardInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/DefaultLearnSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/DefaultLearnSession.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory$CalendarComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory$CalendarComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory$DateComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory$DateComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory$MonthComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory$MonthComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory$SessionSummary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory$SessionSummary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory$SimpleComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory$SimpleComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory$WeekComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory$WeekComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory$YearComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory$YearComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnSession$LearnCardObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnSession$LearnCardObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnSession.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnSessionObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnSessionObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnSessionProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnSessionProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnSettings$SchedulePreset.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnSettings$SchedulePreset.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnSettings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/learn/LearnSettings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/AllTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/AllTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CSVToolkitTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CSVToolkitTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CSVToolkitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CSVToolkitTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CardTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CardTest.class" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/Category.class" afterDir="false" />
->>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CategoryTest$CardEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CategoryTest$CardEvent.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CategoryTest$CategoryEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CategoryTest$CategoryEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CategoryTest$TestEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CategoryTest$TestEvent.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CategoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/CategoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/EquivalenceClassSetTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/EquivalenceClassSetTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/EquivalenceClassSetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/EquivalenceClassSetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/EquivalenceClassSetTest2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/EquivalenceClassSetTest2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/EquivalenceClassSetTest2$IntWrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/EquivalenceClassSetTest2$IntWrapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/EquivalenceClassSetTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/EquivalenceClassSetTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/FormattedTextTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/FormattedTextTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/ImageRepositoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/ImageRepositoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/LearnHistoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/LearnHistoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/LearnSessionLargeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/LearnSessionLargeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/LearnSessionShufflingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/LearnSessionShufflingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/LearnSessionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/LearnSessionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/LearnSettingsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/LearnSettingsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/LessonProviderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/LessonProviderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/LocalizationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/LocalizationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/TestHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/TestHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/stubs/LearnSessionProviderStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/stubs/LearnSessionProviderStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/stubs/LearnSessionStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/core/test/stubs/LearnSessionStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/LC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/LC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/Localization$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/Localization$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/Localization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/Localization.class" afterDir="false" />
-<<<<<<< Updated upstream
-      <change beforePath="$PROJECT_DIR$/src/jmemorize/core/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/CardFont$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/CardFont$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/CardFont$FontAlignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/CardFont$FontAlignment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/CardFont$FontType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/CardFont$FontType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/CardFont.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/CardFont.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/CardStatusIcons.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/CardStatusIcons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/ColorConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/ColorConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/GeneralTransferHandler$CardsTransferable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/GeneralTransferHandler$CardsTransferable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/GeneralTransferHandler$CategoryTransferable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/GeneralTransferHandler$CategoryTransferable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/GeneralTransferHandler$FormattedTextSection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/GeneralTransferHandler$FormattedTextSection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/GeneralTransferHandler$FormattedTextTransferable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/GeneralTransferHandler$FormattedTextTransferable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/GeneralTransferHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/GeneralTransferHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/MainMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/MainMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/NewCardFramesManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/NewCardFramesManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/Quiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/Quiz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/SelectionProvider$SelectionObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/SelectionProvider$SelectionObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/SelectionProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/SelectionProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/AboutAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/AboutAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/AbstractAction2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/AbstractAction2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/AbstractSessionDisabledAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/AbstractSessionDisabledAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/LearnAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/LearnAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/OpenURLAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/OpenURLAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/RenameCategoryAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/RenameCategoryAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/ShowCategoryTreeAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/ShowCategoryTreeAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/ShowHistoryAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/ShowHistoryAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/SplitMainFrameAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/SplitMainFrameAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/AddCardAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/AddCardAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/AddCategoryAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/AddCategoryAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/CopyAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/CopyAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/CutAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/CutAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/EditCardAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/EditCardAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/FindAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/FindAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/PasteAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/PasteAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/RemoveAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/RemoveAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/ResetCardAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/edit/ResetCardAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/AbstractExportAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/AbstractExportAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/AbstractImportAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/AbstractImportAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ExitAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ExitAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ExportToCSVAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ExportToCSVAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ExportToCleanLessonAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ExportToCleanLessonAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ExportToPDFAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ExportToPDFAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ExportToRTFAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ExportToRTFAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ImportCSVAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ImportCSVAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ImportJMLAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ImportJMLAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ImportTSVAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/ImportTSVAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/NewLessonAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/NewLessonAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/OpenLessonAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/OpenLessonAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/OpenRecentLessonAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/OpenRecentLessonAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/PreferencesAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/PreferencesAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/SaveLessonAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/SaveLessonAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/SaveLessonAsAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/actions/file/SaveLessonAsAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/AboutDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/AboutDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/AboutDialog$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/AboutDialog$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/AboutDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/AboutDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/ErrorDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/ErrorDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/ErrorDialog$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/ErrorDialog$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/ErrorDialog$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/ErrorDialog$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/ErrorDialog$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/ErrorDialog$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/ErrorDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/ErrorDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/LearnSettingsDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/LearnSettingsDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/LearnSettingsDialog$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/LearnSettingsDialog$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/LearnSettingsDialog$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/LearnSettingsDialog$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/LearnSettingsDialog$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/LearnSettingsDialog$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/LearnSettingsDialog$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/LearnSettingsDialog$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/LearnSettingsDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/LearnSettingsDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/OkayButtonDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/OkayButtonDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/OkayButtonDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/OkayButtonDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/dialogs/PreferencesDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame$NextCardAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame$NextCardAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame$PreviousCardAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame$PreviousCardAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/EditCardFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$CloseAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$CloseAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$FindAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame$FindAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/FindFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/MainFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/MainFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/MainFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/MainFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/MainFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/MainFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/MainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/NewCardFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/NewCardFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/NewCardFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/NewCardFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/NewCardFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/NewCardFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/NewCardFrame$EditRecentCardAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/NewCardFrame$EditRecentCardAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/NewCardFrame$NewWindowAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/NewCardFrame$NewWindowAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/NewCardFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/frames/NewCardFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardCounterPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardCounterPanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardCounterPanel$2$LearnCardObs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardCounterPanel$2$LearnCardObs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardCounterPanel$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardCounterPanel$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardCounterPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardCounterPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardHeaderPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardHeaderPanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardHeaderPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardHeaderPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$AbstractStyledTextAction$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$AbstractStyledTextAction$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$AbstractStyledTextAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$AbstractStyledTextAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$BoldAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$BoldAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$CardPanelObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$CardPanelObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$InsertImageAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$InsertImageAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$ItalicAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$ItalicAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$RemoveImageAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$RemoveImageAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$ShowCardSideButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$ShowCardSideButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$SubAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$SubAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$SupAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$SupAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$UnderlineAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel$UnderlineAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$CardImageObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$CardImageObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$CenteredBoxView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$CenteredBoxView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$Mode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$Mode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$MyEditorKit$StyledViewFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$MyEditorKit$StyledViewFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$MyEditorKit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$MyEditorKit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$ScaledImagePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$ScaledImagePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$SetImageModeAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel$SetImageModeAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/CardSidePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckChartPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckChartPanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckChartPanel$MouseClicked.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckChartPanel$MouseClicked.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckChartPanel$MyBarRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckChartPanel$MyBarRenderer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckChartPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckChartPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckTablePanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckTablePanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckTablePanel$NextDeckAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckTablePanel$NextDeckAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckTablePanel$PreviousDeckAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckTablePanel$PreviousDeckAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckTablePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/DeckTablePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/HistoryChartPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/HistoryChartPanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/HistoryChartPanel$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/HistoryChartPanel$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/HistoryChartPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/HistoryChartPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnPanel$StopAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnPanel$StopAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/LearnSettingPanels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/QuizPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/QuizPanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/QuizPanel$AbstractLearnAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/QuizPanel$AbstractLearnAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/QuizPanel$NoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/QuizPanel$NoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/QuizPanel$ShowAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/QuizPanel$ShowAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/QuizPanel$SkipAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/QuizPanel$SkipAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/QuizPanel$YesAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/QuizPanel$YesAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/QuizPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/QuizPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/SessionChartPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/SessionChartPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/StatusBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/StatusBar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/ThinkQuiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/ThinkQuiz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/TimerPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/TimerPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/TwoSidesCardPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/TwoSidesCardPanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/TwoSidesCardPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/TwoSidesCardPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/TypeInQuiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/panels/TypeInQuiz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$CardComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$CardComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$DateExpiredRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$DateExpiredRenderer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$DateRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$DateRenderer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$SideRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$SideRenderer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$SortableHeaderRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$SortableHeaderRenderer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$TextRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$TextRenderer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$ViewModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable$ViewModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CardTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryComboBox$CatergoryRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryComboBox$CatergoryRenderer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryComboBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryComboBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree$ActionWrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree$ActionWrapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree$CategoryTreeModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree$CategoryTreeModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree$CellEditor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree$CellEditor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree$CellRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree$CellRenderer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/CategoryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/ExtentProgressBar$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/ExtentProgressBar$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/ExtentProgressBar$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/ExtentProgressBar$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/ExtentProgressBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/ExtentProgressBar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/PartialProgressBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/gui/swing/widgets/PartialProgressBar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/Arrow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/Arrow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/BareBonesBrowserLaunch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/BareBonesBrowserLaunch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/EquivalenceClassSet$EqvPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/EquivalenceClassSet$EqvPosition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/EquivalenceClassSet$LoopIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/EquivalenceClassSet$LoopIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/EquivalenceClassSet$OnePassIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/EquivalenceClassSet$OnePassIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/EquivalenceClassSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/EquivalenceClassSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/EscapableFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/EscapableFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/EscapableFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/EscapableFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/EscapableFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/EscapableFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/ExtensionFileFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/ExtensionFileFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/NaturalOrderComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/NaturalOrderComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/PreferencesTool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/PreferencesTool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/RecentItems$RecentItemsObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/RecentItems$RecentItemsObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/RecentItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/RecentItems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/ReverseOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/ReverseOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/TimeSpan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jMemorize-/jmemorize/util/TimeSpan.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jmemorize/core/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jmemorize/core/test/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/test/CardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jmemorize/core/test/CategoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/test/CategoryTest.java" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/src/jmemorize/core/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jmemorize/core/test/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/test/CardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jmemorize/core/test/CategoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/test/CategoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jmemorize/core/test/LocalizationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/core/test/LocalizationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jmemorize/gui/Localization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmemorize/gui/Localization.java" afterDir="false" />
->>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +366,13 @@
     <option name="projectConfigVersion" value="5" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
+        &quot;associatedIndex&quot;: 0
+        }</component>
   <component name="ProjectId" id="2f9NMh1xY5djv7VH3qhP5sYEocl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< Updated upstream
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
@@ -80,184 +383,37 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/LENOVO/OneDrive/Documents/GitHub/jMemorize-",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+    "last_opened_file_path": "C:/Users/LENOVO/OneDrive/Documents/GitHub/jMemorize-/src",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.CardTest.testGetAllFavoriteCards">
-    <configuration name="CardTest.testGetAllFavoriteCards" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jMemorize-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jmemorize.core.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jmemorize.core.test" />
-      <option name="MAIN_CLASS_NAME" value="jmemorize.core.test.CardTest" />
-      <option name="METHOD_NAME" value="testGetAllFavoriteCards" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CardTest.testMarkCardAsFavorite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jMemorize-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jmemorize.core.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jmemorize.core.test" />
-      <option name="MAIN_CLASS_NAME" value="jmemorize.core.test.CardTest" />
-      <option name="METHOD_NAME" value="testMarkCardAsFavorite" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CardTest.testRemoveCardFromFavorites" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jMemorize-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jmemorize.core.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jmemorize.core.test" />
-      <option name="MAIN_CLASS_NAME" value="jmemorize.core.test.CardTest" />
-      <option name="METHOD_NAME" value="testRemoveCardFromFavorites" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CategoryTest.testGetAllFavoriteCards" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-=======
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/OneDrive/Documents/GitHub/jMemorize-&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  }
-}</component>
-  <component name="RunManager" selected="JUnit.CategoryTest.testAddCard">
-    <configuration name="CategoryTest.testAddCard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
->>>>>>> Stashed changes
-      <module name="jMemorize-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jmemorize.core.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jmemorize.core.test" />
-      <option name="MAIN_CLASS_NAME" value="jmemorize.core.test.CategoryTest" />
-<<<<<<< Updated upstream
-      <option name="METHOD_NAME" value="testGetAllFavoriteCards" />
-=======
-      <option name="METHOD_NAME" value="testAddCard" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CategoryTest.testMoveCard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jMemorize-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jmemorize.core.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jmemorize.core.test" />
-      <option name="MAIN_CLASS_NAME" value="jmemorize.core.test.CategoryTest" />
-      <option name="METHOD_NAME" value="testMoveCard" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CategoryTest.testRemoveCard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jMemorize-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jmemorize.core.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jmemorize.core.test" />
-      <option name="MAIN_CLASS_NAME" value="jmemorize.core.test.CategoryTest" />
-      <option name="METHOD_NAME" value="testRemoveCard" />
->>>>>>> Stashed changes
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-<<<<<<< Updated upstream
-        <item itemvalue="JUnit.CardTest.testGetAllFavoriteCards" />
-        <item itemvalue="JUnit.CategoryTest.testGetAllFavoriteCards" />
-        <item itemvalue="JUnit.CardTest.testRemoveCardFromFavorites" />
-        <item itemvalue="JUnit.CardTest.testMarkCardAsFavorite" />
-=======
-        <item itemvalue="JUnit.CategoryTest.testAddCard" />
-        <item itemvalue="JUnit.CategoryTest.testRemoveCard" />
-        <item itemvalue="JUnit.CategoryTest.testMoveCard" />
->>>>>>> Stashed changes
-      </list>
-    </recent_temporary>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\OneDrive\Documents\GitHub\jMemorize-\src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b4dfef5a-e173-42da-ae1b-7d3dff2bb4b4" name="Changes" comment="" />
-      <created>1713209288924</created>
+      <changelist id="bbf1838b-2f78-4d6e-ae05-2824e440fbe6" name="Changes" comment="" />
+      <created>1716055551950</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1713209288924</updated>
-      <workItem from="1713209289913" duration="1107000" />
-      <workItem from="1713387345273" duration="28000" />
-      <workItem from="1713439291695" duration="987000" />
-      <workItem from="1713542829949" duration="710000" />
-      <workItem from="1713545337456" duration="756000" />
-      <workItem from="1713896735064" duration="23000" />
-      <workItem from="1714587778919" duration="8027000" />
-      <workItem from="1714908479649" duration="4839000" />
-      <workItem from="1714998133212" duration="7893000" />
-      <workItem from="1715077624359" duration="4563000" />
-      <workItem from="1715086412130" duration="74000" />
-      <workItem from="1715086508945" duration="552000" />
-      <workItem from="1715088603998" duration="509000" />
+      <updated>1716055551950</updated>
+      <workItem from="1716055553023" duration="4382000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+  <component name="UsageViewManager">
+    <global_settings />
+  </component>
+  <component name="WorkspaceConfiguration">
+    <option name="showURL" value="false" />
+  </component>
+  <component name="spaceSettings">
+    <option name="PROJECT_ID" value="4138" />
   </component>
 </project>
